@@ -65,8 +65,8 @@ export default function SignUp() {
     return (
         <>
             <div className="col-md-9">
-                <div className="card shadow-sm border p-4 m-auto" style={{ maxWidth: "500px" }}>
-                    <h3 className="text-center fw-bold text-danger mb-4"> ĐĂNG KÝ HỌC VIÊN MỚI</h3>
+                <div className="card p-4 m-auto" style={{ maxWidth: "460px", borderTop: "3px solid var(--jp-accent)" }}>
+                    <h3 className="text-center fw-bold mb-4" style={{ color: "var(--jp-text-primary)", letterSpacing: "-0.02em" }}>Đăng Ký Học Viên Mới</h3>
                     {msgError.length > 0 && (
                         <div className="alert alert-danger py-2">
                             <ul className="mb-0 ps-3">
@@ -76,7 +76,7 @@ export default function SignUp() {
                     )}
                     <Form onSubmit={e => { e.preventDefault(); handleSignUp(); }}>
                         <Form.Group className='mb-3'>
-                            <Form.Label className="fw-bold">Email *</Form.Label>
+                            <Form.Label className="fw-bold" style={{ fontSize: "14px", color: "var(--jp-text-secondary)" }}>Email *</Form.Label>
                             <Form.Control
                                 type="email"
                                 placeholder="Nhập địa chỉ email..."
@@ -86,7 +86,7 @@ export default function SignUp() {
                             />
                         </Form.Group>
                         <Form.Group className='mb-3'>
-                            <Form.Label className="fw-bold">Mật khẩu *</Form.Label>
+                            <Form.Label className="fw-bold" style={{ fontSize: "14px", color: "var(--jp-text-secondary)" }}>Mật khẩu *</Form.Label>
                             <Form.Control
                                 type='password'
                                 placeholder="Nhập mật khẩu của bạn..."
@@ -96,7 +96,7 @@ export default function SignUp() {
                             />
                         </Form.Group>
                         <Form.Group className='mb-3'>
-                            <Form.Label className="fw-bold">Họ và tên *</Form.Label>
+                            <Form.Label className="fw-bold" style={{ fontSize: "14px", color: "var(--jp-text-secondary)" }}>Họ và tên *</Form.Label>
                             <Form.Control
                                 type="text"
                                 placeholder="Nhập họ tên đầy đủ..."

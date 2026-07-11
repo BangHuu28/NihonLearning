@@ -1,5 +1,5 @@
 import { useParams, Link } from "react-router-dom";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import axios from "axios";
 import Aside from "../templates/Aside";
 
@@ -11,7 +11,35 @@ export default function LessonDetail() {
     const [activeTab, setActiveTab] = useState("vocab");
     const [searchVocab, setSearchVocab] = useState("");
 
+    // --- TIẾN ĐỘ & USER STATES ---
+    const [userKey, setUserKey] = useState(null);
+    const [isLessonCompleted, setIsLessonCompleted] = useState(false);
+
+    // --- LUYỆN TẬP QUIZ STATES ---
+    const [quizStarted, setQuizStarted] = useState(false);
+    const [quizQuestions, setQuizQuestions] = useState([]);
+    const [currentQuizIdx, setCurrentQuizIdx] = useState(0);
+    const [selectedOptionIdx, setSelectedOptionIdx] = useState(null);
+    const [showFeedback, setShowFeedback] = useState(false);
+    const [quizScore, setQuizScore] = useState(0);
+    const [quizFinished, setQuizFinished] = useState(false);
+
     useEffect(() => {
+        // Lấy thông tin user đăng nhập
+        const storedAccount = localStorage.getItem("account");
+        if (storedAccount) {
+            const account = JSON.parse(storedAccount);
+            const key = account.email || account.uId;
+            setUserKey(key);
+
+            // Kiểm tra xem bài học này đã hoàn thành chưa
+            const storedProgress = localStorage.getItem(`completed_lessons_${key}`);
+            if (storedProgress) {
+                const completedList = JSON.parse(storedProgress);
+                setIsLessonCompleted(completedList.includes(lessonId));
+            }
+        }
+
         // Lấy thông tin bài học
         axios.get(`http://localhost:9998/lessons/${lessonId}`)
             .then(res => setLesson(res.data))
@@ -31,7 +59,7 @@ export default function LessonDetail() {
             .catch(err => console.error("Lỗi lấy danh sách Hán tự:", err));
     }, [level, lessonId]);
 
-    // Lọc từ vựng theo ô tìm kiếm (hỗ trợ cả meanings array)
+    // Lọc từ vựng theo ô tìm kiếm
     const filteredVocab = vocabularies.filter(v => {
         const search = searchVocab.toLowerCase();
         const meaningStr = Array.isArray(v.meanings) ? v.meanings.join(', ') : (v.meaning || '');
@@ -56,25 +84,34 @@ export default function LessonDetail() {
     };
 
     const handleSpeak = (text) => {
+        window.speechSynthesis.cancel();
         const utterance = new SpeechSynthesisUtterance(text);
         utterance.lang = "ja-JP";
         window.speechSynthesis.speak(utterance);
     };
 
-    // Helper: hiển thị meanings (hỗ trợ cả array và string)
+    // Helper hiển thị nghĩa
     const getMeaningDisplay = (v) => {
+        if (Array.isArray(v.meanings) && v.meanings.length > 0) {
+            return v.meanings[0]; // Lấy nghĩa chính đầu tiên để làm quiz trắc nghiệm ngắn gọn
+        }
+        return v.meaning || '';
+    };
+
+    // Helper hiển thị nghĩa đầy đủ trong bảng từ vựng
+    const getFullMeaningDisplay = (v) => {
         if (Array.isArray(v.meanings) && v.meanings.length > 0) {
             return v.meanings.join(', ');
         }
         return v.meaning || '';
     };
 
-    // Helper: hiển thị reading
+    // Helper hiển thị reading
     const getReadingDisplay = (v) => {
         return v.reading || v.kana || '';
     };
 
-    // Helper: hiển thị examples
+    // Helper hiển thị examples
     const getExampleDisplay = (v) => {
         if (v.examples && Array.isArray(v.examples) && v.examples.length > 0) {
             return v.examples.map((ex, i) => (
@@ -87,6 +124,110 @@ export default function LessonDetail() {
         }
         return v.example || '—';
     };
+
+    // --- KHỞI TẠO QUIZ NGẪU NHIÊN 15 CÂU ---
+    const startQuiz = () => {
+        if (vocabularies.length === 0) {
+            alert("Không có từ vựng nào trong bài này để tạo bài tập!");
+            return;
+        }
+
+        // Trộn ngẫu nhiên từ vựng để lấy tối đa 15 câu hỏi
+        const shuffledVocab = [...vocabularies].sort(() => 0.5 - Math.random());
+        const targetVocabs = shuffledVocab.slice(0, Math.min(15, shuffledVocab.length));
+
+        const generatedQuestions = targetVocabs.map(target => {
+            const correctAnswerText = getMeaningDisplay(target);
+
+            // Tìm các nghĩa sai (nhiễu) từ các từ vựng khác cùng bài học
+            const otherMeanings = vocabularies
+                .filter(v => v.id !== target.id)
+                .map(v => getMeaningDisplay(v))
+                .filter((val, idx, self) => val && self.indexOf(val) === idx); // độc nhất
+
+            // Trộn ngẫu nhiên các nghĩa nhiễu và lấy ra 3 nghĩa
+            const distractors = otherMeanings.sort(() => 0.5 - Math.random()).slice(0, 3);
+
+            // Bổ sung các câu nhiễu mặc định nếu bài học quá ít từ vựng
+            while (distractors.length < 3) {
+                distractors.push(`Lựa chọn sai dự phòng ${distractors.length + 1}`);
+            }
+
+            // Trộn đáp án đúng vào danh sách 4 lựa chọn
+            const options = [...distractors, correctAnswerText].sort(() => 0.5 - Math.random());
+            const correctIndex = options.indexOf(correctAnswerText);
+
+            return {
+                word: target.word,
+                reading: getReadingDisplay(target),
+                options: options,
+                correctAnswerIndex: correctIndex,
+                correctAnswer: correctAnswerText
+            };
+        });
+
+        setQuizQuestions(generatedQuestions);
+        setCurrentQuizIdx(0);
+        setSelectedOptionIdx(null);
+        setShowFeedback(false);
+        setQuizScore(0);
+        setQuizStarted(true);
+        setQuizFinished(false);
+    };
+
+    // --- XỬ LÝ CHỌN ĐÁP ÁN ---
+    const handleSelectOption = useCallback((idx) => {
+        if (showFeedback || quizFinished) return;
+        setSelectedOptionIdx(idx);
+        setShowFeedback(true);
+
+        const currentQuestion = quizQuestions[currentQuizIdx];
+        const isCorrect = idx === currentQuestion.correctAnswerIndex;
+        if (isCorrect) {
+            setQuizScore(prev => prev + 1);
+        }
+
+        // Chờ 1.2 giây rồi chuyển tiếp
+        setTimeout(() => {
+            if (currentQuizIdx < quizQuestions.length - 1) {
+                setCurrentQuizIdx(prev => prev + 1);
+                setSelectedOptionIdx(null);
+                setShowFeedback(false);
+            } else {
+                // Hoàn thành toàn bộ Quiz
+                setQuizFinished(true);
+                setQuizStarted(false);
+
+                // Lưu tiến độ vào LocalStorage của học viên
+                if (userKey) {
+                    const storedKey = `completed_lessons_${userKey}`;
+                    const completedList = JSON.parse(localStorage.getItem(storedKey) || "[]");
+                    if (!completedList.includes(lessonId)) {
+                        completedList.push(lessonId);
+                        localStorage.setItem(storedKey, JSON.stringify(completedList));
+                    }
+                    setIsLessonCompleted(true);
+                }
+            }
+        }, 1200);
+    }, [showFeedback, quizFinished, quizQuestions, currentQuizIdx, userKey, lessonId]);
+
+    // --- LẮNG NGHE PHÍM 1, 2, 3, 4 ---
+    useEffect(() => {
+        if (activeTab !== "practice" || !quizStarted || quizFinished || showFeedback) return;
+
+        const handleKeyDown = (e) => {
+            if (e.key === "1") handleSelectOption(0);
+            else if (e.key === "2") handleSelectOption(1);
+            else if (e.key === "3") handleSelectOption(2);
+            else if (e.key === "4") handleSelectOption(3);
+        };
+
+        window.addEventListener("keydown", handleKeyDown);
+        return () => {
+            window.removeEventListener("keydown", handleKeyDown);
+        };
+    }, [activeTab, quizStarted, quizFinished, showFeedback, currentQuizIdx, quizQuestions, handleSelectOption]);
 
     if (!lesson) {
         return (
@@ -109,7 +250,16 @@ export default function LessonDetail() {
                     </ol>
                 </nav>
 
-                <h2 className="fw-bold mb-4 text-dark border-bottom pb-2"> {lesson.title}</h2>
+                <div className="d-flex align-items-center justify-content-between border-bottom pb-2 mb-4">
+                    <h2 className="fw-bold mb-0 text-dark">
+                        {lesson.title}
+                        {isLessonCompleted && (
+                            <span className="badge bg-success ms-3 fs-6 align-middle">
+                                ✓ Completed
+                            </span>
+                        )}
+                    </h2>
+                </div>
 
                 {/* Tabs */}
                 <ul className="nav nav-tabs mb-4">
@@ -137,6 +287,18 @@ export default function LessonDetail() {
                             Ngữ Pháp Cốt Lõi
                         </button>
                     </li>
+                    <li className="nav-item">
+                        <button
+                            className={`nav-link fw-bold ${activeTab === "practice" ? "active text-danger" : "text-muted"}`}
+                            onClick={() => {
+                                setActiveTab("practice");
+                                setQuizStarted(false);
+                                setQuizFinished(false);
+                            }}
+                        >
+                            Quiz
+                        </button>
+                    </li>
                 </ul>
 
                 {/* Tab Contents */}
@@ -159,7 +321,7 @@ export default function LessonDetail() {
                                     <tr>
                                         <th>Từ vựng</th>
                                         <th>Cách đọc</th>
-                                        <th>Nghĩa (EN)</th>
+                                        <th>Nghĩa (VN)</th>
                                         <th>Ví dụ minh họa</th>
                                         <th>Phát âm</th>
                                     </tr>
@@ -169,7 +331,7 @@ export default function LessonDetail() {
                                         <tr key={v.id}>
                                             <td className="fw-bold text-center" style={{ fontSize: "18px" }}>{v.word}</td>
                                             <td className="text-danger text-center">{getReadingDisplay(v)}</td>
-                                            <td className="fw-semibold">{getMeaningDisplay(v)}</td>
+                                            <td className="fw-semibold">{getFullMeaningDisplay(v)}</td>
                                             <td style={{ fontSize: "14px" }}>{getExampleDisplay(v)}</td>
                                             <td className="text-center">
                                                 <button
@@ -259,6 +421,128 @@ export default function LessonDetail() {
                                 </div>
                             ))}
                         </div>
+                    </div>
+                )}
+
+                {/* TAB LUYỆN TẬP QUIZ TRẮC NGHIỆM */}
+                {activeTab === "practice" && (
+                    <div className="py-3">
+                        {/* 1. Màn hình bắt đầu */}
+                        {!quizStarted && !quizFinished && (
+                            <div className="text-center py-5 bg-light rounded shadow-sm border">
+                                <h3 className="fw-bold text-danger mb-3">Bài tập trắc nghiệm</h3>
+                                <p className="text-muted mb-4 px-3" style={{ maxWidth: "600px", margin: "0 auto" }}>
+                                    Random 15 câu hỏi trắc nghiệm của từ vựng có trong bài {lesson.title}.
+                                </p>
+                                <button className="btn btn-danger fw-bold px-4 py-2" onClick={startQuiz}>
+                                    Start
+                                </button>
+                            </div>
+                        )}
+
+                        {/* 2. Màn hình đang làm bài */}
+                        {quizStarted && !quizFinished && quizQuestions.length > 0 && (
+                            <div className="card shadow border-0 p-4" style={{ borderRadius: "16px" }}>
+                                {/* Tiến độ câu hỏi */}
+                                <div className="d-flex justify-content-between align-items-center mb-4 border-bottom pb-2">
+                                    <span className="fw-bold text-muted">
+                                        Câu hỏi: {currentQuizIdx + 1} / {quizQuestions.length}
+                                    </span>
+                                    <span className="badge bg-danger">
+                                        Đang trả lời đúng: {quizScore}
+                                    </span>
+                                </div>
+
+                                {/* Chữ tiếng Nhật câu hỏi */}
+                                <div className="text-center my-4 py-3 bg-light rounded-3">
+                                    <h1 className="display-2 fw-bold text-dark mb-2">
+                                        {quizQuestions[currentQuizIdx].word}
+                                    </h1>
+                                    {quizQuestions[currentQuizIdx].reading && (
+                                        <h4 className="text-muted">({quizQuestions[currentQuizIdx].reading})</h4>
+                                    )}
+                                </div>
+
+                                {/* 4 lựa chọn hiển thị Grid 2x2 */}
+                                <div className="row mt-3">
+                                    {quizQuestions[currentQuizIdx].options.map((opt, idx) => {
+                                        let btnClass = "bg-white text-dark border-secondary-subtle";
+                                        if (showFeedback) {
+                                            if (idx === quizQuestions[currentQuizIdx].correctAnswerIndex) {
+                                                btnClass = "bg-success text-white border-success shadow";
+                                            } else if (idx === selectedOptionIdx) {
+                                                btnClass = "bg-danger text-white border-danger shadow";
+                                            }
+                                        } else if (idx === selectedOptionIdx) {
+                                            btnClass = "bg-primary text-white border-primary shadow";
+                                        }
+
+                                        return (
+                                            <div className="col-md-6 mb-3" key={idx}>
+                                                <div
+                                                    className={`card p-3 d-flex flex-row align-items-center rounded-3 cursor-pointer border ${btnClass}`}
+                                                    onClick={() => handleSelectOption(idx)}
+                                                    style={{
+                                                        minHeight: "75px",
+                                                        cursor: "pointer",
+                                                        transition: "all 0.15s ease",
+                                                        pointerEvents: showFeedback ? "none" : "auto"
+                                                    }}
+                                                >
+                                                    {/* Vòng tròn số thứ tự */}
+                                                    <div
+                                                        className="rounded-circle d-flex align-items-center justify-content-center me-3 font-weight-bold shadow-sm"
+                                                        style={{
+                                                            width: "36px",
+                                                            height: "36px",
+                                                            backgroundColor: idx === selectedOptionIdx || (showFeedback && idx === quizQuestions[currentQuizIdx].correctAnswerIndex) ? "rgba(255,255,255,0.2)" : "#f1f3f5",
+                                                            color: idx === selectedOptionIdx || (showFeedback && idx === quizQuestions[currentQuizIdx].correctAnswerIndex) ? "white" : "#495057",
+                                                            fontSize: "15px",
+                                                            flexShrink: 0
+                                                        }}
+                                                    >
+                                                        {idx + 1}
+                                                    </div>
+                                                    <div className="fs-5 fw-semibold text-start">{opt}</div>
+                                                </div>
+                                            </div>
+                                        );
+                                    })}
+                                </div>
+
+                                {/* Hướng dẫn sử dụng bàn phím nhanh */}
+                                <div className="text-center text-muted small mt-4 pt-3 border-top">
+                                    Trên máy tính, sử dụng phím <strong>1, 2, 3, 4</strong> để chọn nhanh
+                                </div>
+                            </div>
+                        )}
+
+                        {/* 3. Màn hình hoàn thành bài tập */}
+                        {quizFinished && (
+                            <div className="text-center py-5 bg-white rounded shadow-sm border">
+                                <h2 className="fw-bold text-success mt-3 mb-2">Hoàn Thành Luyện Tập!</h2>
+                                <h4 className="text-muted mb-4">
+                                    Bạn đã trả lời đúng <strong>{quizScore} / {quizQuestions.length}</strong> câu hỏi.
+                                </h4>
+
+                                {isLessonCompleted ? (
+                                    <div className="alert alert-success d-inline-block px-4 py-2 mb-4">
+                                        ✓ Bạn đã hoàn thành bài học này!
+                                    </div>
+                                ) : (
+                                    <p className="text-muted mb-4">Đăng nhập tài khoản để lưu trữ lại lịch sử hoạt động học tập.</p>
+                                )}
+
+                                <div className="d-flex justify-content-center gap-3">
+                                    <button className="btn btn-outline-danger fw-bold" onClick={startQuiz}>
+                                        Luyện tập lại
+                                    </button>
+                                    <Link to={`/levels/${level}`} className="btn btn-danger text-white fw-bold">
+                                        Quay về bài học khác
+                                    </Link>
+                                </div>
+                            </div>
+                        )}
                     </div>
                 )}
             </div>

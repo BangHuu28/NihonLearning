@@ -463,7 +463,7 @@ export default function AdminDashboard() {
                                                     <td className="text-danger text-center">{v.reading || v.kana}</td>
                                                     <td>{Array.isArray(v.meanings) ? v.meanings.join(', ') : v.meaning}</td>
                                                     <td className="text-center">
-                                                        <Button size="sm" variant="outline-primary" className="me-1 py-0 px-2" onClick={() => handleEditVocab(v)}>
+                                                        <Button size="sm" variant="outline-info" className="me-1 py-0 px-2" onClick={() => handleEditVocab(v)}>
                                                             Sửa
                                                         </Button>
                                                         <Button size="sm" variant="outline-danger" className="py-0 px-2" onClick={() => handleDeleteVocab(v.id)}>

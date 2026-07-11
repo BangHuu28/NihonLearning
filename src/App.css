@@ -1,10 +1,14 @@
+/* ============================================
+   JAPANDI COMPONENT STYLES — NihonLearning
+   ============================================ */
+
 /* ===== App Layout ===== */
 .app-wrapper {
   width: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%);
+  background: var(--jp-bg-main);
 }
 
 .app-content {
@@ -17,28 +21,64 @@
 
 /* ===== Header ===== */
 .site-header {
-  background: linear-gradient(135deg, #c0392b 0%, #e74c3c 50%, #ff6b6b 100%);
-  padding: 16px 32px;
-  color: white;
-  box-shadow: 0 4px 20px rgba(231, 76, 60, 0.3);
+  background: var(--jp-bg-dark);
+  padding: 14px 32px;
+  color: var(--jp-text-inverse);
+  border-bottom: none;
+  box-shadow: none;
 }
 
-.site-header a,
-.site-header .btn-outline-light,
-.site-header .btn-light {
-  transition: all 0.25s ease;
+.site-header a {
+  transition: opacity var(--jp-duration) var(--jp-ease);
+}
+
+.site-header a:hover {
+  opacity: 0.85;
+}
+
+.site-header .btn-outline-light {
+  border-color: rgba(248, 247, 244, 0.3);
+  color: var(--jp-text-inverse);
+  font-weight: 500;
+  border-radius: var(--jp-radius-sm);
+  transition: all var(--jp-duration) var(--jp-ease);
 }
 
 .site-header .btn-outline-light:hover {
-  background: rgba(255, 255, 255, 0.15);
-  transform: translateY(-1px);
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(248, 247, 244, 0.5);
+  transform: none;
+}
+
+.site-header .btn-light {
+  background: var(--jp-accent);
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: var(--jp-radius-sm);
+}
+
+.site-header .btn-light:hover {
+  background: var(--jp-accent-hover);
+}
+
+.site-header .btn-warning {
+  background: var(--jp-terracotta);
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: var(--jp-radius-sm);
+}
+
+.site-header .btn-warning:hover {
+  background: var(--jp-terracotta-hover);
 }
 
 /* ===== Navigation Menu ===== */
 .site-nav {
-  background: #ffffff;
-  border-bottom: 3px solid #e74c3c;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  background: var(--jp-bg-surface);
+  border-bottom: 1px solid var(--jp-border);
+  box-shadow: none;
   padding: 0 32px;
   position: sticky;
   top: 0;
@@ -55,19 +95,21 @@
 
 .site-nav .nav-link {
   padding: 14px 20px;
-  font-weight: 600;
-  font-size: 15px;
-  color: #2d3436 !important;
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--jp-text-secondary) !important;
   border-radius: 0;
-  border-bottom: 3px solid transparent;
-  margin-bottom: -3px;
-  transition: all 0.2s ease;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: color var(--jp-duration) var(--jp-ease),
+              border-color var(--jp-duration) var(--jp-ease);
+  letter-spacing: 0.02em;
 }
 
 .site-nav .nav-link:hover {
-  color: #e74c3c !important;
-  background: rgba(231, 76, 60, 0.05);
-  border-bottom-color: #e74c3c;
+  color: var(--jp-text-primary) !important;
+  background: transparent;
+  border-bottom-color: var(--jp-accent);
 }
 
 /* Dropdown Custom behavior */
@@ -80,10 +122,10 @@
   position: absolute;
   top: 100%;
   left: 0;
-  background: white;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  background: var(--jp-bg-surface);
+  border: 1px solid var(--jp-border);
+  border-radius: var(--jp-radius-md);
+  box-shadow: var(--jp-shadow-lg);
   z-index: 1000;
   min-width: 200px;
   padding: 12px;
@@ -97,13 +139,17 @@
   padding: 8px 14px !important;
   font-size: 13px;
   font-weight: 600;
-  border-radius: 6px;
-  transition: all 0.2s ease;
+  border-radius: var(--jp-radius-sm);
+  transition: all var(--jp-duration) var(--jp-ease);
+  background: var(--jp-accent) !important;
+  color: white !important;
+  border: none;
 }
 
 .dropdown-menu-custom .badge:hover {
-  transform: scale(1.08);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transform: scale(1.05);
+  box-shadow: var(--jp-shadow-md);
+  background: var(--jp-accent-hover) !important;
 }
 
 /* ===== Main Content Area ===== */
@@ -114,136 +160,222 @@
 
 /* ===== Cards ===== */
 .card {
-  border: 1px solid #e8ecf1;
-  border-radius: 12px;
+  background: var(--jp-bg-surface);
+  border: 1px solid var(--jp-border) !important;
+  border-radius: var(--jp-radius-md) !important;
   overflow: hidden;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  box-shadow: var(--jp-shadow-sm) !important;
+  transition: transform var(--jp-duration) var(--jp-ease),
+              box-shadow var(--jp-duration) var(--jp-ease);
 }
 
 .card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+  box-shadow: var(--jp-shadow-md) !important;
 }
 
 .card-header {
-  font-weight: 700;
-  letter-spacing: 0.3px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  background: var(--jp-accent) !important;
+  color: white !important;
+  border-bottom: none !important;
 }
 
 /* Hero / Jumbotron section */
 .rounded-3 {
-  border-radius: 16px !important;
+  border-radius: var(--jp-radius-lg) !important;
 }
 
 /* ===== Buttons ===== */
 .btn {
-  border-radius: 8px;
+  border-radius: var(--jp-radius-sm);
   font-weight: 600;
   padding: 8px 20px;
-  transition: all 0.2s ease;
-  letter-spacing: 0.2px;
+  transition: all var(--jp-duration) var(--jp-ease);
+  letter-spacing: 0.01em;
+  font-family: var(--jp-font-sans);
 }
 
 .btn:hover {
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.btn:active {
+  transform: scale(0.98);
 }
 
 .btn-danger {
-  background: linear-gradient(135deg, #e74c3c, #c0392b);
-  border: none;
+  background: var(--jp-accent) !important;
+  border: none !important;
+  color: white !important;
 }
 
 .btn-danger:hover {
-  background: linear-gradient(135deg, #c0392b, #a93226);
+  background: var(--jp-accent-hover) !important;
+  box-shadow: 0 4px 12px rgba(107, 130, 116, 0.25);
 }
 
 .btn-outline-danger {
-  border-width: 2px;
+  border: 1.5px solid var(--jp-accent) !important;
+  color: var(--jp-accent) !important;
+  background: transparent !important;
+}
+
+.btn-outline-danger:hover {
+  background: var(--jp-accent) !important;
+  color: white !important;
+  border-color: var(--jp-accent) !important;
+}
+
+/* Level-specific button overrides */
+.btn-primary,
+.btn-outline-primary {
+  --bs-btn-bg: var(--jp-level-n5);
+  --bs-btn-border-color: var(--jp-level-n5);
+  --bs-btn-hover-bg: var(--jp-accent-hover);
+  --bs-btn-hover-border-color: var(--jp-accent-hover);
+}
+
+.btn-success,
+.btn-outline-success {
+  --bs-btn-bg: var(--jp-level-n4);
+  --bs-btn-border-color: var(--jp-level-n4);
+  --bs-btn-hover-bg: #6d8b7a;
+  --bs-btn-hover-border-color: #6d8b7a;
+}
+
+.btn-info,
+.btn-outline-info {
+  --bs-btn-bg: var(--jp-level-n3);
+  --bs-btn-border-color: var(--jp-level-n3);
+  --bs-btn-hover-bg: #7c8e94;
+  --bs-btn-hover-border-color: #7c8e94;
+  --bs-btn-color: white;
+}
+
+.btn-warning,
+.btn-outline-warning {
+  --bs-btn-bg: var(--jp-level-n2);
+  --bs-btn-border-color: var(--jp-level-n2);
+  --bs-btn-hover-bg: var(--jp-terracotta-hover);
+  --bs-btn-hover-border-color: var(--jp-terracotta-hover);
+  --bs-btn-color: white;
+}
+
+/* ===== Badge overrides ===== */
+.badge.bg-primary { background: var(--jp-level-n5) !important; }
+.badge.bg-success { background: var(--jp-level-n4) !important; }
+.badge.bg-info    { background: var(--jp-level-n3) !important; color: white !important; }
+.badge.bg-warning { background: var(--jp-level-n2) !important; color: white !important; }
+.badge.bg-danger  { background: var(--jp-level-n1) !important; }
+.badge.bg-secondary { background: var(--jp-text-secondary) !important; }
+
+.badge {
+  font-weight: 500;
+  padding: 6px 12px;
+  border-radius: var(--jp-radius-sm);
+  letter-spacing: 0.02em;
 }
 
 /* ===== Tables ===== */
 .table {
-  border-radius: 10px;
+  border-radius: var(--jp-radius-md);
   overflow: hidden;
 }
 
 .table th {
-  font-weight: 700;
-  letter-spacing: 0.5px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
   font-size: 13px;
   text-transform: uppercase;
+  color: var(--jp-text-secondary);
 }
 
 .table-danger th {
-  background: linear-gradient(135deg, #e74c3c, #c0392b) !important;
+  background: var(--jp-accent) !important;
+  color: white !important;
 }
 
 /* ===== Forms ===== */
 .form-control,
 .form-select {
-  border-radius: 8px;
-  border: 1.5px solid #ddd;
+  border-radius: var(--jp-radius-sm);
+  border: 1.5px solid var(--jp-border);
   padding: 10px 14px;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  transition: border-color var(--jp-duration) var(--jp-ease),
+              box-shadow var(--jp-duration) var(--jp-ease);
+  background: var(--jp-bg-surface);
+  font-family: var(--jp-font-sans);
+  color: var(--jp-text-primary);
 }
 
 .form-control:focus,
 .form-select:focus {
-  border-color: #e74c3c;
-  box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.15);
+  border-color: var(--jp-accent);
+  box-shadow: 0 0 0 3px rgba(107, 130, 116, 0.12);
+  background: #ffffff;
 }
 
-/* ===== Badges ===== */
-.badge {
-  font-weight: 600;
-  padding: 6px 12px;
-  border-radius: 6px;
+.form-control::placeholder {
+  color: var(--jp-text-tertiary);
 }
 
 /* ===== Breadcrumb ===== */
 .breadcrumb {
-  background: white;
-  padding: 12px 18px;
-  border-radius: 10px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  background: var(--jp-bg-surface);
+  padding: 10px 16px;
+  border-radius: var(--jp-radius-sm);
+  box-shadow: none;
   margin-bottom: 20px;
+  border: 1px solid var(--jp-border);
+  font-size: 14px;
+}
+
+.breadcrumb-item a {
+  color: var(--jp-accent);
+}
+
+.breadcrumb-item.active {
+  color: var(--jp-text-secondary);
 }
 
 /* ===== Footer ===== */
 .site-footer {
-  background: linear-gradient(135deg, #2d3436 0%, #636e72 100%);
-  color: #b2bec3;
+  background: var(--jp-bg-dark);
+  color: var(--jp-text-tertiary);
   padding: 28px 32px;
   text-align: center;
+  border-top: 1px solid rgba(255,255,255,0.06);
 }
 
 .site-footer strong {
-  color: #ffffff;
+  color: var(--jp-text-inverse);
+  font-weight: 600;
 }
 
 /* ===== Tabs ===== */
 .nav-tabs {
-  border-bottom: 2px solid #eee;
+  border-bottom: 1px solid var(--jp-border);
 }
 
 .nav-tabs .nav-link {
   border: none;
-  border-bottom: 3px solid transparent;
+  border-bottom: 2px solid transparent;
   padding: 12px 20px;
-  font-weight: 600;
-  color: #636e72;
-  transition: all 0.2s ease;
+  font-weight: 500;
+  color: var(--jp-text-secondary);
+  transition: all var(--jp-duration) var(--jp-ease);
 }
 
 .nav-tabs .nav-link:hover {
-  border-bottom-color: #e74c3c;
-  color: #e74c3c;
+  border-bottom-color: var(--jp-accent);
+  color: var(--jp-accent);
 }
 
 .nav-tabs .nav-link.active {
-  border-bottom-color: #e74c3c;
-  color: #e74c3c !important;
+  border-bottom-color: var(--jp-accent);
+  color: var(--jp-accent) !important;
   background: transparent;
 }
 
@@ -252,45 +384,70 @@
   width: 60px;
   height: 60px;
   font-size: 20px;
-  border-radius: 10px;
+  border-radius: var(--jp-radius-sm);
   transition: all 0.15s ease;
 }
 
 .char-btn:hover {
-  transform: scale(1.1);
-  box-shadow: 0 4px 12px rgba(231, 76, 60, 0.25);
+  transform: scale(1.08);
+  box-shadow: var(--jp-shadow-md);
 }
 
 .hover-scale {
-  transition: transform 0.15s ease;
+  transition: transform 0.2s var(--jp-ease);
 }
 
 .hover-scale:hover {
-  transform: scale(1.15);
+  transform: scale(1.1);
 }
 
 /* ===== Alerts ===== */
 .alert {
-  border-radius: 10px;
+  border-radius: var(--jp-radius-sm);
   border: none;
+  font-size: 14px;
 }
 
-/* ===== Scrollbar ===== */
+.alert-danger {
+  background: #fdf2f0;
+  color: var(--jp-level-n1);
+  border: 1px solid rgba(160, 105, 94, 0.15);
+}
+
+.alert-success {
+  background: var(--jp-accent-light);
+  color: var(--jp-accent-hover);
+  border: 1px solid rgba(107, 130, 116, 0.15);
+}
+
+.alert-warning {
+  background: #fef8f0;
+  color: var(--jp-terracotta);
+  border: 1px solid rgba(192, 130, 107, 0.15);
+}
+
+.alert-secondary {
+  background: var(--jp-bg-surface-alt);
+  color: var(--jp-text-primary);
+  border: 1px solid var(--jp-border);
+}
+
+/* ===== Scrollbar (Japandi minimal) ===== */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: var(--jp-bg-main);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #c0392b;
-  border-radius: 4px;
+  background: var(--jp-border-strong);
+  border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #a93226;
+  background: var(--jp-text-tertiary);
 }
 
 /* ===== Responsive ===== */
@@ -314,10 +471,10 @@
 
 /* ===== Flashcard Flip Animation ===== */
 .flashcard-container {
-  perspective: 1000px;
+  perspective: 1200px;
   width: 100%;
-  max-width: 500px;
-  height: 320px;
+  max-width: 520px;
+  height: 340px;
   margin: 0 auto;
   cursor: pointer;
 }
@@ -327,7 +484,7 @@
   width: 100%;
   height: 100%;
   text-align: center;
-  transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: transform 0.65s cubic-bezier(0.25, 1, 0.5, 1);
   transform-style: preserve-3d;
 }
 
@@ -345,21 +502,92 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border-radius: 16px;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
-  border: 2px solid #e8ecf1;
-  padding: 24px;
+  border-radius: var(--jp-radius-lg);
+  box-shadow: var(--jp-shadow-md);
+  border: 1px solid var(--jp-border);
+  padding: 28px;
 }
 
 .flashcard-front {
-  background-color: #ffffff;
-  color: #2d3436;
+  background-color: var(--jp-bg-surface);
+  color: var(--jp-text-primary);
 }
 
 .flashcard-back {
-  background-color: #ffffff;
-  color: #c0392b;
+  background-color: var(--jp-bg-surface);
+  color: var(--jp-accent);
   transform: rotateY(180deg);
-  border-color: #e74c3c;
+  border-color: var(--jp-accent);
+  border-width: 1.5px;
 }
 
+/* ===== Japandi Section Styles ===== */
+
+/* Hero / Welcome banner */
+.japandi-hero {
+  background: var(--jp-bg-surface);
+  border: 1px solid var(--jp-border);
+  border-radius: var(--jp-radius-lg);
+  border-left: 4px solid var(--jp-accent);
+  padding: 40px;
+}
+
+/* Section heading with subtle left accent */
+.japandi-section-title {
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--jp-text-primary);
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--jp-border);
+  letter-spacing: -0.01em;
+}
+
+/* Text color overrides for Bootstrap's .text-danger, .text-primary, etc. */
+.text-danger { color: var(--jp-accent) !important; }
+
+/* Border color overrides */
+.border-danger { border-color: var(--jp-accent) !important; }
+.border-primary { border-color: var(--jp-level-n5) !important; }
+.border-success { border-color: var(--jp-level-n4) !important; }
+.border-info { border-color: var(--jp-level-n3) !important; }
+.border-warning { border-color: var(--jp-level-n2) !important; }
+
+/* bg-light override */
+.bg-light {
+  background-color: var(--jp-bg-surface) !important;
+}
+
+/* ===== Kanji Display (uses serif font for cultural weight) ===== */
+.kanji-display {
+  font-family: var(--jp-font-serif);
+}
+
+/* ===== Admin Dashboard overrides ===== */
+.admin-sidebar .nav-link {
+  color: var(--jp-text-secondary);
+  border-radius: var(--jp-radius-sm);
+  transition: all var(--jp-duration) var(--jp-ease);
+}
+
+.admin-sidebar .nav-link:hover,
+.admin-sidebar .nav-link.active {
+  background: var(--jp-accent-light);
+  color: var(--jp-accent);
+}
+
+/* ===== Spinner override ===== */
+.spinner-border.text-danger {
+  color: var(--jp-accent) !important;
+}
+
+/* ===== Text color overrides ===== */
+.text-primary { color: var(--jp-level-n5) !important; }
+.text-success { color: var(--jp-level-n4) !important; }
+.text-info    { color: var(--jp-level-n3) !important; }
+.text-warning { color: var(--jp-level-n2) !important; }
+
+/* Keep bg-danger mapped to accent */
+.bg-danger {
+  background-color: var(--jp-accent) !important;
+}

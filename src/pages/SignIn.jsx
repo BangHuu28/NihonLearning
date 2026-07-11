@@ -24,7 +24,8 @@ export default function SignIn() {
                     JSON.stringify({
                         uId: existUser.id,
                         role: existUser.role,
-                        name: existUser.fullname
+                        name: existUser.fullname,
+                        email: existUser.email
                     })
                 );
                 // Điều hướng dựa trên vai trò
@@ -43,12 +44,12 @@ export default function SignIn() {
     return (
         <>
             <div className="col-md-9">
-                <div className="card shadow-sm border p-4 m-auto" style={{ maxWidth: "500px" }}>
-                    <h3 className="text-center fw-bold text-danger mb-4">🔑 ĐĂNG NHẬP HỌC VIÊN</h3>
+                <div className="card p-4 m-auto" style={{ maxWidth: "460px", borderTop: "3px solid var(--jp-accent)" }}>
+                    <h3 className="text-center fw-bold mb-4" style={{ color: "var(--jp-text-primary)", letterSpacing: "-0.02em" }}>Đăng Nhập Học Viên</h3>
                     {msgError && <div className='alert alert-danger'>{msgError}</div>}
                     <Form onSubmit={e => { e.preventDefault(); handleSignIn(); }}>
                         <Form.Group className='mb-3'>
-                            <Form.Label className="fw-bold">Email</Form.Label>
+                            <Form.Label className="fw-bold" style={{ fontSize: "14px", color: "var(--jp-text-secondary)" }}>Email</Form.Label>
                             <Form.Control
                                 type="email"
                                 placeholder="Nhập email của bạn..."
@@ -58,7 +59,7 @@ export default function SignIn() {
                             />
                         </Form.Group>
                         <Form.Group className='mb-3'>
-                            <Form.Label className="fw-bold">Mật khẩu</Form.Label>
+                            <Form.Label className="fw-bold" style={{ fontSize: "14px", color: "var(--jp-text-secondary)" }}>Mật khẩu</Form.Label>
                             <Form.Control
                                 type='password'
                                 placeholder="Nhập mật khẩu..."

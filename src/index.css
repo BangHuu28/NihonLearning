@@ -1,3 +1,57 @@
+/* ============================================
+   JAPANDI DESIGN SYSTEM — NihonLearning
+   Japanese + Scandinavian: 静寂 meets funktionell
+   ============================================ */
+
+/* ===== Design Tokens (CSS Variables) ===== */
+:root {
+  /* --- Backgrounds --- */
+  --jp-bg-main: #f8f7f4;          /* Warm paper — slightly yellowed Washi */
+  --jp-bg-surface: #faf9f6;       /* Card / elevated surface */
+  --jp-bg-surface-alt: #f2f0eb;   /* Alternate surface — sand */
+  --jp-bg-dark: #2a2b2a;          /* Dark surface — Sumi ink */
+
+  /* --- Text --- */
+  --jp-text-primary: #2a2b2a;     /* Sumi ink main text */
+  --jp-text-secondary: #6b6e6b;   /* Muted stone grey */
+  --jp-text-tertiary: #9a9d9a;    /* Faint hint text */
+  --jp-text-inverse: #f8f7f4;     /* Light text on dark bg */
+
+  /* --- Accent Colors --- */
+  --jp-accent: #6b8274;           /* Sage green — tĩnh tại, tập trung */
+  --jp-accent-hover: #5a7064;     /* Darker sage on hover */
+  --jp-accent-light: #e8eeea;     /* Sage tint for backgrounds */
+  --jp-terracotta: #c0826b;       /* Warm terracotta — điểm nhấn ấm */
+  --jp-terracotta-hover: #ad725c;
+
+  /* --- Level Colors (muted Japandi versions) --- */
+  --jp-level-n5: #6b8274;         /* Sage — beginner */
+  --jp-level-n4: #7d9b8a;         /* Lighter sage */
+  --jp-level-n3: #8c9ea4;         /* Steel blue-grey */
+  --jp-level-n2: #c0826b;         /* Terracotta */
+  --jp-level-n1: #a0695e;         /* Deep terracotta */
+
+  /* --- Borders & Shadows --- */
+  --jp-border: #e5e2da;           /* Dried sand border */
+  --jp-border-strong: #d1cdc4;    /* Stronger divider */
+  --jp-shadow-sm: 0 1px 3px rgba(42, 43, 42, 0.04);
+  --jp-shadow-md: 0 4px 16px rgba(42, 43, 42, 0.06);
+  --jp-shadow-lg: 0 8px 32px rgba(42, 43, 42, 0.08);
+
+  /* --- Radius (consistent, soft) --- */
+  --jp-radius-sm: 8px;
+  --jp-radius-md: 12px;
+  --jp-radius-lg: 16px;
+
+  /* --- Typography --- */
+  --jp-font-sans: 'Plus Jakarta Sans', 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+  --jp-font-serif: 'Noto Serif JP', 'Yu Mincho', serif;
+
+  /* --- Transitions --- */
+  --jp-ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --jp-duration: 0.3s;
+}
+
 /* ===== Global Reset ===== */
 *,
 *::before,
@@ -10,12 +64,14 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  background-color: #f5f6fa;
-  color: #2d3436;
+  font-family: var(--jp-font-sans);
+  background-color: var(--jp-bg-main);
+  color: var(--jp-text-primary);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh;
+  letter-spacing: -0.01em;
+  line-height: 1.6;
 }
 
 #root {
@@ -31,10 +87,18 @@ body {
 }
 
 a {
-  color: inherit;
+  color: var(--jp-accent);
   text-decoration: none;
+  transition: color var(--jp-duration) var(--jp-ease);
 }
 
 a:hover {
+  color: var(--jp-accent-hover);
   text-decoration: none;
+}
+
+/* ===== Selection highlight ===== */
+::selection {
+  background: var(--jp-accent-light);
+  color: var(--jp-text-primary);
 }

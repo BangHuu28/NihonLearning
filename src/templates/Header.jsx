@@ -14,13 +14,13 @@ export default function Header() {
         <header className="site-header">
             <div className="d-flex align-items-center justify-content-between" style={{ maxWidth: "1400px", margin: "0 auto" }}>
                 <Link to="/home" className="text-decoration-none d-flex align-items-center gap-2">
-                    <span className="fs-3 fw-bold text-white">NihonLearning</span>
-                    <span className="badge bg-white text-danger fw-bold" style={{ fontSize: "11px" }}>Học Tiếng Nhật N5-N1</span>
+                    <span className="fs-4 fw-bold" style={{ color: "#faf9f6", letterSpacing: "-0.02em" }}>NihonLearning</span>
+                    <span className="badge fw-medium" style={{ fontSize: "11px", background: "rgba(107,130,116,0.85)", color: "white" }}>N5-N1</span>
                 </Link>
                 <div>
                     {account ? (
                         <div className="d-flex align-items-center gap-2">
-                            <span className="text-white small">Chào, <strong>{account.name}</strong></span>
+                            <span className="small" style={{ color: "rgba(248,247,244,0.7)" }}>Chào, <strong style={{ color: "#faf9f6" }}>{account.name}</strong></span>
                             {account.role === "admin" && (
                                 <Link to="/admin" className="btn btn-warning btn-sm">Admin</Link>
                             )}
@@ -31,7 +31,7 @@ export default function Header() {
                     ) : (
                         <div className="d-flex gap-2">
                             <Link to="/signin" className="btn btn-outline-light btn-sm">Đăng nhập</Link>
-                            <Link to="/signup" className="btn btn-light btn-sm text-danger fw-bold">Đăng ký</Link>
+                            <Link to="/signup" className="btn btn-light btn-sm fw-bold">Đăng ký</Link>
                         </div>
                     )}
                 </div>

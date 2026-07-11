@@ -29,20 +29,35 @@ export default function Alphabet() {
     return (
         <>
             <div className="col-md-9">
-                <h3 className="fw-bold mb-3">Học Bảng Chữ Cái Tiếng Nhật</h3>
+                <h3 className="japandi-section-title">Học Bảng Chữ Cái Tiếng Nhật</h3>
 
-                {/* Tab switch */}
-                <div className="btn-group w-100 mb-4 shadow-sm" role="group">
+                {/* Tab switch — Japandi styled */}
+                <div className="btn-group w-100 mb-4" role="group" style={{ borderRadius: "var(--jp-radius-sm)", overflow: "hidden", border: "1px solid var(--jp-border)" }}>
                     <button
                         type="button"
-                        className={`btn py-2 fw-bold ${activeTab === "hiragana" ? "btn-danger" : "btn-outline-danger"}`}
+                        className="btn py-2 fw-bold"
+                        style={{
+                            background: activeTab === "hiragana" ? "var(--jp-accent)" : "var(--jp-bg-surface)",
+                            color: activeTab === "hiragana" ? "white" : "var(--jp-text-secondary)",
+                            border: "none",
+                            borderRadius: 0,
+                            transition: "all 0.25s cubic-bezier(0.16,1,0.3,1)"
+                        }}
                         onClick={() => { setActiveTab("hiragana"); setSelectedChar(alphabetList.find(c => c.type === "hiragana")); }}
                     >
                         Bảng chữ mềm Hiragana
                     </button>
                     <button
                         type="button"
-                        className={`btn py-2 fw-bold ${activeTab === "katakana" ? "btn-danger" : "btn-outline-danger"}`}
+                        className="btn py-2 fw-bold"
+                        style={{
+                            background: activeTab === "katakana" ? "var(--jp-accent)" : "var(--jp-bg-surface)",
+                            color: activeTab === "katakana" ? "white" : "var(--jp-text-secondary)",
+                            border: "none",
+                            borderLeft: "1px solid var(--jp-border)",
+                            borderRadius: 0,
+                            transition: "all 0.25s cubic-bezier(0.16,1,0.3,1)"
+                        }}
                         onClick={() => { setActiveTab("katakana"); setSelectedChar(alphabetList.find(c => c.type === "katakana")); }}
                     >
                         Bảng chữ cứng Katakana
@@ -52,24 +67,27 @@ export default function Alphabet() {
                 <div className="row">
                     {/* Character Grid */}
                     <div className="col-md-7">
-                        <div className="card shadow-sm p-3 bg-white">
+                        <div className="card p-3">
                             <div className="d-flex flex-wrap gap-2 justify-content-start">
                                 {filteredList.map(item => (
                                     <button
                                         key={item.id}
                                         onClick={() => handleCharClick(item)}
-                                        className={`btn flex-grow-0 d-flex flex-column align-items-center justify-content-center border`}
+                                        className="btn flex-grow-0 d-flex flex-column align-items-center justify-content-center"
                                         style={{
                                             width: "60px",
                                             height: "60px",
                                             fontSize: "20px",
-                                            backgroundColor: selectedChar?.id === item.id ? "#dc3545" : "#f8f9fa",
-                                            color: selectedChar?.id === item.id ? "white" : "black",
-                                            transition: "all 0.15s ease"
+                                            fontFamily: "var(--jp-font-serif)",
+                                            backgroundColor: selectedChar?.id === item.id ? "var(--jp-accent)" : "var(--jp-bg-surface-alt)",
+                                            color: selectedChar?.id === item.id ? "white" : "var(--jp-text-primary)",
+                                            border: selectedChar?.id === item.id ? "1px solid var(--jp-accent)" : "1px solid var(--jp-border)",
+                                            borderRadius: "var(--jp-radius-sm)",
+                                            transition: "all 0.2s cubic-bezier(0.16,1,0.3,1)"
                                         }}
                                     >
                                         <span className="fw-bold">{item.character}</span>
-                                        <span style={{ fontSize: "10px", opacity: 0.8 }}>{item.romaji}</span>
+                                        <span style={{ fontSize: "10px", opacity: 0.7 }}>{item.romaji}</span>
                                     </button>
                                 ))}
                             </div>
@@ -79,14 +97,16 @@ export default function Alphabet() {
                     {/* Character Detail Card */}
                     <div className="col-md-5">
                         {selectedChar && (
-                            <div className="card shadow-sm border border-danger border-2 text-center h-100">
-                                <div className="card-header bg-danger text-white fw-bold">
+                            <div className="card text-center h-100" style={{ borderTop: "3px solid var(--jp-accent)" }}>
+                                <div className="card-header fw-bold" style={{ fontSize: "14px" }}>
                                     Chi tiết chữ cái
                                 </div>
                                 <div className="card-body d-flex flex-column justify-content-center align-items-center p-4">
-                                    <span className="display-1 fw-bold text-danger mb-3">{selectedChar.character}</span>
-                                    <h4 className="fw-bold text-dark mb-2">Phiên âm Romaji: <span className="text-primary">{selectedChar.romaji}</span></h4>
-                                    <p className="text-muted mb-3" style={{ fontSize: "16px" }}>
+                                    <span className="display-1 fw-bold mb-3" style={{ color: "var(--jp-accent)", fontFamily: "var(--jp-font-serif)" }}>{selectedChar.character}</span>
+                                    <h4 className="fw-bold mb-2" style={{ color: "var(--jp-text-primary)" }}>
+                                        Phiên âm Romaji: <span style={{ color: "var(--jp-accent)" }}>{selectedChar.romaji}</span>
+                                    </h4>
+                                    <p className="text-muted mb-3" style={{ fontSize: "15px" }}>
                                         Cách viết và phát âm chuẩn giọng bản xứ.
                                     </p>
                                     <div className="alert alert-secondary w-100 py-2">
@@ -101,7 +121,7 @@ export default function Alphabet() {
                                             window.speechSynthesis.speak(utterance);
                                         }}
                                     >
-                                        🔊
+                                        Nghe phát âm
                                     </button>
                                 </div>
                             </div>
