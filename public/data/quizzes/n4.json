@@ -1,0 +1,847 @@
+[
+  {
+    "id": "q69",
+    "level": "N4",
+    "lessonId": "n4-1",
+    "question": "Nghĩa của từ 「あ」 là gì?",
+    "options": [
+      "À",
+      "trẻ sơ sinh",
+      "chào hỏi",
+      "như thế"
+    ],
+    "answer": "À"
+  },
+  {
+    "id": "q70",
+    "level": "N4",
+    "lessonId": "n4-1",
+    "question": "Nghĩa của từ 「ああ」 là gì?",
+    "options": [
+      "À",
+      "trẻ sơ sinh",
+      "chào hỏi",
+      "như thế"
+    ],
+    "answer": "như thế"
+  },
+  {
+    "id": "q71",
+    "level": "N4",
+    "lessonId": "n4-1",
+    "question": "Nghĩa của từ 「あいさつする」 là gì?",
+    "options": [
+      "chào hỏi",
+      "À",
+      "như thế",
+      "trẻ sơ sinh"
+    ],
+    "answer": "chào hỏi"
+  },
+  {
+    "id": "q72",
+    "level": "N4",
+    "lessonId": "n4-2",
+    "question": "Nghĩa của từ 「おもちゃ」 là gì?",
+    "options": [
+      "đồ chơi",
+      "lễ hội",
+      "kêu gọi ai đó bị bệnh",
+      "người đàn ông giàu có"
+    ],
+    "answer": "đồ chơi"
+  },
+  {
+    "id": "q73",
+    "level": "N4",
+    "lessonId": "n4-2",
+    "question": "Nghĩa của từ 「お金持ち」 là gì?",
+    "options": [
+      "đồ chơi",
+      "lễ hội",
+      "kêu gọi ai đó bị bệnh",
+      "người đàn ông giàu có"
+    ],
+    "answer": "người đàn ông giàu có"
+  },
+  {
+    "id": "q74",
+    "level": "N4",
+    "lessonId": "n4-2",
+    "question": "Nghĩa của từ 「お見舞い」 là gì?",
+    "options": [
+      "kêu gọi ai đó bị bệnh",
+      "đồ chơi",
+      "người đàn ông giàu có",
+      "lễ hội"
+    ],
+    "answer": "kêu gọi ai đó bị bệnh"
+  },
+  {
+    "id": "q75",
+    "level": "N4",
+    "lessonId": "n4-3",
+    "question": "Nghĩa của từ 「これから」 là gì?",
+    "options": [
+      "sau chuyện này",
+      "biết",
+      "máy tính",
+      "buổi hòa nhạc"
+    ],
+    "answer": "sau chuyện này"
+  },
+  {
+    "id": "q76",
+    "level": "N4",
+    "lessonId": "n4-3",
+    "question": "Nghĩa của từ 「コンサート」 là gì?",
+    "options": [
+      "sau chuyện này",
+      "biết",
+      "máy tính",
+      "buổi hòa nhạc"
+    ],
+    "answer": "buổi hòa nhạc"
+  },
+  {
+    "id": "q77",
+    "level": "N4",
+    "lessonId": "n4-3",
+    "question": "Nghĩa của từ 「コンピュータ/コンピューター」 là gì?",
+    "options": [
+      "máy tính",
+      "sau chuyện này",
+      "buổi hòa nhạc",
+      "biết"
+    ],
+    "answer": "máy tính"
+  },
+  {
+    "id": "q78",
+    "level": "N4",
+    "lessonId": "n4-4",
+    "question": "Nghĩa của từ 「ソフト」 là gì?",
+    "options": [
+      "mềm mại",
+      "đến mức đó",
+      "hơn nữa",
+      "vì điều đó"
+    ],
+    "answer": "mềm mại"
+  },
+  {
+    "id": "q79",
+    "level": "N4",
+    "lessonId": "n4-4",
+    "question": "Nghĩa của từ 「それで」 là gì?",
+    "options": [
+      "mềm mại",
+      "đến mức đó",
+      "hơn nữa",
+      "vì điều đó"
+    ],
+    "answer": "vì điều đó"
+  },
+  {
+    "id": "q80",
+    "level": "N4",
+    "lessonId": "n4-4",
+    "question": "Nghĩa của từ 「それに」 là gì?",
+    "options": [
+      "hơn nữa",
+      "mềm mại",
+      "vì điều đó",
+      "đến mức đó"
+    ],
+    "answer": "hơn nữa"
+  },
+  {
+    "id": "q81",
+    "level": "N4",
+    "lessonId": "n4-5",
+    "question": "Nghĩa của từ 「のど」 là gì?",
+    "options": [
+      "cổ họng",
+      "máy tính cá nhân",
+      "lẽ ra phải như vậy",
+      "bán thời gian"
+    ],
+    "answer": "cổ họng"
+  },
+  {
+    "id": "q82",
+    "level": "N4",
+    "lessonId": "n4-5",
+    "question": "Nghĩa của từ 「パート」 là gì?",
+    "options": [
+      "cổ họng",
+      "máy tính cá nhân",
+      "lẽ ra phải như vậy",
+      "bán thời gian"
+    ],
+    "answer": "bán thời gian"
+  },
+  {
+    "id": "q83",
+    "level": "N4",
+    "lessonId": "n4-5",
+    "question": "Nghĩa của từ 「はず」 là gì?",
+    "options": [
+      "lẽ ra phải như vậy",
+      "cổ họng",
+      "bán thời gian",
+      "máy tính cá nhân"
+    ],
+    "answer": "lẽ ra phải như vậy"
+  },
+  {
+    "id": "q84",
+    "level": "N4",
+    "lessonId": "n4-6",
+    "question": "Nghĩa của từ 「レポート/リポート」 là gì?",
+    "options": [
+      "báo cáo",
+      "an toàn",
+      "cứu trợ",
+      "xử lý văn bản"
+    ],
+    "answer": "báo cáo"
+  },
+  {
+    "id": "q85",
+    "level": "N4",
+    "lessonId": "n4-6",
+    "question": "Nghĩa của từ 「ワープロ」 là gì?",
+    "options": [
+      "báo cáo",
+      "an toàn",
+      "cứu trợ",
+      "xử lý văn bản"
+    ],
+    "answer": "xử lý văn bản"
+  },
+  {
+    "id": "q86",
+    "level": "N4",
+    "lessonId": "n4-6",
+    "question": "Nghĩa của từ 「安心」 là gì?",
+    "options": [
+      "cứu trợ",
+      "báo cáo",
+      "xử lý văn bản",
+      "an toàn"
+    ],
+    "answer": "cứu trợ"
+  },
+  {
+    "id": "q87",
+    "level": "N4",
+    "lessonId": "n4-7",
+    "question": "Nghĩa của từ 「屋上」 là gì?",
+    "options": [
+      "mái nhà",
+      "xuống xe",
+      "treo",
+      "âm thanh"
+    ],
+    "answer": "mái nhà"
+  },
+  {
+    "id": "q88",
+    "level": "N4",
+    "lessonId": "n4-7",
+    "question": "Nghĩa của từ 「音」 là gì?",
+    "options": [
+      "mái nhà",
+      "xuống xe",
+      "treo",
+      "âm thanh"
+    ],
+    "answer": "âm thanh"
+  },
+  {
+    "id": "q89",
+    "level": "N4",
+    "lessonId": "n4-7",
+    "question": "Nghĩa của từ 「下げる」 là gì?",
+    "options": [
+      "treo",
+      "mái nhà",
+      "âm thanh",
+      "xuống xe"
+    ],
+    "answer": "treo"
+  },
+  {
+    "id": "q90",
+    "level": "N4",
+    "lessonId": "n4-8",
+    "question": "Nghĩa của từ 「滑る」 là gì?",
+    "options": [
+      "trượt",
+      "để dần quen với",
+      "bị khô",
+      "cắn"
+    ],
+    "answer": "trượt"
+  },
+  {
+    "id": "q91",
+    "level": "N4",
+    "lessonId": "n4-8",
+    "question": "Nghĩa của từ 「噛む」 là gì?",
+    "options": [
+      "trượt",
+      "để dần quen với",
+      "bị khô",
+      "cắn"
+    ],
+    "answer": "cắn"
+  },
+  {
+    "id": "q92",
+    "level": "N4",
+    "lessonId": "n4-8",
+    "question": "Nghĩa của từ 「乾く」 là gì?",
+    "options": [
+      "bị khô",
+      "trượt",
+      "cắn",
+      "để dần quen với"
+    ],
+    "answer": "bị khô"
+  },
+  {
+    "id": "q93",
+    "level": "N4",
+    "lessonId": "n4-9",
+    "question": "Nghĩa của từ 「競争」 là gì?",
+    "options": [
+      "sự cạnh tranh",
+      "một sự quan tâm",
+      "nhà thờ",
+      "giáo dục"
+    ],
+    "answer": "sự cạnh tranh"
+  },
+  {
+    "id": "q94",
+    "level": "N4",
+    "lessonId": "n4-9",
+    "question": "Nghĩa của từ 「教育」 là gì?",
+    "options": [
+      "sự cạnh tranh",
+      "một sự quan tâm",
+      "nhà thờ",
+      "giáo dục"
+    ],
+    "answer": "giáo dục"
+  },
+  {
+    "id": "q95",
+    "level": "N4",
+    "lessonId": "n4-9",
+    "question": "Nghĩa của từ 「教会」 là gì?",
+    "options": [
+      "nhà thờ",
+      "sự cạnh tranh",
+      "giáo dục",
+      "một sự quan tâm"
+    ],
+    "answer": "nhà thờ"
+  },
+  {
+    "id": "q96",
+    "level": "N4",
+    "lessonId": "n4-10",
+    "question": "Nghĩa của từ 「見える」 là gì?",
+    "options": [
+      "ở trong tầm mắt",
+      "tham quan",
+      "khám phá",
+      "được khám phá"
+    ],
+    "answer": "ở trong tầm mắt"
+  },
+  {
+    "id": "q97",
+    "level": "N4",
+    "lessonId": "n4-10",
+    "question": "Nghĩa của từ 「見つかる」 là gì?",
+    "options": [
+      "ở trong tầm mắt",
+      "tham quan",
+      "khám phá",
+      "được khám phá"
+    ],
+    "answer": "được khám phá"
+  },
+  {
+    "id": "q98",
+    "level": "N4",
+    "lessonId": "n4-10",
+    "question": "Nghĩa của từ 「見つける」 là gì?",
+    "options": [
+      "khám phá",
+      "ở trong tầm mắt",
+      "được khám phá",
+      "tham quan"
+    ],
+    "answer": "khám phá"
+  },
+  {
+    "id": "q99",
+    "level": "N4",
+    "lessonId": "n4-11",
+    "question": "Nghĩa của từ 「今度」 là gì?",
+    "options": [
+      "bây giờ",
+      "cát",
+      "(lịch sự) đưa cho",
+      "tối nay"
+    ],
+    "answer": "bây giờ"
+  },
+  {
+    "id": "q100",
+    "level": "N4",
+    "lessonId": "n4-11",
+    "question": "Nghĩa của từ 「今夜」 là gì?",
+    "options": [
+      "bây giờ",
+      "cát",
+      "(lịch sự) đưa cho",
+      "tối nay"
+    ],
+    "answer": "tối nay"
+  },
+  {
+    "id": "q101",
+    "level": "N4",
+    "lessonId": "n4-11",
+    "question": "Nghĩa của từ 「差し上げる」 là gì?",
+    "options": [
+      "(lịch sự) đưa cho",
+      "bây giờ",
+      "tối nay",
+      "cát"
+    ],
+    "answer": "(lịch sự) đưa cho"
+  },
+  {
+    "id": "q102",
+    "level": "N4",
+    "lessonId": "n4-12",
+    "question": "Nghĩa của từ 「試合」 là gì?",
+    "options": [
+      "trận đấu",
+      "văn phòng",
+      "tai nạn",
+      "nha sĩ"
+    ],
+    "answer": "trận đấu"
+  },
+  {
+    "id": "q103",
+    "level": "N4",
+    "lessonId": "n4-12",
+    "question": "Nghĩa của từ 「歯医者」 là gì?",
+    "options": [
+      "trận đấu",
+      "văn phòng",
+      "tai nạn",
+      "nha sĩ"
+    ],
+    "answer": "nha sĩ"
+  },
+  {
+    "id": "q104",
+    "level": "N4",
+    "lessonId": "n4-12",
+    "question": "Nghĩa của từ 「事故」 là gì?",
+    "options": [
+      "tai nạn",
+      "trận đấu",
+      "nha sĩ",
+      "văn phòng"
+    ],
+    "answer": "tai nạn"
+  },
+  {
+    "id": "q105",
+    "level": "N4",
+    "lessonId": "n4-13",
+    "question": "Nghĩa của từ 「集める」 là gì?",
+    "options": [
+      "để thu thập một cái gì đó",
+      "đủ rồi",
+      "một địa chỉ",
+      "tập hợp"
+    ],
+    "answer": "để thu thập một cái gì đó"
+  },
+  {
+    "id": "q106",
+    "level": "N4",
+    "lessonId": "n4-13",
+    "question": "Nghĩa của từ 「集る」 là gì?",
+    "options": [
+      "để thu thập một cái gì đó",
+      "đủ rồi",
+      "một địa chỉ",
+      "tập hợp"
+    ],
+    "answer": "tập hợp"
+  },
+  {
+    "id": "q107",
+    "level": "N4",
+    "lessonId": "n4-13",
+    "question": "Nghĩa của từ 「住所」 là gì?",
+    "options": [
+      "một địa chỉ",
+      "để thu thập một cái gì đó",
+      "tập hợp",
+      "đủ rồi"
+    ],
+    "answer": "một địa chỉ"
+  },
+  {
+    "id": "q108",
+    "level": "N4",
+    "lessonId": "n4-14",
+    "question": "Nghĩa của từ 「植える」 là gì?",
+    "options": [
+      "trồng",
+      "cửa hàng tạp hóa",
+      "để có một bữa ăn",
+      "chạm vào"
+    ],
+    "answer": "trồng"
+  },
+  {
+    "id": "q109",
+    "level": "N4",
+    "lessonId": "n4-14",
+    "question": "Nghĩa của từ 「触る」 là gì?",
+    "options": [
+      "trồng",
+      "cửa hàng tạp hóa",
+      "để có một bữa ăn",
+      "chạm vào"
+    ],
+    "answer": "chạm vào"
+  },
+  {
+    "id": "q110",
+    "level": "N4",
+    "lessonId": "n4-14",
+    "question": "Nghĩa của từ 「食事」 là gì?",
+    "options": [
+      "để có một bữa ăn",
+      "trồng",
+      "chạm vào",
+      "cửa hàng tạp hóa"
+    ],
+    "answer": "để có một bữa ăn"
+  },
+  {
+    "id": "q111",
+    "level": "N4",
+    "lessonId": "n4-15",
+    "question": "Nghĩa của từ 「生活」 là gì?",
+    "options": [
+      "sống",
+      "các nước phương Tây",
+      "sự nổi tiếng",
+      "để sản xuất"
+    ],
+    "answer": "sống"
+  },
+  {
+    "id": "q112",
+    "level": "N4",
+    "lessonId": "n4-15",
+    "question": "Nghĩa của từ 「生産」 là gì?",
+    "options": [
+      "sống",
+      "các nước phương Tây",
+      "sự nổi tiếng",
+      "để sản xuất"
+    ],
+    "answer": "để sản xuất"
+  },
+  {
+    "id": "q113",
+    "level": "N4",
+    "lessonId": "n4-15",
+    "question": "Nghĩa của từ 「盛ん」 là gì?",
+    "options": [
+      "sự nổi tiếng",
+      "sống",
+      "để sản xuất",
+      "các nước phương Tây"
+    ],
+    "answer": "sự nổi tiếng"
+  },
+  {
+    "id": "q114",
+    "level": "N4",
+    "lessonId": "n4-16",
+    "question": "Nghĩa của từ 「卒業」 là gì?",
+    "options": [
+      "tốt nghiệp",
+      "rời bệnh viện",
+      "đánh",
+      "trở nên béo"
+    ],
+    "answer": "tốt nghiệp"
+  },
+  {
+    "id": "q115",
+    "level": "N4",
+    "lessonId": "n4-16",
+    "question": "Nghĩa của từ 「太る」 là gì?",
+    "options": [
+      "tốt nghiệp",
+      "rời bệnh viện",
+      "đánh",
+      "trở nên béo"
+    ],
+    "answer": "trở nên béo"
+  },
+  {
+    "id": "q116",
+    "level": "N4",
+    "lessonId": "n4-16",
+    "question": "Nghĩa của từ 「打つ」 là gì?",
+    "options": [
+      "đánh",
+      "tốt nghiệp",
+      "trở nên béo",
+      "rời bệnh viện"
+    ],
+    "answer": "đánh"
+  },
+  {
+    "id": "q117",
+    "level": "N4",
+    "lessonId": "n4-17",
+    "question": "Nghĩa của từ 「調べる」 là gì?",
+    "options": [
+      "để điều tra",
+      "hiếm",
+      "được sửa chữa",
+      "sửa chữa"
+    ],
+    "answer": "để điều tra"
+  },
+  {
+    "id": "q118",
+    "level": "N4",
+    "lessonId": "n4-17",
+    "question": "Nghĩa của từ 「直す」 là gì?",
+    "options": [
+      "để điều tra",
+      "hiếm",
+      "được sửa chữa",
+      "sửa chữa"
+    ],
+    "answer": "sửa chữa"
+  },
+  {
+    "id": "q119",
+    "level": "N4",
+    "lessonId": "n4-17",
+    "question": "Nghĩa của từ 「直る」 là gì?",
+    "options": [
+      "được sửa chữa",
+      "để điều tra",
+      "sửa chữa",
+      "hiếm"
+    ],
+    "answer": "được sửa chữa"
+  },
+  {
+    "id": "q120",
+    "level": "N4",
+    "lessonId": "n4-18",
+    "question": "Nghĩa của từ 「逃げる」 là gì?",
+    "options": [
+      "trốn thoát",
+      "công cụ",
+      "sở thú",
+      "di chuyển"
+    ],
+    "answer": "trốn thoát"
+  },
+  {
+    "id": "q121",
+    "level": "N4",
+    "lessonId": "n4-18",
+    "question": "Nghĩa của từ 「動く」 là gì?",
+    "options": [
+      "trốn thoát",
+      "công cụ",
+      "sở thú",
+      "di chuyển"
+    ],
+    "answer": "di chuyển"
+  },
+  {
+    "id": "q122",
+    "level": "N4",
+    "lessonId": "n4-18",
+    "question": "Nghĩa của từ 「動物園」 là gì?",
+    "options": [
+      "sở thú",
+      "trốn thoát",
+      "di chuyển",
+      "công cụ"
+    ],
+    "answer": "sở thú"
+  },
+  {
+    "id": "q123",
+    "level": "N4",
+    "lessonId": "n4-19",
+    "question": "Nghĩa của từ 「美しい」 là gì?",
+    "options": [
+      "đẹp",
+      "cần thiết",
+      "chắc chắn",
+      "phòng trưng bày nghệ thuật"
+    ],
+    "answer": "đẹp"
+  },
+  {
+    "id": "q124",
+    "level": "N4",
+    "lessonId": "n4-19",
+    "question": "Nghĩa của từ 「美術館」 là gì?",
+    "options": [
+      "đẹp",
+      "cần thiết",
+      "chắc chắn",
+      "phòng trưng bày nghệ thuật"
+    ],
+    "answer": "phòng trưng bày nghệ thuật"
+  },
+  {
+    "id": "q125",
+    "level": "N4",
+    "lessonId": "n4-19",
+    "question": "Nghĩa của từ 「必ず」 là gì?",
+    "options": [
+      "chắc chắn",
+      "đẹp",
+      "phòng trưng bày nghệ thuật",
+      "cần thiết"
+    ],
+    "answer": "chắc chắn"
+  },
+  {
+    "id": "q126",
+    "level": "N4",
+    "lessonId": "n4-20",
+    "question": "Nghĩa của từ 「片付ける」 là gì?",
+    "options": [
+      "dọn dẹp",
+      "trời tối",
+      "nắm bắt",
+      "trả lời"
+    ],
+    "answer": "dọn dẹp"
+  },
+  {
+    "id": "q127",
+    "level": "N4",
+    "lessonId": "n4-20",
+    "question": "Nghĩa của từ 「返事」 là gì?",
+    "options": [
+      "dọn dẹp",
+      "trời tối",
+      "nắm bắt",
+      "trả lời"
+    ],
+    "answer": "trả lời"
+  },
+  {
+    "id": "q128",
+    "level": "N4",
+    "lessonId": "n4-20",
+    "question": "Nghĩa của từ 「捕まえる」 là gì?",
+    "options": [
+      "nắm bắt",
+      "dọn dẹp",
+      "trả lời",
+      "trời tối"
+    ],
+    "answer": "nắm bắt"
+  },
+  {
+    "id": "q129",
+    "level": "N4",
+    "lessonId": "n4-21",
+    "question": "Nghĩa của từ 「輸出」 là gì?",
+    "options": [
+      "xuất khẩu",
+      "chơi",
+      "loại",
+      "nhập khẩu"
+    ],
+    "answer": "xuất khẩu"
+  },
+  {
+    "id": "q130",
+    "level": "N4",
+    "lessonId": "n4-21",
+    "question": "Nghĩa của từ 「輸入」 là gì?",
+    "options": [
+      "xuất khẩu",
+      "chơi",
+      "loại",
+      "nhập khẩu"
+    ],
+    "answer": "nhập khẩu"
+  },
+  {
+    "id": "q131",
+    "level": "N4",
+    "lessonId": "n4-21",
+    "question": "Nghĩa của từ 「優しい」 là gì?",
+    "options": [
+      "loại",
+      "xuất khẩu",
+      "nhập khẩu",
+      "chơi"
+    ],
+    "answer": "loại"
+  },
+  {
+    "id": "q132",
+    "level": "N4",
+    "lessonId": "n4-22",
+    "question": "Nghĩa của từ 「連絡」 là gì?",
+    "options": [
+      "liên hệ",
+      "không áp dụng",
+      "không áp dụng",
+      "cánh tay"
+    ],
+    "answer": "liên hệ"
+  },
+  {
+    "id": "q133",
+    "level": "N4",
+    "lessonId": "n4-22",
+    "question": "Nghĩa của từ 「腕」 là gì?",
+    "options": [
+      "liên hệ",
+      "không áp dụng",
+      "không áp dụng",
+      "cánh tay"
+    ],
+    "answer": "cánh tay"
+  }
+]

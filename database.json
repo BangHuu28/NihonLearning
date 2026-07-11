@@ -1,0 +1,2556 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "fullname": "Admin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "student@gmail.com",
+      "password": "123",
+      "fullname": "Student",
+      "role": "customer"
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "abc",
+      "fullname": "Test User",
+      "role": "customer",
+      "id": "D6EGPXbTKlY"
+    },
+    {
+      "email": "huubang281005@gmail.com",
+      "password": "123",
+      "fullname": "huba",
+      "role": "customer",
+      "id": "QCg1oXcyyFA"
+    }
+  ],
+  "alphabets": [
+    {
+      "id": "1",
+      "character": "あ",
+      "romaji": "a",
+      "type": "hiragana"
+    },
+    {
+      "id": "2",
+      "character": "い",
+      "romaji": "i",
+      "type": "hiragana"
+    },
+    {
+      "id": "3",
+      "character": "う",
+      "romaji": "u",
+      "type": "hiragana"
+    },
+    {
+      "id": "4",
+      "character": "え",
+      "romaji": "e",
+      "type": "hiragana"
+    },
+    {
+      "id": "5",
+      "character": "お",
+      "romaji": "o",
+      "type": "hiragana"
+    },
+    {
+      "id": "6",
+      "character": "か",
+      "romaji": "ka",
+      "type": "hiragana"
+    },
+    {
+      "id": "7",
+      "character": "き",
+      "romaji": "ki",
+      "type": "hiragana"
+    },
+    {
+      "id": "8",
+      "character": "く",
+      "romaji": "ku",
+      "type": "hiragana"
+    },
+    {
+      "id": "9",
+      "character": "け",
+      "romaji": "ke",
+      "type": "hiragana"
+    },
+    {
+      "id": "10",
+      "character": "こ",
+      "romaji": "ko",
+      "type": "hiragana"
+    },
+    {
+      "id": "11",
+      "character": "さ",
+      "romaji": "sa",
+      "type": "hiragana"
+    },
+    {
+      "id": "12",
+      "character": "し",
+      "romaji": "shi",
+      "type": "hiragana"
+    },
+    {
+      "id": "13",
+      "character": "す",
+      "romaji": "su",
+      "type": "hiragana"
+    },
+    {
+      "id": "14",
+      "character": "せ",
+      "romaji": "se",
+      "type": "hiragana"
+    },
+    {
+      "id": "15",
+      "character": "そ",
+      "romaji": "so",
+      "type": "hiragana"
+    },
+    {
+      "id": "16",
+      "character": "た",
+      "romaji": "ta",
+      "type": "hiragana"
+    },
+    {
+      "id": "17",
+      "character": "ち",
+      "romaji": "chi",
+      "type": "hiragana"
+    },
+    {
+      "id": "18",
+      "character": "つ",
+      "romaji": "tsu",
+      "type": "hiragana"
+    },
+    {
+      "id": "19",
+      "character": "て",
+      "romaji": "te",
+      "type": "hiragana"
+    },
+    {
+      "id": "20",
+      "character": "と",
+      "romaji": "to",
+      "type": "hiragana"
+    },
+    {
+      "id": "21",
+      "character": "な",
+      "romaji": "na",
+      "type": "hiragana"
+    },
+    {
+      "id": "22",
+      "character": "に",
+      "romaji": "ni",
+      "type": "hiragana"
+    },
+    {
+      "id": "23",
+      "character": "ぬ",
+      "romaji": "nu",
+      "type": "hiragana"
+    },
+    {
+      "id": "24",
+      "character": "ね",
+      "romaji": "ne",
+      "type": "hiragana"
+    },
+    {
+      "id": "25",
+      "character": "の",
+      "romaji": "no",
+      "type": "hiragana"
+    },
+    {
+      "id": "26",
+      "character": "は",
+      "romaji": "ha",
+      "type": "hiragana"
+    },
+    {
+      "id": "27",
+      "character": "ひ",
+      "romaji": "hi",
+      "type": "hiragana"
+    },
+    {
+      "id": "28",
+      "character": "ふ",
+      "romaji": "fu",
+      "type": "hiragana"
+    },
+    {
+      "id": "29",
+      "character": "へ",
+      "romaji": "he",
+      "type": "hiragana"
+    },
+    {
+      "id": "30",
+      "character": "ほ",
+      "romaji": "ho",
+      "type": "hiragana"
+    },
+    {
+      "id": "31",
+      "character": "ま",
+      "romaji": "ma",
+      "type": "hiragana"
+    },
+    {
+      "id": "32",
+      "character": "み",
+      "romaji": "mi",
+      "type": "hiragana"
+    },
+    {
+      "id": "33",
+      "character": "む",
+      "romaji": "mu",
+      "type": "hiragana"
+    },
+    {
+      "id": "34",
+      "character": "め",
+      "romaji": "me",
+      "type": "hiragana"
+    },
+    {
+      "id": "35",
+      "character": "も",
+      "romaji": "mo",
+      "type": "hiragana"
+    },
+    {
+      "id": "36",
+      "character": "や",
+      "romaji": "ya",
+      "type": "hiragana"
+    },
+    {
+      "id": "37",
+      "character": "ゆ",
+      "romaji": "yu",
+      "type": "hiragana"
+    },
+    {
+      "id": "38",
+      "character": "よ",
+      "romaji": "yo",
+      "type": "hiragana"
+    },
+    {
+      "id": "39",
+      "character": "ら",
+      "romaji": "ra",
+      "type": "hiragana"
+    },
+    {
+      "id": "40",
+      "character": "り",
+      "romaji": "ri",
+      "type": "hiragana"
+    },
+    {
+      "id": "41",
+      "character": "る",
+      "romaji": "ru",
+      "type": "hiragana"
+    },
+    {
+      "id": "42",
+      "character": "れ",
+      "romaji": "re",
+      "type": "hiragana"
+    },
+    {
+      "id": "43",
+      "character": "ろ",
+      "romaji": "ro",
+      "type": "hiragana"
+    },
+    {
+      "id": "44",
+      "character": "わ",
+      "romaji": "wa",
+      "type": "hiragana"
+    },
+    {
+      "id": "45",
+      "character": "を",
+      "romaji": "wo",
+      "type": "hiragana"
+    },
+    {
+      "id": "46",
+      "character": "ん",
+      "romaji": "n",
+      "type": "hiragana"
+    },
+    {
+      "id": "47",
+      "character": "ア",
+      "romaji": "a",
+      "type": "katakana"
+    },
+    {
+      "id": "48",
+      "character": "イ",
+      "romaji": "i",
+      "type": "katakana"
+    },
+    {
+      "id": "49",
+      "character": "ウ",
+      "romaji": "u",
+      "type": "katakana"
+    },
+    {
+      "id": "50",
+      "character": "エ",
+      "romaji": "e",
+      "type": "katakana"
+    },
+    {
+      "id": "51",
+      "character": "オ",
+      "romaji": "o",
+      "type": "katakana"
+    },
+    {
+      "id": "52",
+      "character": "カ",
+      "romaji": "ka",
+      "type": "katakana"
+    },
+    {
+      "id": "53",
+      "character": "キ",
+      "romaji": "ki",
+      "type": "katakana"
+    },
+    {
+      "id": "54",
+      "character": "ク",
+      "romaji": "ku",
+      "type": "katakana"
+    },
+    {
+      "id": "55",
+      "character": "ケ",
+      "romaji": "ke",
+      "type": "katakana"
+    },
+    {
+      "id": "56",
+      "character": "コ",
+      "romaji": "ko",
+      "type": "katakana"
+    },
+    {
+      "id": "57",
+      "character": "サ",
+      "romaji": "sa",
+      "type": "katakana"
+    },
+    {
+      "id": "58",
+      "character": "シ",
+      "romaji": "shi",
+      "type": "katakana"
+    },
+    {
+      "id": "59",
+      "character": "ス",
+      "romaji": "su",
+      "type": "katakana"
+    },
+    {
+      "id": "60",
+      "character": "セ",
+      "romaji": "se",
+      "type": "katakana"
+    },
+    {
+      "id": "61",
+      "character": "ソ",
+      "romaji": "so",
+      "type": "katakana"
+    },
+    {
+      "id": "62",
+      "character": "タ",
+      "romaji": "ta",
+      "type": "katakana"
+    },
+    {
+      "id": "63",
+      "character": "チ",
+      "romaji": "chi",
+      "type": "katakana"
+    },
+    {
+      "id": "64",
+      "character": "ツ",
+      "romaji": "tsu",
+      "type": "katakana"
+    },
+    {
+      "id": "65",
+      "character": "テ",
+      "romaji": "te",
+      "type": "katakana"
+    },
+    {
+      "id": "66",
+      "character": "ト",
+      "romaji": "to",
+      "type": "katakana"
+    },
+    {
+      "id": "67",
+      "character": "ナ",
+      "romaji": "na",
+      "type": "katakana"
+    },
+    {
+      "id": "68",
+      "character": "ニ",
+      "romaji": "ni",
+      "type": "katakana"
+    },
+    {
+      "id": "69",
+      "character": "ヌ",
+      "romaji": "nu",
+      "type": "katakana"
+    },
+    {
+      "id": "70",
+      "character": "ネ",
+      "romaji": "ne",
+      "type": "katakana"
+    },
+    {
+      "id": "71",
+      "character": "ノ",
+      "romaji": "no",
+      "type": "katakana"
+    },
+    {
+      "id": "72",
+      "character": "ハ",
+      "romaji": "ha",
+      "type": "katakana"
+    },
+    {
+      "id": "73",
+      "character": "ヒ",
+      "romaji": "hi",
+      "type": "katakana"
+    },
+    {
+      "id": "74",
+      "character": "フ",
+      "romaji": "fu",
+      "type": "katakana"
+    },
+    {
+      "id": "75",
+      "character": "ヘ",
+      "romaji": "he",
+      "type": "katakana"
+    },
+    {
+      "id": "76",
+      "character": "ホ",
+      "romaji": "ho",
+      "type": "katakana"
+    },
+    {
+      "id": "77",
+      "character": "マ",
+      "romaji": "ma",
+      "type": "katakana"
+    },
+    {
+      "id": "78",
+      "character": "ミ",
+      "romaji": "mi",
+      "type": "katakana"
+    },
+    {
+      "id": "79",
+      "character": "ム",
+      "romaji": "mu",
+      "type": "katakana"
+    },
+    {
+      "id": "80",
+      "character": "メ",
+      "romaji": "me",
+      "type": "katakana"
+    },
+    {
+      "id": "81",
+      "character": "モ",
+      "romaji": "mo",
+      "type": "katakana"
+    },
+    {
+      "id": "82",
+      "character": "ヤ",
+      "romaji": "ya",
+      "type": "katakana"
+    },
+    {
+      "id": "83",
+      "character": "ユ",
+      "romaji": "yu",
+      "type": "katakana"
+    },
+    {
+      "id": "84",
+      "character": "ヨ",
+      "romaji": "yo",
+      "type": "katakana"
+    },
+    {
+      "id": "85",
+      "character": "ラ",
+      "romaji": "ra",
+      "type": "katakana"
+    },
+    {
+      "id": "86",
+      "character": "リ",
+      "romaji": "ri",
+      "type": "katakana"
+    },
+    {
+      "id": "87",
+      "character": "ル",
+      "romaji": "ru",
+      "type": "katakana"
+    },
+    {
+      "id": "88",
+      "character": "レ",
+      "romaji": "re",
+      "type": "katakana"
+    },
+    {
+      "id": "89",
+      "character": "ロ",
+      "romaji": "ro",
+      "type": "katakana"
+    },
+    {
+      "id": "90",
+      "character": "ワ",
+      "romaji": "wa",
+      "type": "katakana"
+    },
+    {
+      "id": "91",
+      "character": "ヲ",
+      "romaji": "wo",
+      "type": "katakana"
+    },
+    {
+      "id": "92",
+      "character": "ン",
+      "romaji": "n",
+      "type": "katakana"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "n5-1",
+      "level": "N5",
+      "lessonNumber": 1,
+      "title": "Bài 1: あさって ~ お金",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-2",
+      "level": "N5",
+      "lessonNumber": 2,
+      "title": "Bài 2: お兄さん ~ こちら",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-3",
+      "level": "N5",
+      "lessonNumber": 3,
+      "title": "Bài 3: こっち ~ そば",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-4",
+      "level": "N5",
+      "lessonNumber": 4,
+      "title": "Bài 4: それ ~ どうも",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-5",
+      "level": "N5",
+      "lessonNumber": 5,
+      "title": "Bài 5: どこ ~ ペット",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-6",
+      "level": "N5",
+      "lessonNumber": 6,
+      "title": "Bài 6: ペン ~ 飴",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-7",
+      "level": "N5",
+      "lessonNumber": 7,
+      "title": "Bài 7: 安い ~ 押す",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-8",
+      "level": "N5",
+      "lessonNumber": 8,
+      "title": "Bài 8: 横 ~ 階段",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-9",
+      "level": "N5",
+      "lessonNumber": 9,
+      "title": "Bài 9: 外 ~ 橋",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-10",
+      "level": "N5",
+      "lessonNumber": 10,
+      "title": "Bài 10: 狭い ~ 言葉",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-11",
+      "level": "N5",
+      "lessonNumber": 11,
+      "title": "Bài 11: 古い ~ 今週",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-12",
+      "level": "N5",
+      "lessonNumber": 12,
+      "title": "Bài 12: 今朝 ~ 始まる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-13",
+      "level": "N5",
+      "lessonNumber": 13,
+      "title": "Bài 13: 姉 ~ 手紙",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-14",
+      "level": "N5",
+      "lessonNumber": 14,
+      "title": "Bài 14: 授業 ~ 上手",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-15",
+      "level": "N5",
+      "lessonNumber": 15,
+      "title": "Bài 15: 上着 ~ 切符",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-16",
+      "level": "N5",
+      "lessonNumber": 16,
+      "title": "Bài 16: 雪 ~ 大丈夫",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-17",
+      "level": "N5",
+      "lessonNumber": 17,
+      "title": "Bài 17: 大人 ~ 低い",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-18",
+      "level": "N5",
+      "lessonNumber": 18,
+      "title": "Bài 18: 庭 ~ 二十歳",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-19",
+      "level": "N5",
+      "lessonNumber": 19,
+      "title": "Bài 19: 二十日 ~ 煩い",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-20",
+      "level": "N5",
+      "lessonNumber": 20,
+      "title": "Bài 20: 晩 ~ 帽子",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-21",
+      "level": "N5",
+      "lessonNumber": 21,
+      "title": "Bài 21: 忘れる ~ 有名",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-22",
+      "level": "N5",
+      "lessonNumber": 22,
+      "title": "Bài 22: 遊ぶ ~ 六日",
+      "vocabCount": 30
+    },
+    {
+      "id": "n5-23",
+      "level": "N5",
+      "lessonNumber": 23,
+      "title": "Bài 23: 話 ~ 話す",
+      "vocabCount": 2
+    },
+    {
+      "id": "n4-1",
+      "level": "N4",
+      "lessonNumber": 1,
+      "title": "Bài 1: あ ~ おつり",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-2",
+      "level": "N4",
+      "lessonNumber": 2,
+      "title": "Bài 2: おもちゃ ~ ごらんになる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-3",
+      "level": "N4",
+      "lessonNumber": 3,
+      "title": "Bài 3: これから ~ そう",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-4",
+      "level": "N4",
+      "lessonNumber": 4,
+      "title": "Bài 4: ソフト ~ ねっしん",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-5",
+      "level": "N4",
+      "lessonNumber": 5,
+      "title": "Bài 5: のど ~ レジ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-6",
+      "level": "N4",
+      "lessonNumber": 6,
+      "title": "Bài 6: レポート/リポート ~ 億",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-7",
+      "level": "N4",
+      "lessonNumber": 7,
+      "title": "Bài 7: 屋上 ~ 割合",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-8",
+      "level": "N4",
+      "lessonNumber": 8,
+      "title": "Bài 8: 滑る ~ 泣く",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-9",
+      "level": "N4",
+      "lessonNumber": 9,
+      "title": "Bài 9: 競争 ~ 絹",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-10",
+      "level": "N4",
+      "lessonNumber": 10,
+      "title": "Bài 10: 見える ~ 込む",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-11",
+      "level": "N4",
+      "lessonNumber": 11,
+      "title": "Bài 11: 今度 ~ 試験",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-12",
+      "level": "N4",
+      "lessonNumber": 12,
+      "title": "Bài 12: 試合 ~ 舟",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-13",
+      "level": "N4",
+      "lessonNumber": 13,
+      "title": "Bài 13: 集める ~ 飾る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-14",
+      "level": "N4",
+      "lessonNumber": 14,
+      "title": "Bài 14: 植える ~ 生きる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-15",
+      "level": "N4",
+      "lessonNumber": 15,
+      "title": "Bài 15: 生活 ~ 続ける",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-16",
+      "level": "N4",
+      "lessonNumber": 16,
+      "title": "Bài 16: 卒業 ~ 丁寧",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-17",
+      "level": "N4",
+      "lessonNumber": 17,
+      "title": "Bài 17: 調べる ~ 踏む",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-18",
+      "level": "N4",
+      "lessonNumber": 18,
+      "title": "Bài 18: 逃げる ~ 飛行場",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-19",
+      "level": "N4",
+      "lessonNumber": 19,
+      "title": "Bài 19: 美しい ~ 変わる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-20",
+      "level": "N4",
+      "lessonNumber": 20,
+      "title": "Bài 20: 片付ける ~ 訳",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-21",
+      "level": "N4",
+      "lessonNumber": 21,
+      "title": "Bài 21: 輸出 ~ 連れる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n4-22",
+      "level": "N4",
+      "lessonNumber": 22,
+      "title": "Bài 22: 連絡 ~ 腕",
+      "vocabCount": 2
+    },
+    {
+      "id": "n3-1",
+      "level": "N3",
+      "lessonNumber": 1,
+      "title": "Bài 1: アイスクリーム ~ ウイスキー",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-2",
+      "level": "N3",
+      "lessonNumber": 2,
+      "title": "Bài 2: うがい ~ キャンプ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-3",
+      "level": "N3",
+      "lessonNumber": 3,
+      "title": "Bài 3: キロ ~ しかも",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-4",
+      "level": "N3",
+      "lessonNumber": 4,
+      "title": "Bài 4: しきりに ~ そして",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-5",
+      "level": "N3",
+      "lessonNumber": 5,
+      "title": "Bài 5: そっくり ~ デート",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-6",
+      "level": "N3",
+      "lessonNumber": 6,
+      "title": "Bài 6: できる ~ にっこり",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-7",
+      "level": "N3",
+      "lessonNumber": 7,
+      "title": "Bài 7: ね ~ ベンチ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-8",
+      "level": "N3",
+      "lessonNumber": 8,
+      "title": "Bài 8: ボーイ ~ よると",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-9",
+      "level": "N3",
+      "lessonNumber": 9,
+      "title": "Bài 9: よろしく ~ 囲む",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-10",
+      "level": "N3",
+      "lessonNumber": 10,
+      "title": "Bài 10: 委員 ~ 一致",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-11",
+      "level": "N3",
+      "lessonNumber": 11,
+      "title": "Bài 11: 一度に ~ 衛星",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-12",
+      "level": "N3",
+      "lessonNumber": 12,
+      "title": "Bài 12: 鋭い ~ 下",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-13",
+      "level": "N3",
+      "lessonNumber": 13,
+      "title": "Bài 13: 下さる ~ 過ごす",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-14",
+      "level": "N3",
+      "lessonNumber": 14,
+      "title": "Bài 14: 過去 ~ 咳",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-15",
+      "level": "N3",
+      "lessonNumber": 15,
+      "title": "Bài 15: 害 ~ 勧める",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-16",
+      "level": "N3",
+      "lessonNumber": 16,
+      "title": "Bài 16: 完成 ~ 含む",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-17",
+      "level": "N3",
+      "lessonNumber": 17,
+      "title": "Bài 17: 岸 ~ 気付く",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-18",
+      "level": "N3",
+      "lessonNumber": 18,
+      "title": "Bài 18: 気味 ~ 急速",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-19",
+      "level": "N3",
+      "lessonNumber": 19,
+      "title": "Bài 19: 救う ~ 恐怖",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-20",
+      "level": "N3",
+      "lessonNumber": 20,
+      "title": "Bài 20: 教科書 ~ 苦しい",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-21",
+      "level": "N3",
+      "lessonNumber": 21,
+      "title": "Bài 21: 苦しむ ~ 計",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-22",
+      "level": "N3",
+      "lessonNumber": 22,
+      "title": "Bài 22: 計る ~ 建築",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-23",
+      "level": "N3",
+      "lessonNumber": 23,
+      "title": "Bài 23: 憲法 ~ 言う",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-24",
+      "level": "N3",
+      "lessonNumber": 24,
+      "title": "Bài 24: 言わば ~ 向く",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-25",
+      "level": "N3",
+      "lessonNumber": 25,
+      "title": "Bài 25: 向ける ~ 合わせる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-26",
+      "level": "N3",
+      "lessonNumber": 26,
+      "title": "Bài 26: 合格 ~ 差別",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-27",
+      "level": "N3",
+      "lessonNumber": 27,
+      "title": "Bài 27: 砂漠 ~ 参考",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-28",
+      "level": "N3",
+      "lessonNumber": 28,
+      "title": "Bài 28: 散歩 ~ 至る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-29",
+      "level": "N3",
+      "lessonNumber": 29,
+      "title": "Bài 29: 詩 ~ 叱る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-30",
+      "level": "N3",
+      "lessonNumber": 30,
+      "title": "Bài 30: 失う ~ 手品",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-31",
+      "level": "N3",
+      "lessonNumber": 31,
+      "title": "Bài 31: 種 ~ 従兄弟",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-32",
+      "level": "N3",
+      "lessonNumber": 32,
+      "title": "Bài 32: 渋滞 ~ 書類",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-33",
+      "level": "N3",
+      "lessonNumber": 33,
+      "title": "Bài 33: 助ける ~ 症状",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-34",
+      "level": "N3",
+      "lessonNumber": 34,
+      "title": "Bài 34: 省く ~ 職業",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-35",
+      "level": "N3",
+      "lessonNumber": 35,
+      "title": "Bài 35: 触れる ~ 真っ直ぐ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-36",
+      "level": "N3",
+      "lessonNumber": 36,
+      "title": "Bài 36: 真剣 ~ 推薦",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-37",
+      "level": "N3",
+      "lessonNumber": 37,
+      "title": "Bài 37: 水準 ~ 正直",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-38",
+      "level": "N3",
+      "lessonNumber": 38,
+      "title": "Bài 38: 清潔 ~ 節約",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-39",
+      "level": "N3",
+      "lessonNumber": 39,
+      "title": "Bài 39: 説 ~ 組",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-40",
+      "level": "N3",
+      "lessonNumber": 40,
+      "title": "Bài 40: 組む ~ 尊敬",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-41",
+      "level": "N3",
+      "lessonNumber": 41,
+      "title": "Bài 41: 尊重 ~ 大した",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-42",
+      "level": "N3",
+      "lessonNumber": 42,
+      "title": "Bài 42: 大家 ~ 断る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-43",
+      "level": "N3",
+      "lessonNumber": 43,
+      "title": "Bài 43: 暖かい ~ 昼食",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-44",
+      "level": "N3",
+      "lessonNumber": 44,
+      "title": "Bài 44: 注 ~ 通学",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-45",
+      "level": "N3",
+      "lessonNumber": 45,
+      "title": "Bài 45: 通行 ~ 伝統",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-46",
+      "level": "N3",
+      "lessonNumber": 46,
+      "title": "Bài 46: 田 ~ 豆",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-47",
+      "level": "N3",
+      "lessonNumber": 47,
+      "title": "Bài 47: 頭痛 ~ 匂い",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-48",
+      "level": "N3",
+      "lessonNumber": 48,
+      "title": "Bài 48: 日 ~ 農家",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-49",
+      "level": "N3",
+      "lessonNumber": 49,
+      "title": "Bài 49: 農業 ~ 抜く",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-50",
+      "level": "N3",
+      "lessonNumber": 50,
+      "title": "Bài 50: 抜ける ~ 備える",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-51",
+      "level": "N3",
+      "lessonNumber": 51,
+      "title": "Bài 51: 微笑む ~ 不平",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-52",
+      "level": "N3",
+      "lessonNumber": 52,
+      "title": "Bài 52: 不満 ~ 分ける",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-53",
+      "level": "N3",
+      "lessonNumber": 53,
+      "title": "Bài 53: 分析 ~ 墓",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-54",
+      "level": "N3",
+      "lessonNumber": 54,
+      "title": "Bài 54: 暮らし ~ 頬",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-55",
+      "level": "N3",
+      "lessonNumber": 55,
+      "title": "Bài 55: 本人 ~ 明ける",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-56",
+      "level": "N3",
+      "lessonNumber": 56,
+      "title": "Bài 56: 明らか ~ 訳",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-57",
+      "level": "N3",
+      "lessonNumber": 57,
+      "title": "Bài 57: 愉快 ~ 預ける",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-58",
+      "level": "N3",
+      "lessonNumber": 58,
+      "title": "Bài 58: 幼い ~ 陸",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-59",
+      "level": "N3",
+      "lessonNumber": 59,
+      "title": "Bài 59: 率 ~ 労働",
+      "vocabCount": 30
+    },
+    {
+      "id": "n3-60",
+      "level": "N3",
+      "lessonNumber": 60,
+      "title": "Bài 60: 老い ~ 轢く",
+      "vocabCount": 14
+    },
+    {
+      "id": "n2-1",
+      "level": "N2",
+      "lessonNumber": 1,
+      "title": "Bài 1: あいかわらず ~ うっかり",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-2",
+      "level": "N2",
+      "lessonNumber": 2,
+      "title": "Bài 2: うどん ~ オルガン",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-3",
+      "level": "N2",
+      "lessonNumber": 3,
+      "title": "Bài 3: お帰り ~ くれぐれも",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-4",
+      "level": "N2",
+      "lessonNumber": 4,
+      "title": "Bài 4: けれど/けれども ~ しあさって",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-5",
+      "level": "N2",
+      "lessonNumber": 5,
+      "title": "Bài 5: シーズン ~ スピーカー",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-6",
+      "level": "N2",
+      "lessonNumber": 6,
+      "title": "Bài 6: スマート ~ チップ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-7",
+      "level": "N2",
+      "lessonNumber": 7,
+      "title": "Bài 7: チョーク ~ パターン",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-8",
+      "level": "N2",
+      "lessonNumber": 8,
+      "title": "Bài 8: バック ~ ブローチ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-9",
+      "level": "N2",
+      "lessonNumber": 9,
+      "title": "Bài 9: プログラム ~ めでたい",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-10",
+      "level": "N2",
+      "lessonNumber": 10,
+      "title": "Bài 10: メニュー ~ ローマじ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-11",
+      "level": "N2",
+      "lessonNumber": 11,
+      "title": "Bài 11: ロッカー ~ 一通り",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-12",
+      "level": "N2",
+      "lessonNumber": 12,
+      "title": "Bài 12: 一定 ~ 延ばす",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-13",
+      "level": "N2",
+      "lessonNumber": 13,
+      "title": "Bài 13: 延びる ~ 下旬",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-14",
+      "level": "N2",
+      "lessonNumber": 14,
+      "title": "Bài 14: 下書き ~ 過失",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-15",
+      "level": "N2",
+      "lessonNumber": 15,
+      "title": "Bài 15: 過剰 ~ 絵の具",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-16",
+      "level": "N2",
+      "lessonNumber": 16,
+      "title": "Bài 16: 開会 ~ 掛け算",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-17",
+      "level": "N2",
+      "lessonNumber": 17,
+      "title": "Bài 17: 割と ~ 缶詰",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-18",
+      "level": "N2",
+      "lessonNumber": 18,
+      "title": "Bài 18: 観測 ~ 飢える",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-19",
+      "level": "N2",
+      "lessonNumber": 19,
+      "title": "Bài 19: 飢饉 ~ 響く",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-20",
+      "level": "N2",
+      "lessonNumber": 20,
+      "title": "Bài 20: 驚かす ~ 恵まれる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-21",
+      "level": "N2",
+      "lessonNumber": 21,
+      "title": "Bài 21: 慶び ~ 見下ろす",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-22",
+      "level": "N2",
+      "lessonNumber": 22,
+      "title": "Bài 22: 見学 ~ 古典",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-23",
+      "level": "N2",
+      "lessonNumber": 23,
+      "title": "Bài 23: 呼び掛ける ~ 公式",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-24",
+      "level": "N2",
+      "lessonNumber": 24,
+      "title": "Bài 24: 公衆 ~ 綱",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-25",
+      "level": "N2",
+      "lessonNumber": 25,
+      "title": "Bài 25: 耕す ~ 混合",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-26",
+      "level": "N2",
+      "lessonNumber": 26,
+      "title": "Bài 26: 紺 ~ 作製",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-27",
+      "level": "N2",
+      "lessonNumber": 27,
+      "title": "Bài 27: 削る ~ 司会",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-28",
+      "level": "N2",
+      "lessonNumber": 28,
+      "title": "Bài 28: 四つ角 ~ 時速",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-29",
+      "level": "N2",
+      "lessonNumber": 29,
+      "title": "Bài 29: 次ぐ ~ 社会科学",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-30",
+      "level": "N2",
+      "lessonNumber": 30,
+      "title": "Bài 30: 社説 ~ 修繕",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-31",
+      "level": "N2",
+      "lessonNumber": 31,
+      "title": "Bài 31: 終点 ~ 出勤",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-32",
+      "level": "N2",
+      "lessonNumber": 32,
+      "title": "Bài 32: 出迎え ~ 勝負",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-33",
+      "level": "N2",
+      "lessonNumber": 33,
+      "title": "Bài 33: 商業 ~ 上り",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-34",
+      "level": "N2",
+      "lessonNumber": 34,
+      "title": "Bài 34: 上る ~ 振舞う",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-35",
+      "level": "N2",
+      "lessonNumber": 35,
+      "title": "Bài 35: 新幹線 ~ 塵芥",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-36",
+      "level": "N2",
+      "lessonNumber": 36,
+      "title": "Bài 36: 塵紙 ~ 性能",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-37",
+      "level": "N2",
+      "lessonNumber": 37,
+      "title": "Bài 37: 性別 ~ 青白い",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-38",
+      "level": "N2",
+      "lessonNumber": 38,
+      "title": "Bài 38: 静まる ~ 羨む",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-39",
+      "level": "N2",
+      "lessonNumber": 39,
+      "title": "Bài 39: 船便 ~ 窓口",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-40",
+      "level": "N2",
+      "lessonNumber": 40,
+      "title": "Bài 40: 総理大臣 ~ 存じる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-41",
+      "level": "N2",
+      "lessonNumber": 41,
+      "title": "Bài 41: 損得 ~ 大通り",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-42",
+      "level": "N2",
+      "lessonNumber": 42,
+      "title": "Bài 42: 大分 ~ 地盤",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-43",
+      "level": "N2",
+      "lessonNumber": 43,
+      "title": "Bài 43: 地味 ~ 調節",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-44",
+      "level": "N2",
+      "lessonNumber": 44,
+      "title": "Bài 44: 調味料 ~ 通用",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-45",
+      "level": "N2",
+      "lessonNumber": 45,
+      "title": "Bài 45: 通路 ~ 纏まる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-46",
+      "level": "N2",
+      "lessonNumber": 46,
+      "title": "Bài 46: 纏める ~ 灯台",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-47",
+      "level": "N2",
+      "lessonNumber": 47,
+      "title": "Bài 47: 灯油 ~ 突く",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-48",
+      "level": "N2",
+      "lessonNumber": 48,
+      "title": "Bài 48: 突っ込む ~ 燃やす",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-49",
+      "level": "N2",
+      "lessonNumber": 49,
+      "title": "Bài 49: 濃度 ~ 薄める",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-50",
+      "level": "N2",
+      "lessonNumber": 50,
+      "title": "Bài 50: 薄暗い ~ 必需品",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-51",
+      "level": "N2",
+      "lessonNumber": 51,
+      "title": "Bài 51: 筆記 ~ 風呂敷",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-52",
+      "level": "N2",
+      "lessonNumber": 52,
+      "title": "Bài 52: 副詞 ~ 平凡",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-53",
+      "level": "N2",
+      "lessonNumber": 53,
+      "title": "Bài 53: 平野 ~ 方言",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-54",
+      "level": "N2",
+      "lessonNumber": 54,
+      "title": "Bài 54: 方針 ~ 枚数",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-55",
+      "level": "N2",
+      "lessonNumber": 55,
+      "title": "Bài 55: 毎度 ~ 鳴らす",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-56",
+      "level": "N2",
+      "lessonNumber": 56,
+      "title": "Bài 56: 姪 ~ 薬缶",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-57",
+      "level": "N2",
+      "lessonNumber": 57,
+      "title": "Bài 57: 薬局 ~ 揚げる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-58",
+      "level": "N2",
+      "lessonNumber": 58,
+      "title": "Bài 58: 洋品店 ~ 流行る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-59",
+      "level": "N2",
+      "lessonNumber": 59,
+      "title": "Bài 59: 流石 ~ 蝋燭",
+      "vocabCount": 30
+    },
+    {
+      "id": "n2-60",
+      "level": "N2",
+      "lessonNumber": 60,
+      "title": "Bài 60: 麓 ~ Ͼ立",
+      "vocabCount": 23
+    },
+    {
+      "id": "n1-1",
+      "level": "N1",
+      "lessonNumber": 1,
+      "title": "Bài 1: アイデア ~ インフレ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-2",
+      "level": "N1",
+      "lessonNumber": 2,
+      "title": "Bài 2: ウェートレス ~ お先に",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-3",
+      "level": "N1",
+      "lessonNumber": 3,
+      "title": "Bài 3: お祖父さん ~ キャッチ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-4",
+      "level": "N1",
+      "lessonNumber": 4,
+      "title": "Bài 4: キャリア ~ ご馳走",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-5",
+      "level": "N1",
+      "lessonNumber": 5,
+      "title": "Bài 5: ご馳走さま ~ スタジオ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-6",
+      "level": "N1",
+      "lessonNumber": 6,
+      "title": "Bài 6: スチーム ~ その上",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-7",
+      "level": "N1",
+      "lessonNumber": 7,
+      "title": "Bài 7: その内 ~ でかい",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-8",
+      "level": "N1",
+      "lessonNumber": 8,
+      "title": "Bài 8: デコレーション ~ ネガ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-9",
+      "level": "N1",
+      "lessonNumber": 9,
+      "title": "Bài 9: ねじ回し ~ ブルー",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-10",
+      "level": "N1",
+      "lessonNumber": 10,
+      "title": "Bài 10: フロント ~ メーカー",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-11",
+      "level": "N1",
+      "lessonNumber": 11,
+      "title": "Bài 11: メッセージ ~ ロマンチック",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-12",
+      "level": "N1",
+      "lessonNumber": 12,
+      "title": "Bài 12: ワット ~ 伊井",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-13",
+      "level": "N1",
+      "lessonNumber": 13,
+      "title": "Bài 13: 位地 ~ 衣類",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-14",
+      "level": "N1",
+      "lessonNumber": 14,
+      "title": "Bài 14: 違える ~ 一部分",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-15",
+      "level": "N1",
+      "lessonNumber": 15,
+      "title": "Bài 15: 一別 ~ 嘘つき",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-16",
+      "level": "N1",
+      "lessonNumber": 16,
+      "title": "Bài 16: 云々 ~ 沿線",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-17",
+      "level": "N1",
+      "lessonNumber": 17,
+      "title": "Bài 17: 演じる ~ 殴る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-18",
+      "level": "N1",
+      "lessonNumber": 18,
+      "title": "Bài 18: 黄金 ~ 何しろ",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-19",
+      "level": "N1",
+      "lessonNumber": 19,
+      "title": "Bài 19: 何だか ~ 可愛い",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-20",
+      "level": "N1",
+      "lessonNumber": 20,
+      "title": "Bài 20: 可愛がる ~ 荷",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-21",
+      "level": "N1",
+      "lessonNumber": 21,
+      "title": "Bài 21: 荷造り ~ 回収",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-22",
+      "level": "N1",
+      "lessonNumber": 22,
+      "title": "Bài 22: 回送 ~ 外観",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-23",
+      "level": "N1",
+      "lessonNumber": 23,
+      "title": "Bài 23: 外相 ~ 隔たる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-24",
+      "level": "N1",
+      "lessonNumber": 24,
+      "title": "Bài 24: 隔週 ~ 粥",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-25",
+      "level": "N1",
+      "lessonNumber": 25,
+      "title": "Bài 25: 乾 ~ 慣例",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-26",
+      "level": "N1",
+      "lessonNumber": 26,
+      "title": "Bài 26: 換算 ~ 間違う",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-27",
+      "level": "N1",
+      "lessonNumber": 27,
+      "title": "Bài 27: 間柄 ~ 基金",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-28",
+      "level": "N1",
+      "lessonNumber": 28,
+      "title": "Bài 28: 奇数 ~ 祈り",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-29",
+      "level": "N1",
+      "lessonNumber": 29,
+      "title": "Bài 29: 季刊 ~ 議決",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-30",
+      "level": "N1",
+      "lessonNumber": 30,
+      "title": "Bài 30: 議事堂 ~ 救済",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-31",
+      "level": "N1",
+      "lessonNumber": 31,
+      "title": "Bài 31: 朽ちる ~ 共和",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-32",
+      "level": "N1",
+      "lessonNumber": 32,
+      "title": "Bài 32: 凶作 ~ 況して",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-33",
+      "level": "N1",
+      "lessonNumber": 33,
+      "title": "Bài 33: 脅かす ~ 勤勉",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-34",
+      "level": "N1",
+      "lessonNumber": 34,
+      "title": "Bài 34: 勤務 ~ 空間",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-35",
+      "level": "N1",
+      "lessonNumber": 35,
+      "title": "Bài 35: 空腹 ~ 携帯",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-36",
+      "level": "N1",
+      "lessonNumber": 36,
+      "title": "Bài 36: 敬具 ~ 決勝",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-37",
+      "level": "N1",
+      "lessonNumber": 37,
+      "title": "Bài 37: 決断 ~ 権",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-38",
+      "level": "N1",
+      "lessonNumber": 38,
+      "title": "Bài 38: 権威 ~ 元素",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-39",
+      "level": "N1",
+      "lessonNumber": 39,
+      "title": "Bài 39: 元年 ~ 限定",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-40",
+      "level": "N1",
+      "lessonNumber": 40,
+      "title": "Bài 40: 個 ~ 後回し",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-41",
+      "level": "N1",
+      "lessonNumber": 41,
+      "title": "Bài 41: 後悔 ~ 公然",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-42",
+      "level": "N1",
+      "lessonNumber": 42,
+      "title": "Bài 42: 公団 ~ 拘束",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-43",
+      "level": "N1",
+      "lessonNumber": 43,
+      "title": "Bài 43: 控える ~ 購入",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-44",
+      "level": "N1",
+      "lessonNumber": 44,
+      "title": "Bài 44: 購買 ~ 国有",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-45",
+      "level": "N1",
+      "lessonNumber": 45,
+      "title": "Bài 45: 国連 ~ 左利き",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-46",
+      "level": "N1",
+      "lessonNumber": 46,
+      "title": "Bài 46: 差し引く ~ 済まない",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-47",
+      "level": "N1",
+      "lessonNumber": 47,
+      "title": "Bài 47: 済みません ~ 殺人",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-48",
+      "level": "N1",
+      "lessonNumber": 48,
+      "title": "Bài 48: 雑 ~ 残金",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-49",
+      "level": "N1",
+      "lessonNumber": 49,
+      "title": "Bài 49: 残高 ~ 市",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-50",
+      "level": "N1",
+      "lessonNumber": 50,
+      "title": "Bài 50: 市街 ~ 視覚",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-51",
+      "level": "N1",
+      "lessonNumber": 51,
+      "title": "Bài 51: 視察 ~ 時刻表",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-52",
+      "level": "N1",
+      "lessonNumber": 52,
+      "title": "Bài 52: 時差 ~ 七日",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-53",
+      "level": "N1",
+      "lessonNumber": 53,
+      "title": "Bài 53: 執着 ~ 若しかして",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-54",
+      "level": "N1",
+      "lessonNumber": 54,
+      "title": "Bài 54: 若しかすると ~ 取り替え",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-55",
+      "level": "N1",
+      "lessonNumber": 55,
+      "title": "Bài 55: 取り調べる ~ 種",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-56",
+      "level": "N1",
+      "lessonNumber": 56,
+      "title": "Bài 56: 種々 ~ 修飾",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-57",
+      "level": "N1",
+      "lessonNumber": 57,
+      "title": "Bài 57: 修了 ~ 銃",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-58",
+      "level": "N1",
+      "lessonNumber": 58,
+      "title": "Bài 58: 宿命 ~ 処分",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-59",
+      "level": "N1",
+      "lessonNumber": 59,
+      "title": "Bài 59: 初 ~ 傷",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-60",
+      "level": "N1",
+      "lessonNumber": 60,
+      "title": "Bài 60: 傷付く ~ 消耗",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-61",
+      "level": "N1",
+      "lessonNumber": 61,
+      "title": "Bài 61: 焦げ茶 ~ 丈夫",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-62",
+      "level": "N1",
+      "lessonNumber": 62,
+      "title": "Bài 62: 乗っ取る ~ 信者",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-63",
+      "level": "N1",
+      "lessonNumber": 63,
+      "title": "Bài 63: 信任 ~ 申し出る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-64",
+      "level": "N1",
+      "lessonNumber": 64,
+      "title": "Bài 64: 申し入れる ~ 進み",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-65",
+      "level": "N1",
+      "lessonNumber": 65,
+      "title": "Bài 65: 進化 ~ 推理",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-66",
+      "level": "N1",
+      "lessonNumber": 66,
+      "title": "Bài 66: 水気 ~ 勢力",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-67",
+      "level": "N1",
+      "lessonNumber": 67,
+      "title": "Bài 67: 姓名 ~ 生まれつき",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-68",
+      "level": "N1",
+      "lessonNumber": 68,
+      "title": "Bài 68: 生やす ~ 積もり",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-69",
+      "level": "N1",
+      "lessonNumber": 69,
+      "title": "Bài 69: 責務 ~ 絶望",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-70",
+      "level": "N1",
+      "lessonNumber": 70,
+      "title": "Bài 70: 仙 ~ 船舶",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-71",
+      "level": "N1",
+      "lessonNumber": 71,
+      "title": "Bài 71: 選挙 ~ 素敵",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-72",
+      "level": "N1",
+      "lessonNumber": 72,
+      "title": "Bài 72: 素朴 ~ 相変わらず",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-73",
+      "level": "N1",
+      "lessonNumber": 73,
+      "title": "Bài 73: 総 ~ 束縛",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-74",
+      "level": "N1",
+      "lessonNumber": 74,
+      "title": "Bài 74: 足し算 ~ 妥協",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-75",
+      "level": "N1",
+      "lessonNumber": 75,
+      "title": "Bài 75: 妥結 ~ 帯びる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-76",
+      "level": "N1",
+      "lessonNumber": 76,
+      "title": "Bài 76: 待ち遠しい ~ 大概",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-77",
+      "level": "N1",
+      "lessonNumber": 77,
+      "title": "Bài 77: 大筋 ~ 嘆く",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-78",
+      "level": "N1",
+      "lessonNumber": 78,
+      "title": "Bài 78: 担う ~ 知り合い",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-79",
+      "level": "N1",
+      "lessonNumber": 79,
+      "title": "Bài 79: 知性 ~ 着目",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-80",
+      "level": "N1",
+      "lessonNumber": 80,
+      "title": "Bài 80: 着陸 ~ 帳",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-81",
+      "level": "N1",
+      "lessonNumber": 81,
+      "title": "Bài 81: 庁 ~ 直感",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-82",
+      "level": "N1",
+      "lessonNumber": 82,
+      "title": "Bài 82: 直面 ~ 剃る",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-83",
+      "level": "N1",
+      "lessonNumber": 83,
+      "title": "Bài 83: 堤防 ~ 天皇",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-84",
+      "level": "N1",
+      "lessonNumber": 84,
+      "title": "Bài 84: 天国 ~ 殿様",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-85",
+      "level": "N1",
+      "lessonNumber": 85,
+      "title": "Bài 85: 田園 ~ 倒産",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-86",
+      "level": "N1",
+      "lessonNumber": 86,
+      "title": "Bài 86: 冬眠 ~ 踏まえる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-87",
+      "level": "N1",
+      "lessonNumber": 87,
+      "title": "Bài 87: 逃げ出す ~ 導入",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-88",
+      "level": "N1",
+      "lessonNumber": 88,
+      "title": "Bài 88: 憧れ ~ 内乱",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-89",
+      "level": "N1",
+      "lessonNumber": 89,
+      "title": "Bài 89: 内陸 ~ 如何にも",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-90",
+      "level": "N1",
+      "lessonNumber": 90,
+      "title": "Bài 90: 尿 ~ 納入",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-91",
+      "level": "N1",
+      "lessonNumber": 91,
+      "title": "Bài 91: 脳 ~ 配偶者",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-92",
+      "level": "N1",
+      "lessonNumber": 92,
+      "title": "Bài 92: 配置 ~ 発生",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-93",
+      "level": "N1",
+      "lessonNumber": 93,
+      "title": "Bài 93: 発足 ~ 繁盛",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-94",
+      "level": "N1",
+      "lessonNumber": 94,
+      "title": "Bài 94: 煩わしい ~ 備わる",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-95",
+      "level": "N1",
+      "lessonNumber": 95,
+      "title": "Bài 95: 尾 ~ 頻りに",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-96",
+      "level": "N1",
+      "lessonNumber": 96,
+      "title": "Bài 96: 頻繁 ~ 富む",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-97",
+      "level": "N1",
+      "lessonNumber": 97,
+      "title": "Bài 97: 富豪 ~ 風俗",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-98",
+      "level": "N1",
+      "lessonNumber": 98,
+      "title": "Bài 98: 風土 ~ 分裂",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-99",
+      "level": "N1",
+      "lessonNumber": 99,
+      "title": "Bài 99: 噴出 ~ 偏見",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-100",
+      "level": "N1",
+      "lessonNumber": 100,
+      "title": "Bài 100: 変革 ~ 捕獲",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-101",
+      "level": "N1",
+      "lessonNumber": 101,
+      "title": "Bài 101: 捕鯨 ~ 宝器",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-102",
+      "level": "N1",
+      "lessonNumber": 102,
+      "title": "Bài 102: 峰 ~ 冒頭",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-103",
+      "level": "N1",
+      "lessonNumber": 103,
+      "title": "Bài 103: 紡績 ~ 埋蔵",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-104",
+      "level": "N1",
+      "lessonNumber": 104,
+      "title": "Bài 104: 枚 ~ 民宿",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-105",
+      "level": "N1",
+      "lessonNumber": 105,
+      "title": "Bài 105: 民俗 ~ 名誉",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-106",
+      "level": "N1",
+      "lessonNumber": 106,
+      "title": "Bài 106: 命中 ~ 目蓋",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-107",
+      "level": "N1",
+      "lessonNumber": 107,
+      "title": "Bài 107: 目覚しい ~ 愈々",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-108",
+      "level": "N1",
+      "lessonNumber": 108,
+      "title": "Bài 108: 油絵 ~ 予想",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-109",
+      "level": "N1",
+      "lessonNumber": 109,
+      "title": "Bài 109: 余り ~ 抑制",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-110",
+      "level": "N1",
+      "lessonNumber": 110,
+      "title": "Bài 110: 欲深い ~ 裏返し",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-111",
+      "level": "N1",
+      "lessonNumber": 111,
+      "title": "Bài 111: 率いる ~ 領海",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-112",
+      "level": "N1",
+      "lessonNumber": 112,
+      "title": "Bài 112: 領地 ~ 連日",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-113",
+      "level": "N1",
+      "lessonNumber": 113,
+      "title": "Bài 113: 連邦 ~ 詫び",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-114",
+      "level": "N1",
+      "lessonNumber": 114,
+      "title": "Bài 114: 藁 ~ 曖昧",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-115",
+      "level": "N1",
+      "lessonNumber": 115,
+      "title": "Bài 115: 檻 ~ 踵",
+      "vocabCount": 30
+    },
+    {
+      "id": "n1-116",
+      "level": "N1",
+      "lessonNumber": 116,
+      "title": "Bài 116: 躊躇う ~ 鼾",
+      "vocabCount": 13
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

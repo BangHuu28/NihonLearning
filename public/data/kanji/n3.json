@@ -1,0 +1,8197 @@
+[
+  {
+    "id": "k246",
+    "level": "N3",
+    "character": "政",
+    "strokes": 9,
+    "grade": 5,
+    "freq": 17,
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "まつりごと",
+      "まん"
+    ],
+    "meanings": [
+      "chính trị",
+      "chính phủ"
+    ]
+  },
+  {
+    "id": "k247",
+    "level": "N3",
+    "character": "議",
+    "strokes": 20,
+    "grade": 4,
+    "freq": 25,
+    "onyomi": [
+      "ギ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "sự cân nhắc",
+      "tư vấn",
+      "tranh luận",
+      "xem xét"
+    ]
+  },
+  {
+    "id": "k248",
+    "level": "N3",
+    "character": "民",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 28,
+    "onyomi": [
+      "ミン"
+    ],
+    "kunyomi": [
+      "たみ"
+    ],
+    "meanings": [
+      "mọi người",
+      "quốc gia",
+      "môn học"
+    ]
+  },
+  {
+    "id": "k249",
+    "level": "N3",
+    "character": "連",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 30,
+    "onyomi": [
+      "レン"
+    ],
+    "kunyomi": [
+      "つら.なる",
+      "つら.ねる",
+      "つ.れる",
+      "-づ.れ"
+    ],
+    "meanings": [
+      "mang theo",
+      "chì",
+      "tham gia",
+      "kết nối",
+      "bữa tiệc",
+      "băng đảng",
+      "bè phái"
+    ]
+  },
+  {
+    "id": "k250",
+    "level": "N3",
+    "character": "対",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 34,
+    "onyomi": [
+      "タイ",
+      "ツイ"
+    ],
+    "kunyomi": [
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "meanings": [
+      "vis-a-vis",
+      "ngược lại",
+      "thậm chí",
+      "bằng nhau",
+      "so với",
+      "chống",
+      "so sánh"
+    ]
+  },
+  {
+    "id": "k251",
+    "level": "N3",
+    "character": "部",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 36,
+    "onyomi": [
+      "ブ"
+    ],
+    "kunyomi": [
+      "-べ"
+    ],
+    "meanings": [
+      "phần",
+      "văn phòng",
+      "ban",
+      "lớp học",
+      "sao chép",
+      "một phần",
+      "phần",
+      "quầy bán bản sao của một tờ báo hoặc tạp chí"
+    ]
+  },
+  {
+    "id": "k252",
+    "level": "N3",
+    "character": "合",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 41,
+    "onyomi": [
+      "ゴウ",
+      "ガッ",
+      "カッ"
+    ],
+    "kunyomi": [
+      "あ.う",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "あ.わせる",
+      "-あ.わせる"
+    ],
+    "meanings": [
+      "phù hợp",
+      "bộ đồ",
+      "tham gia",
+      "0,1"
+    ]
+  },
+  {
+    "id": "k253",
+    "level": "N3",
+    "character": "市",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 42,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "いち"
+    ],
+    "meanings": [
+      "thị trường",
+      "thành phố",
+      "thị trấn"
+    ]
+  },
+  {
+    "id": "k254",
+    "level": "N3",
+    "character": "内",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 44,
+    "onyomi": [
+      "ナイ",
+      "ダイ"
+    ],
+    "kunyomi": [
+      "うち"
+    ],
+    "meanings": [
+      "bên trong",
+      "bên trong",
+      "giữa",
+      "trong số",
+      "nhà ở",
+      "nhà"
+    ]
+  },
+  {
+    "id": "k255",
+    "level": "N3",
+    "character": "相",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 45,
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あい-"
+    ],
+    "meanings": [
+      "liên",
+      "lẫn nhau",
+      "cùng với nhau",
+      "lẫn nhau",
+      "bộ trưởng nhà nước",
+      "ủy viên hội đồng",
+      "khía cạnh",
+      "giai đoạn",
+      "tướng số"
+    ]
+  },
+  {
+    "id": "k256",
+    "level": "N3",
+    "character": "定",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 48,
+    "onyomi": [
+      "テイ",
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "さだ.める",
+      "さだ.まる",
+      "さだ.か"
+    ],
+    "meanings": [
+      "xác định",
+      "sửa chữa",
+      "thành lập",
+      "quyết định"
+    ]
+  },
+  {
+    "id": "k257",
+    "level": "N3",
+    "character": "回",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 50,
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [
+      "まわ.る",
+      "-まわ.る",
+      "-まわ.り",
+      "まわ.す",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
+    ],
+    "meanings": [
+      "-lần",
+      "tròn",
+      "trò chơi",
+      "quay vòng",
+      "bộ đếm sự xuất hiện"
+    ]
+  },
+  {
+    "id": "k258",
+    "level": "N3",
+    "character": "選",
+    "strokes": 15,
+    "grade": 4,
+    "freq": 57,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "えら.ぶ",
+      "え.る",
+      "よ.る"
+    ],
+    "meanings": [
+      "bầu cử",
+      "chọn",
+      "chọn",
+      "thích hơn"
+    ]
+  },
+  {
+    "id": "k259",
+    "level": "N3",
+    "character": "米",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 61,
+    "onyomi": [
+      "ベイ",
+      "マイ",
+      "メエトル"
+    ],
+    "kunyomi": [
+      "こめ",
+      "よね"
+    ],
+    "meanings": [
+      "cơm",
+      "Hoa Kỳ",
+      "mét"
+    ]
+  },
+  {
+    "id": "k260",
+    "level": "N3",
+    "character": "実",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 68,
+    "onyomi": [
+      "ジツ",
+      "シツ"
+    ],
+    "kunyomi": [
+      "み",
+      "みの.る",
+      "まこと",
+      "みの",
+      "みち.る"
+    ],
+    "meanings": [
+      "thực tế",
+      "sự thật",
+      "hạt giống",
+      "hoa quả",
+      "hạt dẻ"
+    ]
+  },
+  {
+    "id": "k261",
+    "level": "N3",
+    "character": "関",
+    "strokes": 14,
+    "grade": 4,
+    "freq": 70,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "せき",
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "meanings": [
+      "kết nối",
+      "rào cản",
+      "cửa ngõ",
+      "liên quan đến",
+      "liên quan đến"
+    ]
+  },
+  {
+    "id": "k262",
+    "level": "N3",
+    "character": "決",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 71,
+    "onyomi": [
+      "ケツ"
+    ],
+    "kunyomi": [
+      "き.める",
+      "-ぎ.め",
+      "き.まる",
+      "さ.く"
+    ],
+    "meanings": [
+      "quyết định",
+      "sửa chữa",
+      "đồng ý",
+      "bổ nhiệm"
+    ]
+  },
+  {
+    "id": "k263",
+    "level": "N3",
+    "character": "全",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 75,
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "meanings": [
+      "toàn bộ",
+      "toàn bộ",
+      "tất cả",
+      "hoàn thành",
+      "thực hiện"
+    ]
+  },
+  {
+    "id": "k264",
+    "level": "N3",
+    "character": "表",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 77,
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "kunyomi": [
+      "おもて",
+      "-おもて",
+      "あらわ.す",
+      "あらわ.れる",
+      "あら.わす"
+    ],
+    "meanings": [
+      "bề mặt",
+      "bàn",
+      "biểu đồ",
+      "sơ đồ"
+    ]
+  },
+  {
+    "id": "k265",
+    "level": "N3",
+    "character": "戦",
+    "strokes": 13,
+    "grade": 4,
+    "freq": 78,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "いくさ",
+      "たたか.う",
+      "おのの.く",
+      "そよ.ぐ",
+      "わなな.く"
+    ],
+    "meanings": [
+      "chiến tranh",
+      "trận chiến",
+      "trận đấu"
+    ]
+  },
+  {
+    "id": "k266",
+    "level": "N3",
+    "character": "経",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 79,
+    "onyomi": [
+      "ケイ",
+      "キョウ",
+      "キン"
+    ],
+    "kunyomi": [
+      "へ.る",
+      "た.つ",
+      "たていと",
+      "はか.る",
+      "のり"
+    ],
+    "meanings": [
+      "kinh",
+      "kinh độ",
+      "vượt qua",
+      "hết hạn",
+      "làm cong vênh"
+    ]
+  },
+  {
+    "id": "k267",
+    "level": "N3",
+    "character": "最",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 82,
+    "onyomi": [
+      "サイ",
+      "シュ"
+    ],
+    "kunyomi": [
+      "もっと.も",
+      "つま"
+    ],
+    "meanings": [
+      "hết sức",
+      "nhất",
+      "cực đoan"
+    ]
+  },
+  {
+    "id": "k268",
+    "level": "N3",
+    "character": "現",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 85,
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "あらわ.れる",
+      "あらわ.す",
+      "うつつ",
+      "うつ.つ"
+    ],
+    "meanings": [
+      "hiện tại",
+      "hiện có",
+      "thực tế"
+    ]
+  },
+  {
+    "id": "k269",
+    "level": "N3",
+    "character": "調",
+    "strokes": 15,
+    "grade": 3,
+    "freq": 87,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "しら.べる",
+      "しら.べ",
+      "ととの.う",
+      "ととの.える"
+    ],
+    "meanings": [
+      "điều chỉnh",
+      "giai điệu",
+      "mét",
+      "phím (âm nhạc)",
+      "phong cách viết",
+      "chuẩn bị",
+      "trừ tà",
+      "điều tra",
+      "hòa hợp",
+      "làm trung gian"
+    ]
+  },
+  {
+    "id": "k270",
+    "level": "N3",
+    "character": "化",
+    "strokes": 4,
+    "grade": 3,
+    "freq": 89,
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "ば.ける",
+      "ば.かす",
+      "ふ.ける",
+      "け.する"
+    ],
+    "meanings": [
+      "thay đổi",
+      "có dạng",
+      "ảnh hưởng",
+      "mê hoặc",
+      "lừa dối",
+      "- hóa"
+    ]
+  },
+  {
+    "id": "k271",
+    "level": "N3",
+    "character": "当",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 91,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "あ.たる",
+      "あ.たり",
+      "あ.てる",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "meanings": [
+      "đánh",
+      "đúng",
+      "thích hợp",
+      "bản thân anh ấy"
+    ]
+  },
+  {
+    "id": "k272",
+    "level": "N3",
+    "character": "約",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 94,
+    "onyomi": [
+      "ヤク"
+    ],
+    "kunyomi": [
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "meanings": [
+      "lời hứa",
+      "xấp xỉ",
+      "co lại"
+    ]
+  },
+  {
+    "id": "k273",
+    "level": "N3",
+    "character": "首",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 98,
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "くび"
+    ],
+    "meanings": [
+      "cái cổ",
+      "quầy đếm bài hát và bài thơ"
+    ]
+  },
+  {
+    "id": "k274",
+    "level": "N3",
+    "character": "法",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 100,
+    "onyomi": [
+      "ホウ",
+      "ハッ",
+      "ホッ",
+      "フラン"
+    ],
+    "kunyomi": [
+      "のり"
+    ],
+    "meanings": [
+      "phương pháp",
+      "pháp luật",
+      "cai trị",
+      "nguyên tắc",
+      "người mẫu",
+      "hệ thống"
+    ]
+  },
+  {
+    "id": "k275",
+    "level": "N3",
+    "character": "性",
+    "strokes": 8,
+    "grade": 5,
+    "freq": 104,
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "さが"
+    ],
+    "meanings": [
+      "tình dục",
+      "giới tính",
+      "thiên nhiên"
+    ]
+  },
+  {
+    "id": "k276",
+    "level": "N3",
+    "character": "要",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 106,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "かなめ"
+    ],
+    "meanings": [
+      "cần",
+      "điểm chính",
+      "bản chất",
+      "trục quay",
+      "chìa khóa để"
+    ]
+  },
+  {
+    "id": "k277",
+    "level": "N3",
+    "character": "制",
+    "strokes": 8,
+    "grade": 5,
+    "freq": 108,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "hệ thống",
+      "pháp luật",
+      "cai trị"
+    ]
+  },
+  {
+    "id": "k278",
+    "level": "N3",
+    "character": "治",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 109,
+    "onyomi": [
+      "ジ",
+      "チ"
+    ],
+    "kunyomi": [
+      "おさ.める",
+      "おさ.まる",
+      "なお.る",
+      "なお.す"
+    ],
+    "meanings": [
+      "trị vì",
+      "được bình yên",
+      "bình tĩnh",
+      "khuất phục",
+      "dập tắt",
+      "chính phủ",
+      "chữa bệnh",
+      "chữa lành",
+      "cai trị",
+      "bảo tồn"
+    ]
+  },
+  {
+    "id": "k279",
+    "level": "N3",
+    "character": "務",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 111,
+    "onyomi": [
+      "ム"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "meanings": [
+      "nhiệm vụ",
+      "nhiệm vụ"
+    ]
+  },
+  {
+    "id": "k280",
+    "level": "N3",
+    "character": "成",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 116,
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "meanings": [
+      "biến thành",
+      "trở thành",
+      "nhận được",
+      "phát triển",
+      "trôi qua",
+      "đạt được"
+    ]
+  },
+  {
+    "id": "k281",
+    "level": "N3",
+    "character": "期",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 117,
+    "onyomi": [
+      "キ",
+      "ゴ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "thời kỳ",
+      "thời gian",
+      "ngày",
+      "kỳ hạn"
+    ]
+  },
+  {
+    "id": "k282",
+    "level": "N3",
+    "character": "取",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 122,
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "と.る",
+      "と.り",
+      "と.り-",
+      "とり",
+      "-ど.り"
+    ],
+    "meanings": [
+      "lấy",
+      "lấy",
+      "chiếm lấy"
+    ]
+  },
+  {
+    "id": "k283",
+    "level": "N3",
+    "character": "都",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 123,
+    "onyomi": [
+      "ト",
+      "ツ"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "meanings": [
+      "đô thị",
+      "vốn",
+      "tất cả",
+      "mọi thứ"
+    ]
+  },
+  {
+    "id": "k284",
+    "level": "N3",
+    "character": "和",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 124,
+    "onyomi": [
+      "ワ",
+      "オ",
+      "カ"
+    ],
+    "kunyomi": [
+      "やわ.らぐ",
+      "やわ.らげる",
+      "なご.む",
+      "なご.やか",
+      "あ.える"
+    ],
+    "meanings": [
+      "sự hòa hợp",
+      "phong cách Nhật Bản",
+      "hòa bình",
+      "làm mềm",
+      "Nhật Bản"
+    ]
+  },
+  {
+    "id": "k285",
+    "level": "N3",
+    "character": "機",
+    "strokes": 16,
+    "grade": 4,
+    "freq": 127,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "はた"
+    ],
+    "meanings": [
+      "khung cửi",
+      "cơ chế",
+      "máy móc",
+      "máy bay",
+      "cơ hội",
+      "hiệu lực",
+      "hiệu quả",
+      "dịp"
+    ]
+  },
+  {
+    "id": "k286",
+    "level": "N3",
+    "character": "平",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 128,
+    "onyomi": [
+      "ヘイ",
+      "ビョウ",
+      "ヒョウ"
+    ],
+    "kunyomi": [
+      "たい.ら",
+      "たい.らげる",
+      "ひら"
+    ],
+    "meanings": [
+      "thậm chí",
+      "bằng phẳng",
+      "hòa bình"
+    ]
+  },
+  {
+    "id": "k287",
+    "level": "N3",
+    "character": "加",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 130,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "meanings": [
+      "thêm",
+      "phép cộng",
+      "tăng lên",
+      "tham gia",
+      "bao gồm",
+      "Canada"
+    ]
+  },
+  {
+    "id": "k288",
+    "level": "N3",
+    "character": "受",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 136,
+    "onyomi": [
+      "ジュ"
+    ],
+    "kunyomi": [
+      "う.ける",
+      "-う.け",
+      "う.かる"
+    ],
+    "meanings": [
+      "chấp nhận",
+      "trải qua",
+      "trả lời (điện thoại)",
+      "lấy",
+      "nhận được",
+      "bắt",
+      "nhận được"
+    ]
+  },
+  {
+    "id": "k289",
+    "level": "N3",
+    "character": "続",
+    "strokes": 13,
+    "grade": 4,
+    "freq": 141,
+    "onyomi": [
+      "ゾク",
+      "ショク",
+      "コウ",
+      "キョウ"
+    ],
+    "kunyomi": [
+      "つづ.く",
+      "つづ.ける",
+      "つぐ.ない"
+    ],
+    "meanings": [
+      "tiếp tục",
+      "loạt",
+      "phần tiếp theo"
+    ]
+  },
+  {
+    "id": "k290",
+    "level": "N3",
+    "character": "進",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 142,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "すす.む",
+      "すす.める"
+    ],
+    "meanings": [
+      "tiến lên",
+      "tiến hành",
+      "tiến bộ",
+      "thúc đẩy"
+    ]
+  },
+  {
+    "id": "k291",
+    "level": "N3",
+    "character": "数",
+    "strokes": 13,
+    "grade": 2,
+    "freq": 148,
+    "onyomi": [
+      "スウ",
+      "ス",
+      "サク",
+      "ソク",
+      "シュ"
+    ],
+    "kunyomi": [
+      "かず",
+      "かぞ.える",
+      "しばしば",
+      "せ.める",
+      "わずらわ.しい"
+    ],
+    "meanings": [
+      "con số",
+      "sức mạnh",
+      "số phận",
+      "pháp luật",
+      "số liệu"
+    ]
+  },
+  {
+    "id": "k292",
+    "level": "N3",
+    "character": "記",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 149,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "しる.す"
+    ],
+    "meanings": [
+      "người ghi chép",
+      "tài khoản",
+      "tường thuật"
+    ]
+  },
+  {
+    "id": "k293",
+    "level": "N3",
+    "character": "初",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 152,
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "meanings": [
+      "lần đầu tiên",
+      "sự khởi đầu"
+    ]
+  },
+  {
+    "id": "k294",
+    "level": "N3",
+    "character": "指",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 155,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "ゆび",
+      "さ.す",
+      "-さ.し"
+    ],
+    "meanings": [
+      "ngón tay",
+      "chỉ vào",
+      "chỉ ra",
+      "đưa vào",
+      "chơi (cờ vua)",
+      "thước (thước kẻ)"
+    ]
+  },
+  {
+    "id": "k295",
+    "level": "N3",
+    "character": "権",
+    "strokes": 15,
+    "grade": 6,
+    "freq": 156,
+    "onyomi": [
+      "ケン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "おもり",
+      "かり",
+      "はか.る"
+    ],
+    "meanings": [
+      "thẩm quyền",
+      "quyền lực",
+      "quyền"
+    ]
+  },
+  {
+    "id": "k296",
+    "level": "N3",
+    "character": "支",
+    "strokes": 4,
+    "grade": 5,
+    "freq": 159,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "ささ.える",
+      "つか.える",
+      "か.う"
+    ],
+    "meanings": [
+      "chi nhánh",
+      "hỗ trợ",
+      "duy trì",
+      "gốc nhánh (số 65)"
+    ]
+  },
+  {
+    "id": "k297",
+    "level": "N3",
+    "character": "産",
+    "strokes": 11,
+    "grade": 4,
+    "freq": 161,
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "う.む",
+      "う.まれる",
+      "うぶ-",
+      "む.す"
+    ],
+    "meanings": [
+      "sản phẩm",
+      "gấu",
+      "sinh con",
+      "năng suất",
+      "sinh con",
+      "bản xứ",
+      "tài sản"
+    ]
+  },
+  {
+    "id": "k298",
+    "level": "N3",
+    "character": "点",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 165,
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "meanings": [
+      "chỗ",
+      "điểm",
+      "đánh dấu",
+      "đốm",
+      "dấu thập phân"
+    ]
+  },
+  {
+    "id": "k299",
+    "level": "N3",
+    "character": "報",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 167,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "むく.いる"
+    ],
+    "meanings": [
+      "báo cáo",
+      "tin tức",
+      "phần thưởng",
+      "quả báo"
+    ]
+  },
+  {
+    "id": "k300",
+    "level": "N3",
+    "character": "済",
+    "strokes": 11,
+    "grade": 6,
+    "freq": 168,
+    "onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "す.む",
+      "-ず.み",
+      "-ずみ",
+      "す.まない",
+      "す.ます",
+      "-す.ます",
+      "すく.う",
+      "な.す",
+      "わたし",
+      "わた.る"
+    ],
+    "meanings": [
+      "giải quyết (nợ, v.v.)",
+      "giảm bớt (gánh nặng)",
+      "kết thúc",
+      "kết thúc",
+      "có thể tha thứ được",
+      "không cần"
+    ]
+  },
+  {
+    "id": "k301",
+    "level": "N3",
+    "character": "活",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 171,
+    "onyomi": [
+      "カツ"
+    ],
+    "kunyomi": [
+      "い.きる",
+      "い.かす",
+      "い.ける"
+    ],
+    "meanings": [
+      "sống động",
+      "hồi sức",
+      "được giúp đỡ",
+      "sống"
+    ]
+  },
+  {
+    "id": "k302",
+    "level": "N3",
+    "character": "原",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 172,
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "はら"
+    ],
+    "meanings": [
+      "đồng cỏ",
+      "nguyên bản",
+      "nguyên thủy",
+      "lĩnh vực",
+      "đồng bằng",
+      "đồng cỏ",
+      "lãnh nguyên",
+      "hoang dã"
+    ]
+  },
+  {
+    "id": "k303",
+    "level": "N3",
+    "character": "共",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 174,
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "meanings": [
+      "cùng với nhau",
+      "cả hai",
+      "cũng không",
+      "tất cả",
+      "và",
+      "giống nhau",
+      "với"
+    ]
+  },
+  {
+    "id": "k304",
+    "level": "N3",
+    "character": "得",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 175,
+    "onyomi": [
+      "トク"
+    ],
+    "kunyomi": [
+      "え.る",
+      "う.る"
+    ],
+    "meanings": [
+      "đạt được",
+      "nhận được",
+      "tìm thấy",
+      "kiếm tiền",
+      "có được",
+      "có thể",
+      "tháng năm",
+      "có thể",
+      "lợi nhuận",
+      "lợi thế",
+      "lợi ích"
+    ]
+  },
+  {
+    "id": "k305",
+    "level": "N3",
+    "character": "解",
+    "strokes": 13,
+    "grade": 5,
+    "freq": 176,
+    "onyomi": [
+      "カイ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "と.く",
+      "と.かす",
+      "と.ける",
+      "ほど.く",
+      "ほぐ.す",
+      "わか.る",
+      "さと.る"
+    ],
+    "meanings": [
+      "làm sáng tỏ",
+      "ghi chú",
+      "chìa khóa",
+      "lời giải thích",
+      "sự hiểu biết",
+      "cởi trói",
+      "hoàn tác",
+      "giải quyết",
+      "câu trả lời",
+      "hủy bỏ",
+      "xá tội",
+      "giải thích",
+      "phút"
+    ]
+  },
+  {
+    "id": "k306",
+    "level": "N3",
+    "character": "交",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 178,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも"
+    ],
+    "meanings": [
+      "trộn lẫn",
+      "trộn",
+      "hiệp hội",
+      "đến và đi"
+    ]
+  },
+  {
+    "id": "k307",
+    "level": "N3",
+    "character": "資",
+    "strokes": 13,
+    "grade": 5,
+    "freq": 179,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "tài sản",
+      "tài nguyên",
+      "vốn",
+      "quỹ",
+      "dữ liệu",
+      "có lợi cho",
+      "góp phần vào"
+    ]
+  },
+  {
+    "id": "k308",
+    "level": "N3",
+    "character": "予",
+    "strokes": 4,
+    "grade": 3,
+    "freq": 180,
+    "onyomi": [
+      "ヨ",
+      "シャ"
+    ],
+    "kunyomi": [
+      "あらかじ.め"
+    ],
+    "meanings": [
+      "trước",
+      "trước đó",
+      "bản thân tôi",
+      "tôi"
+    ]
+  },
+  {
+    "id": "k309",
+    "level": "N3",
+    "character": "向",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 182,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "meanings": [
+      "đằng kia",
+      "đối mặt",
+      "vượt xa",
+      "đối đầu",
+      "thách thức",
+      "có xu hướng hướng tới",
+      "cách tiếp cận"
+    ]
+  },
+  {
+    "id": "k310",
+    "level": "N3",
+    "character": "際",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 183,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "きわ",
+      "-ぎわ"
+    ],
+    "meanings": [
+      "dịp",
+      "bên",
+      "cạnh",
+      "bờ vực",
+      "nguy hiểm",
+      "mạo hiểm",
+      "không đứng đắn",
+      "thời gian",
+      "khi nào"
+    ]
+  },
+  {
+    "id": "k311",
+    "level": "N3",
+    "character": "勝",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 185,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "か.つ",
+      "-が.ち",
+      "まさ.る",
+      "すぐ.れる",
+      "かつ"
+    ],
+    "meanings": [
+      "chiến thắng",
+      "thắng",
+      "chiếm ưu thế",
+      "vượt trội"
+    ]
+  },
+  {
+    "id": "k312",
+    "level": "N3",
+    "character": "面",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 186,
+    "onyomi": [
+      "メン",
+      "ベン"
+    ],
+    "kunyomi": [
+      "おも",
+      "おもて",
+      "つら"
+    ],
+    "meanings": [
+      "mặt nạ",
+      "đối mặt",
+      "tính năng",
+      "bề mặt"
+    ]
+  },
+  {
+    "id": "k313",
+    "level": "N3",
+    "character": "告",
+    "strokes": 7,
+    "grade": 5,
+    "freq": 188,
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "つ.げる"
+    ],
+    "meanings": [
+      "sự mặc khải",
+      "nói",
+      "thông báo",
+      "thông báo"
+    ]
+  },
+  {
+    "id": "k314",
+    "level": "N3",
+    "character": "反",
+    "strokes": 4,
+    "grade": 3,
+    "freq": 191,
+    "onyomi": [
+      "ハン",
+      "ホン",
+      "タン",
+      "ホ"
+    ],
+    "kunyomi": [
+      "そ.る",
+      "そ.らす",
+      "かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "meanings": [
+      "chống"
+    ]
+  },
+  {
+    "id": "k315",
+    "level": "N3",
+    "character": "判",
+    "strokes": 7,
+    "grade": 5,
+    "freq": 197,
+    "onyomi": [
+      "ハン",
+      "バン"
+    ],
+    "kunyomi": [
+      "わか.る"
+    ],
+    "meanings": [
+      "sự phán xét",
+      "sự phán xét",
+      "chữ ký",
+      "tem",
+      "niêm phong"
+    ]
+  },
+  {
+    "id": "k316",
+    "level": "N3",
+    "character": "認",
+    "strokes": 14,
+    "grade": 6,
+    "freq": 198,
+    "onyomi": [
+      "ニン"
+    ],
+    "kunyomi": [
+      "みと.める",
+      "したた.める"
+    ],
+    "meanings": [
+      "thừa nhận",
+      "nhân chứng",
+      "phân biệt",
+      "nhận ra",
+      "đánh giá cao",
+      "tin tưởng"
+    ]
+  },
+  {
+    "id": "k317",
+    "level": "N3",
+    "character": "参",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 201,
+    "onyomi": [
+      "サン",
+      "シン"
+    ],
+    "kunyomi": [
+      "まい.る",
+      "まい-",
+      "まじわる",
+      "みつ"
+    ],
+    "meanings": [
+      "không bị xáo trộn",
+      "ba (trong tài liệu)",
+      "đang đi",
+      "đang đến",
+      "thăm viếng",
+      "chuyến thăm",
+      "bị đánh bại",
+      "chết",
+      "yêu điên cuồng",
+      "tham gia",
+      "tham gia vào"
+    ]
+  },
+  {
+    "id": "k318",
+    "level": "N3",
+    "character": "利",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 203,
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "き.く"
+    ],
+    "meanings": [
+      "lợi nhuận",
+      "lợi thế",
+      "lợi ích"
+    ]
+  },
+  {
+    "id": "k319",
+    "level": "N3",
+    "character": "組",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 204,
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [
+      "く.む",
+      "くみ",
+      "-ぐみ"
+    ],
+    "meanings": [
+      "hiệp hội",
+      "bím tóc",
+      "bím tóc",
+      "xây dựng",
+      "tập hợp",
+      "đoàn kết",
+      "hợp tác",
+      "vật lộn"
+    ]
+  },
+  {
+    "id": "k320",
+    "level": "N3",
+    "character": "信",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 208,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "đức tin",
+      "sự thật",
+      "sự chung thủy",
+      "tin tưởng"
+    ]
+  },
+  {
+    "id": "k321",
+    "level": "N3",
+    "character": "在",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 211,
+    "onyomi": [
+      "ザイ"
+    ],
+    "kunyomi": [
+      "あ.る"
+    ],
+    "meanings": [
+      "tồn tại",
+      "vùng ngoại ô",
+      "vùng ngoại ô",
+      "nằm ở"
+    ]
+  },
+  {
+    "id": "k322",
+    "level": "N3",
+    "character": "件",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 212,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "くだん"
+    ],
+    "meanings": [
+      "chuyện tình",
+      "trường hợp",
+      "vấn đề",
+      "mục"
+    ]
+  },
+  {
+    "id": "k323",
+    "level": "N3",
+    "character": "側",
+    "strokes": 11,
+    "grade": 4,
+    "freq": 216,
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "かわ",
+      "がわ",
+      "そば"
+    ],
+    "meanings": [
+      "bên",
+      "nạc",
+      "phản đối",
+      "hối tiếc"
+    ]
+  },
+  {
+    "id": "k324",
+    "level": "N3",
+    "character": "任",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 217,
+    "onyomi": [
+      "ニン"
+    ],
+    "kunyomi": [
+      "まか.せる",
+      "まか.す"
+    ],
+    "meanings": [
+      "trách nhiệm",
+      "nhiệm vụ",
+      "kỳ hạn",
+      "giao phó cho",
+      "bổ nhiệm"
+    ]
+  },
+  {
+    "id": "k325",
+    "level": "N3",
+    "character": "引",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 218,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "ひ.く",
+      "ひ.ける"
+    ],
+    "meanings": [
+      "kéo",
+      "kéo",
+      "thằng ngốc",
+      "thừa nhận",
+      "cài đặt",
+      "trích dẫn",
+      "tham khảo"
+    ]
+  },
+  {
+    "id": "k326",
+    "level": "N3",
+    "character": "求",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 220,
+    "onyomi": [
+      "キュウ",
+      "グ"
+    ],
+    "kunyomi": [
+      "もと.める"
+    ],
+    "meanings": [
+      "yêu cầu",
+      "muốn",
+      "ước gì",
+      "yêu cầu",
+      "nhu cầu"
+    ]
+  },
+  {
+    "id": "k327",
+    "level": "N3",
+    "character": "所",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 221,
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "ところ",
+      "-ところ",
+      "どころ",
+      "とこ"
+    ],
+    "meanings": [
+      "địa điểm",
+      "phạm vi"
+    ]
+  },
+  {
+    "id": "k328",
+    "level": "N3",
+    "character": "次",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 222,
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "meanings": [
+      "tiếp theo",
+      "đặt hàng",
+      "trình tự"
+    ]
+  },
+  {
+    "id": "k329",
+    "level": "N3",
+    "character": "昨",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 226,
+    "onyomi": [
+      "サク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "hôm qua",
+      "trước đó"
+    ]
+  },
+  {
+    "id": "k330",
+    "level": "N3",
+    "character": "論",
+    "strokes": 15,
+    "grade": 6,
+    "freq": 227,
+    "onyomi": [
+      "ロン"
+    ],
+    "kunyomi": [
+      "あげつら.う"
+    ],
+    "meanings": [
+      "lý lẽ",
+      "diễn ngôn"
+    ]
+  },
+  {
+    "id": "k331",
+    "level": "N3",
+    "character": "官",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 230,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "quan chức",
+      "chính phủ",
+      "cơ quan"
+    ]
+  },
+  {
+    "id": "k332",
+    "level": "N3",
+    "character": "増",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 231,
+    "onyomi": [
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "ま.す",
+      "ま.し",
+      "ふ.える",
+      "ふ.やす"
+    ],
+    "meanings": [
+      "tăng lên",
+      "thêm",
+      "tăng thêm",
+      "đạt được",
+      "thúc đẩy"
+    ]
+  },
+  {
+    "id": "k333",
+    "level": "N3",
+    "character": "係",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 232,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "かか.る",
+      "かかり",
+      "-がかり",
+      "かか.わる"
+    ],
+    "meanings": [
+      "người phụ trách",
+      "kết nối",
+      "nhiệm vụ",
+      "quan tâm đến bản thân"
+    ]
+  },
+  {
+    "id": "k334",
+    "level": "N3",
+    "character": "感",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 233,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "cảm xúc",
+      "cảm giác",
+      "cảm giác"
+    ]
+  },
+  {
+    "id": "k335",
+    "level": "N3",
+    "character": "情",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 235,
+    "onyomi": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "なさ.け"
+    ],
+    "meanings": [
+      "cảm xúc",
+      "cảm xúc",
+      "niềm đam mê",
+      "sự cảm thông",
+      "hoàn cảnh",
+      "sự thật"
+    ]
+  },
+  {
+    "id": "k336",
+    "level": "N3",
+    "character": "投",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 236,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "な.げる",
+      "-な.げ"
+    ],
+    "meanings": [
+      "ném",
+      "vứt bỏ",
+      "bỏ rơi",
+      "phóng vào",
+      "tham gia",
+      "đầu tư vào",
+      "ném mạnh",
+      "từ bỏ",
+      "bán lỗ"
+    ]
+  },
+  {
+    "id": "k337",
+    "level": "N3",
+    "character": "示",
+    "strokes": 5,
+    "grade": 5,
+    "freq": 237,
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "しめ.す"
+    ],
+    "meanings": [
+      "hiển thị",
+      "chỉ ra",
+      "chỉ ra",
+      "thể hiện",
+      "trưng bày"
+    ]
+  },
+  {
+    "id": "k338",
+    "level": "N3",
+    "character": "変",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 238,
+    "onyomi": [
+      "ヘン"
+    ],
+    "kunyomi": [
+      "か.わる",
+      "か.わり",
+      "か.える"
+    ],
+    "meanings": [
+      "bất thường",
+      "thay đổi",
+      "kỳ lạ"
+    ]
+  },
+  {
+    "id": "k339",
+    "level": "N3",
+    "character": "打",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 239,
+    "onyomi": [
+      "ダ",
+      "ダース"
+    ],
+    "kunyomi": [
+      "う.つ",
+      "う.ち-",
+      "ぶ.つ"
+    ],
+    "meanings": [
+      "đình công",
+      "đánh",
+      "gõ cửa",
+      "bảng Anh",
+      "tá"
+    ]
+  },
+  {
+    "id": "k340",
+    "level": "N3",
+    "character": "直",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 246,
+    "onyomi": [
+      "チョク",
+      "ジキ",
+      "ジカ"
+    ],
+    "kunyomi": [
+      "ただ.ちに",
+      "なお.す",
+      "-なお.す",
+      "なお.る",
+      "なお.き",
+      "す.ぐ"
+    ],
+    "meanings": [
+      "ngay lập tức",
+      "trung thực",
+      "sự thẳng thắn",
+      "sửa chữa",
+      "sửa chữa"
+    ]
+  },
+  {
+    "id": "k341",
+    "level": "N3",
+    "character": "両",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 247,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "てる",
+      "ふたつ"
+    ],
+    "meanings": [
+      "cả hai",
+      "đồng tiền cổ của Nhật Bản",
+      "quầy tính tiền toa xe (ví dụ: trên tàu hỏa)",
+      "hai"
+    ]
+  },
+  {
+    "id": "k342",
+    "level": "N3",
+    "character": "式",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 251,
+    "onyomi": [
+      "シキ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "phong cách",
+      "buổi lễ",
+      "nghi thức",
+      "chức năng",
+      "phương pháp",
+      "hệ thống",
+      "hình thức",
+      "biểu hiện"
+    ]
+  },
+  {
+    "id": "k343",
+    "level": "N3",
+    "character": "確",
+    "strokes": 15,
+    "grade": 5,
+    "freq": 252,
+    "onyomi": [
+      "カク",
+      "コウ"
+    ],
+    "kunyomi": [
+      "たし.か",
+      "たし.かめる"
+    ],
+    "meanings": [
+      "sự đảm bảo",
+      "chắc chắn",
+      "chặt chẽ",
+      "cứng",
+      "chất rắn",
+      "xác nhận",
+      "rõ ràng",
+      "hiển nhiên"
+    ]
+  },
+  {
+    "id": "k344",
+    "level": "N3",
+    "character": "果",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 258,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "は.たす",
+      "はた.す",
+      "-は.たす",
+      "は.てる",
+      "-は.てる",
+      "は.て"
+    ],
+    "meanings": [
+      "hoa quả",
+      "phần thưởng",
+      "thực hiện",
+      "đạt được",
+      "hoàn thành",
+      "kết thúc",
+      "kết thúc",
+      "thành công"
+    ]
+  },
+  {
+    "id": "k345",
+    "level": "N3",
+    "character": "容",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 264,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "い.れる"
+    ],
+    "meanings": [
+      "chứa đựng",
+      "hình thức",
+      "trông"
+    ]
+  },
+  {
+    "id": "k346",
+    "level": "N3",
+    "character": "必",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 265,
+    "onyomi": [
+      "ヒツ"
+    ],
+    "kunyomi": [
+      "かなら.ず"
+    ],
+    "meanings": [
+      "luôn luôn",
+      "nhất định",
+      "không thể tránh khỏi"
+    ]
+  },
+  {
+    "id": "k347",
+    "level": "N3",
+    "character": "演",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 267,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "hiệu suất",
+      "hành động",
+      "chơi",
+      "kết xuất",
+      "sân khấu"
+    ]
+  },
+  {
+    "id": "k348",
+    "level": "N3",
+    "character": "歳",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 269,
+    "onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "とし",
+      "とせ",
+      "よわい"
+    ],
+    "meanings": [
+      "cuối năm",
+      "tuổi tác",
+      "dịp",
+      "cơ hội"
+    ]
+  },
+  {
+    "id": "k349",
+    "level": "N3",
+    "character": "争",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 271,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "meanings": [
+      "tranh luận",
+      "tranh chấp",
+      "tranh luận"
+    ]
+  },
+  {
+    "id": "k350",
+    "level": "N3",
+    "character": "談",
+    "strokes": 15,
+    "grade": 3,
+    "freq": 272,
+    "onyomi": [
+      "ダン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "thảo luận",
+      "nói chuyện"
+    ]
+  },
+  {
+    "id": "k351",
+    "level": "N3",
+    "character": "能",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 273,
+    "onyomi": [
+      "ノウ"
+    ],
+    "kunyomi": [
+      "よ.く",
+      "あた.う"
+    ],
+    "meanings": [
+      "khả năng",
+      "tài năng",
+      "kỹ năng",
+      "công suất"
+    ]
+  },
+  {
+    "id": "k352",
+    "level": "N3",
+    "character": "位",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 276,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "くらい",
+      "ぐらい"
+    ],
+    "meanings": [
+      "cấp bậc",
+      "lớp",
+      "ngai vàng",
+      "vương miện",
+      "về",
+      "một số"
+    ]
+  },
+  {
+    "id": "k353",
+    "level": "N3",
+    "character": "置",
+    "strokes": 13,
+    "grade": 4,
+    "freq": 277,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "お.く",
+      "-お.き"
+    ],
+    "meanings": [
+      "vị trí",
+      "đặt",
+      "đặt",
+      "đặt cọc",
+      "bỏ lại phía sau",
+      "giữ",
+      "tuyển dụng",
+      "con tốt"
+    ]
+  },
+  {
+    "id": "k354",
+    "level": "N3",
+    "character": "流",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 280,
+    "onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "kunyomi": [
+      "なが.れる",
+      "なが.れ",
+      "なが.す",
+      "-なが.す"
+    ],
+    "meanings": [
+      "hiện tại",
+      "một cái bồn rửa",
+      "dòng chảy",
+      "bị mất"
+    ]
+  },
+  {
+    "id": "k355",
+    "level": "N3",
+    "character": "格",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 281,
+    "onyomi": [
+      "カク",
+      "コウ",
+      "キャク",
+      "ゴウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "trạng thái",
+      "cấp bậc",
+      "công suất",
+      "nhân vật",
+      "trường hợp (luật, ngữ pháp)"
+    ]
+  },
+  {
+    "id": "k356",
+    "level": "N3",
+    "character": "疑",
+    "strokes": 14,
+    "grade": 6,
+    "freq": 283,
+    "onyomi": [
+      "ギ"
+    ],
+    "kunyomi": [
+      "うたが.う"
+    ],
+    "meanings": [
+      "nghi ngờ",
+      "không tin tưởng",
+      "nghi ngờ",
+      "câu hỏi"
+    ]
+  },
+  {
+    "id": "k357",
+    "level": "N3",
+    "character": "過",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 285,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "す.ぎる",
+      "す.ごす",
+      "あやま.ち",
+      "あやま.つ",
+      "よぎ.る",
+      "よ.ぎる"
+    ],
+    "meanings": [
+      "làm quá mức",
+      "vượt quá",
+      "vượt xa hơn",
+      "lỗi"
+    ]
+  },
+  {
+    "id": "k358",
+    "level": "N3",
+    "character": "局",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 286,
+    "onyomi": [
+      "キョク"
+    ],
+    "kunyomi": [
+      "つぼね"
+    ],
+    "meanings": [
+      "văn phòng",
+      "bảng",
+      "văn phòng",
+      "chuyện tình",
+      "kết luận",
+      "phu nhân tòa án",
+      "hầu gái",
+      "căn hộ của cô ấy"
+    ]
+  },
+  {
+    "id": "k359",
+    "level": "N3",
+    "character": "放",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 288,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "はな.す",
+      "-っぱな.し",
+      "はな.つ",
+      "はな.れる",
+      "こ.く",
+      "ほう.る"
+    ],
+    "meanings": [
+      "thả tự do",
+      "phát hành",
+      "ngọn lửa",
+      "bắn",
+      "phát ra",
+      "trục xuất",
+      "giải phóng"
+    ]
+  },
+  {
+    "id": "k360",
+    "level": "N3",
+    "character": "常",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 293,
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "つね",
+      "とこ-"
+    ],
+    "meanings": [
+      "thông thường",
+      "bình thường",
+      "bình thường",
+      "chung",
+      "đều đặn",
+      "liên tục",
+      "luôn luôn",
+      "lâu dài"
+    ]
+  },
+  {
+    "id": "k361",
+    "level": "N3",
+    "character": "状",
+    "strokes": 7,
+    "grade": 5,
+    "freq": 298,
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "hiện trạng",
+      "điều kiện",
+      "hoàn cảnh",
+      "hình thức",
+      "sự xuất hiện"
+    ]
+  },
+  {
+    "id": "k362",
+    "level": "N3",
+    "character": "球",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 302,
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "meanings": [
+      "trái bóng",
+      "quả cầu"
+    ]
+  },
+  {
+    "id": "k363",
+    "level": "N3",
+    "character": "職",
+    "strokes": 18,
+    "grade": 5,
+    "freq": 305,
+    "onyomi": [
+      "ショク",
+      "ソク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "bài đăng",
+      "việc làm",
+      "làm việc"
+    ]
+  },
+  {
+    "id": "k364",
+    "level": "N3",
+    "character": "与",
+    "strokes": 3,
+    "grade": 8,
+    "freq": 308,
+    "onyomi": [
+      "ヨ"
+    ],
+    "kunyomi": [
+      "あた.える",
+      "あずか.る",
+      "くみ.する",
+      "ともに"
+    ],
+    "meanings": [
+      "ban cho",
+      "tham gia vào",
+      "cho",
+      "giải thưởng",
+      "truyền đạt",
+      "cung cấp",
+      "nguyên nhân",
+      "quà tặng",
+      "ơn trời"
+    ]
+  },
+  {
+    "id": "k365",
+    "level": "N3",
+    "character": "供",
+    "strokes": 8,
+    "grade": 6,
+    "freq": 313,
+    "onyomi": [
+      "キョウ",
+      "ク",
+      "クウ",
+      "グ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "とも",
+      "-ども"
+    ],
+    "meanings": [
+      "nộp",
+      "đề nghị",
+      "hiện tại",
+      "phục vụ (bữa ăn)",
+      "đi cùng"
+    ]
+  },
+  {
+    "id": "k366",
+    "level": "N3",
+    "character": "役",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 315,
+    "onyomi": [
+      "ヤク",
+      "エキ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "nhiệm vụ",
+      "chiến tranh",
+      "chiến dịch",
+      "lao động quân dịch",
+      "văn phòng",
+      "dịch vụ",
+      "vai trò"
+    ]
+  },
+  {
+    "id": "k367",
+    "level": "N3",
+    "character": "構",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 316,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かま.える",
+      "かま.う"
+    ],
+    "meanings": [
+      "tư thế",
+      "lập trường",
+      "sự xuất hiện",
+      "xây dựng",
+      "thiết lập"
+    ]
+  },
+  {
+    "id": "k368",
+    "level": "N3",
+    "character": "割",
+    "strokes": 12,
+    "grade": 6,
+    "freq": 318,
+    "onyomi": [
+      "カツ"
+    ],
+    "kunyomi": [
+      "わ.る",
+      "わり",
+      "わ.り",
+      "わ.れる",
+      "さ.く"
+    ],
+    "meanings": [
+      "tỷ lệ",
+      "tương đối",
+      "chia",
+      "cắt",
+      "riêng biệt",
+      "chia đôi"
+    ]
+  },
+  {
+    "id": "k369",
+    "level": "N3",
+    "character": "費",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 321,
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "つい.やす",
+      "つい.える"
+    ],
+    "meanings": [
+      "chi phí",
+      "chi phí",
+      "chi tiêu",
+      "tiêu thụ",
+      "chất thải"
+    ]
+  },
+  {
+    "id": "k370",
+    "level": "N3",
+    "character": "付",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 322,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
+    ],
+    "meanings": [
+      "tuân theo",
+      "đính kèm",
+      "tham khảo",
+      "nối thêm"
+    ]
+  },
+  {
+    "id": "k371",
+    "level": "N3",
+    "character": "由",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 325,
+    "onyomi": [
+      "ユ",
+      "ユウ",
+      "ユイ"
+    ],
+    "kunyomi": [
+      "よし",
+      "よ.る"
+    ],
+    "meanings": [
+      "vậy nên",
+      "một lý do"
+    ]
+  },
+  {
+    "id": "k372",
+    "level": "N3",
+    "character": "説",
+    "strokes": 14,
+    "grade": 4,
+    "freq": 326,
+    "onyomi": [
+      "セツ",
+      "ゼイ"
+    ],
+    "kunyomi": [
+      "と.く"
+    ],
+    "meanings": [
+      "ý kiến",
+      "lý thuyết",
+      "lời giải thích",
+      "tin đồn"
+    ]
+  },
+  {
+    "id": "k373",
+    "level": "N3",
+    "character": "難",
+    "strokes": 18,
+    "grade": 6,
+    "freq": 330,
+    "onyomi": [
+      "ナン"
+    ],
+    "kunyomi": [
+      "かた.い",
+      "-がた.い",
+      "むずか.しい",
+      "むづか.しい",
+      "むつか.しい",
+      "-にく.い"
+    ],
+    "meanings": [
+      "khó khăn",
+      "không thể",
+      "rắc rối",
+      "tai nạn",
+      "khiếm khuyết"
+    ]
+  },
+  {
+    "id": "k374",
+    "level": "N3",
+    "character": "優",
+    "strokes": 17,
+    "grade": 6,
+    "freq": 334,
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "kunyomi": [
+      "やさ.しい",
+      "すぐ.れる",
+      "まさ.る"
+    ],
+    "meanings": [
+      "dịu dàng",
+      "vượt trội",
+      "vượt qua",
+      "diễn viên",
+      "tính ưu việt",
+      "sự dịu dàng"
+    ]
+  },
+  {
+    "id": "k375",
+    "level": "N3",
+    "character": "夫",
+    "strokes": 4,
+    "grade": 4,
+    "freq": 335,
+    "onyomi": [
+      "フ",
+      "フウ",
+      "ブ"
+    ],
+    "kunyomi": [
+      "おっと",
+      "それ"
+    ],
+    "meanings": [
+      "chồng",
+      "người đàn ông"
+    ]
+  },
+  {
+    "id": "k376",
+    "level": "N3",
+    "character": "収",
+    "strokes": 4,
+    "grade": 6,
+    "freq": 337,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "おさ.める",
+      "おさ.まる"
+    ],
+    "meanings": [
+      "thu nhập",
+      "có được",
+      "gặt",
+      "trả tiền",
+      "cung cấp",
+      "cửa hàng"
+    ]
+  },
+  {
+    "id": "k377",
+    "level": "N3",
+    "character": "断",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 338,
+    "onyomi": [
+      "ダン"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "ことわ.る",
+      "さだ.める"
+    ],
+    "meanings": [
+      "sự thôi việc",
+      "suy giảm",
+      "từ chối",
+      "xin lỗi",
+      "cảnh báo",
+      "bác bỏ",
+      "cấm",
+      "quyết định",
+      "sự phán xét",
+      "cắt"
+    ]
+  },
+  {
+    "id": "k378",
+    "level": "N3",
+    "character": "石",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 342,
+    "onyomi": [
+      "セキ",
+      "シャク",
+      "コク"
+    ],
+    "kunyomi": [
+      "いし"
+    ],
+    "meanings": [
+      "Cục đá"
+    ]
+  },
+  {
+    "id": "k379",
+    "level": "N3",
+    "character": "違",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 344,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "ちが.う",
+      "ちが.い",
+      "ちが.える",
+      "-ちが.える",
+      "たが.う",
+      "たが.える"
+    ],
+    "meanings": [
+      "sự khác biệt",
+      "khác nhau"
+    ]
+  },
+  {
+    "id": "k380",
+    "level": "N3",
+    "character": "消",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 345,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "き.える",
+      "け.す"
+    ],
+    "meanings": [
+      "dập tắt",
+      "thổi tắt",
+      "tắt",
+      "trung hòa",
+      "hủy bỏ"
+    ]
+  },
+  {
+    "id": "k381",
+    "level": "N3",
+    "character": "神",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 347,
+    "onyomi": [
+      "シン",
+      "ジン"
+    ],
+    "kunyomi": [
+      "かみ",
+      "かん-",
+      "こう-"
+    ],
+    "meanings": [
+      "vị thần",
+      "tâm trí",
+      "linh hồn"
+    ]
+  },
+  {
+    "id": "k382",
+    "level": "N3",
+    "character": "番",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 348,
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [
+      "つが.い"
+    ],
+    "meanings": [
+      "rẽ",
+      "số trong một dãy"
+    ]
+  },
+  {
+    "id": "k383",
+    "level": "N3",
+    "character": "規",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 349,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "tiêu chuẩn",
+      "đo lường"
+    ]
+  },
+  {
+    "id": "k384",
+    "level": "N3",
+    "character": "術",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 350,
+    "onyomi": [
+      "ジュツ"
+    ],
+    "kunyomi": [
+      "すべ"
+    ],
+    "meanings": [
+      "nghệ thuật",
+      "kỹ thuật",
+      "kỹ năng",
+      "nghĩa là",
+      "thủ thuật",
+      "tài nguyên",
+      "ma thuật"
+    ]
+  },
+  {
+    "id": "k385",
+    "level": "N3",
+    "character": "備",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 356,
+    "onyomi": [
+      "ビ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "そな.わる",
+      "つぶさ.に"
+    ],
+    "meanings": [
+      "trang bị",
+      "cung cấp",
+      "sự chuẩn bị"
+    ]
+  },
+  {
+    "id": "k386",
+    "level": "N3",
+    "character": "宅",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 357,
+    "onyomi": [
+      "タク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "nhà",
+      "nhà ở",
+      "nơi cư trú",
+      "nhà của chúng tôi",
+      "chồng tôi"
+    ]
+  },
+  {
+    "id": "k387",
+    "level": "N3",
+    "character": "害",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 358,
+    "onyomi": [
+      "ガイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "làm hại",
+      "chấn thương"
+    ]
+  },
+  {
+    "id": "k388",
+    "level": "N3",
+    "character": "配",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 359,
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "くば.る"
+    ],
+    "meanings": [
+      "phân phối",
+      "vợ/chồng",
+      "lưu đày",
+      "khẩu phần ăn"
+    ]
+  },
+  {
+    "id": "k389",
+    "level": "N3",
+    "character": "警",
+    "strokes": 19,
+    "grade": 6,
+    "freq": 366,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "いまし.める"
+    ],
+    "meanings": [
+      "khiển trách",
+      "điều răn"
+    ]
+  },
+  {
+    "id": "k390",
+    "level": "N3",
+    "character": "育",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 369,
+    "onyomi": [
+      "イク"
+    ],
+    "kunyomi": [
+      "そだ.つ",
+      "そだ.ち",
+      "そだ.てる",
+      "はぐく.む"
+    ],
+    "meanings": [
+      "đưa lên",
+      "lớn lên",
+      "nâng cao",
+      "phía sau"
+    ]
+  },
+  {
+    "id": "k391",
+    "level": "N3",
+    "character": "席",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 370,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "むしろ"
+    ],
+    "meanings": [
+      "chỗ ngồi",
+      "chiếu",
+      "dịp",
+      "địa điểm"
+    ]
+  },
+  {
+    "id": "k392",
+    "level": "N3",
+    "character": "訪",
+    "strokes": 11,
+    "grade": 6,
+    "freq": 372,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "おとず.れる",
+      "たず.ねる",
+      "と.う"
+    ],
+    "meanings": [
+      "kêu gọi",
+      "chuyến thăm",
+      "tra cứu",
+      "bày tỏ sự cảm thông"
+    ]
+  },
+  {
+    "id": "k393",
+    "level": "N3",
+    "character": "乗",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 377,
+    "onyomi": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "の.る",
+      "-の.り",
+      "の.せる"
+    ],
+    "meanings": [
+      "đi xe",
+      "quyền lực",
+      "phép nhân",
+      "ghi lại",
+      "quầy cho xe",
+      "bảng",
+      "gắn kết",
+      "tham gia"
+    ]
+  },
+  {
+    "id": "k394",
+    "level": "N3",
+    "character": "残",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 380,
+    "onyomi": [
+      "ザン",
+      "サン"
+    ],
+    "kunyomi": [
+      "のこ.る",
+      "のこ.す",
+      "そこな.う",
+      "のこ.り"
+    ],
+    "meanings": [
+      "phần còn lại",
+      "còn sót lại",
+      "cân đối"
+    ]
+  },
+  {
+    "id": "k395",
+    "level": "N3",
+    "character": "想",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 381,
+    "onyomi": [
+      "ソウ",
+      "ソ"
+    ],
+    "kunyomi": [
+      "おも.う"
+    ],
+    "meanings": [
+      "ý tưởng",
+      "suy nghĩ",
+      "quan niệm",
+      "nghĩ"
+    ]
+  },
+  {
+    "id": "k396",
+    "level": "N3",
+    "character": "声",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 388,
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "こえ",
+      "こわ-"
+    ],
+    "meanings": [
+      "giọng nói"
+    ]
+  },
+  {
+    "id": "k397",
+    "level": "N3",
+    "character": "念",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 390,
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "ước gì",
+      "giác quan",
+      "ý tưởng",
+      "suy nghĩ",
+      "cảm giác",
+      "mong muốn",
+      "chú ý"
+    ]
+  },
+  {
+    "id": "k398",
+    "level": "N3",
+    "character": "助",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 397,
+    "onyomi": [
+      "ジョ"
+    ],
+    "kunyomi": [
+      "たす.ける",
+      "たす.かる",
+      "す.ける",
+      "すけ"
+    ],
+    "meanings": [
+      "giúp đỡ",
+      "giải cứu",
+      "hỗ trợ"
+    ]
+  },
+  {
+    "id": "k399",
+    "level": "N3",
+    "character": "労",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 398,
+    "onyomi": [
+      "ロウ"
+    ],
+    "kunyomi": [
+      "ろう.する",
+      "いたわ.る",
+      "いた.ずき",
+      "ねぎら",
+      "つか.れる",
+      "ねぎら.う"
+    ],
+    "meanings": [
+      "lao động",
+      "cảm ơn vì",
+      "phần thưởng cho",
+      "công việc cực nhọc",
+      "rắc rối"
+    ]
+  },
+  {
+    "id": "k400",
+    "level": "N3",
+    "character": "例",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 399,
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "たと.える"
+    ],
+    "meanings": [
+      "ví dụ",
+      "tùy chỉnh",
+      "cách sử dụng",
+      "tiền lệ"
+    ]
+  },
+  {
+    "id": "k401",
+    "level": "N3",
+    "character": "然",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 401,
+    "onyomi": [
+      "ゼン",
+      "ネン"
+    ],
+    "kunyomi": [
+      "しか",
+      "しか.り",
+      "しか.し",
+      "さ"
+    ],
+    "meanings": [
+      "đại loại thế",
+      "vậy",
+      "nếu vậy",
+      "trong trường hợp đó",
+      "à"
+    ]
+  },
+  {
+    "id": "k402",
+    "level": "N3",
+    "character": "限",
+    "strokes": 9,
+    "grade": 5,
+    "freq": 405,
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "かぎ.る",
+      "かぎ.り",
+      "-かぎ.り"
+    ],
+    "meanings": [
+      "giới hạn",
+      "hạn chế",
+      "trong khả năng tốt nhất"
+    ]
+  },
+  {
+    "id": "k403",
+    "level": "N3",
+    "character": "追",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 411,
+    "onyomi": [
+      "ツイ"
+    ],
+    "kunyomi": [
+      "お.う"
+    ],
+    "meanings": [
+      "đuổi theo",
+      "lái xe đi",
+      "theo dõi",
+      "theo đuổi",
+      "trong khi đó"
+    ]
+  },
+  {
+    "id": "k404",
+    "level": "N3",
+    "character": "商",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 413,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あきな.う"
+    ],
+    "meanings": [
+      "thực hiện một thỏa thuận",
+      "bán",
+      "kinh doanh",
+      "thương gia"
+    ]
+  },
+  {
+    "id": "k405",
+    "level": "N3",
+    "character": "葉",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 414,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "meanings": [
+      "lá",
+      "máy bay",
+      "thùy",
+      "cây kim",
+      "lưỡi dao",
+      "giáo",
+      "quầy cho những thứ phẳng",
+      "mảnh vỡ",
+      "mảnh"
+    ]
+  },
+  {
+    "id": "k406",
+    "level": "N3",
+    "character": "伝",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 416,
+    "onyomi": [
+      "デン",
+      "テン"
+    ],
+    "kunyomi": [
+      "つた.わる",
+      "つた.える",
+      "つた.う",
+      "つだ.う",
+      "-づた.い",
+      "つて"
+    ],
+    "meanings": [
+      "truyền tải",
+      "đi cùng",
+      "đi bộ dọc theo",
+      "theo dõi",
+      "báo cáo",
+      "giao tiếp",
+      "truyền thuyết",
+      "truyền thống"
+    ]
+  },
+  {
+    "id": "k407",
+    "level": "N3",
+    "character": "働",
+    "strokes": 13,
+    "grade": 4,
+    "freq": 417,
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "はたら.く"
+    ],
+    "meanings": [
+      "làm việc",
+      "(kokuji)"
+    ]
+  },
+  {
+    "id": "k408",
+    "level": "N3",
+    "character": "形",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 418,
+    "onyomi": [
+      "ケイ",
+      "ギョウ"
+    ],
+    "kunyomi": [
+      "かた",
+      "-がた",
+      "かたち",
+      "なり"
+    ],
+    "meanings": [
+      "hình dạng",
+      "hình thức",
+      "phong cách"
+    ]
+  },
+  {
+    "id": "k409",
+    "level": "N3",
+    "character": "景",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 419,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "phong cảnh",
+      "lượt xem"
+    ]
+  },
+  {
+    "id": "k410",
+    "level": "N3",
+    "character": "落",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 420,
+    "onyomi": [
+      "ラク"
+    ],
+    "kunyomi": [
+      "お.ちる",
+      "お.ち",
+      "お.とす"
+    ],
+    "meanings": [
+      "ngã",
+      "thả",
+      "đi xuống",
+      "làng",
+      "thôn"
+    ]
+  },
+  {
+    "id": "k411",
+    "level": "N3",
+    "character": "好",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 423,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "meanings": [
+      "thích",
+      "làm hài lòng",
+      "thích cái gì đó"
+    ]
+  },
+  {
+    "id": "k412",
+    "level": "N3",
+    "character": "退",
+    "strokes": 9,
+    "grade": 6,
+    "freq": 424,
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "しりぞ.く",
+      "しりぞ.ける",
+      "ひ.く",
+      "の.く",
+      "の.ける",
+      "ど.く"
+    ],
+    "meanings": [
+      "rút lui",
+      "rút tiền",
+      "nghỉ hưu",
+      "từ chức",
+      "đẩy lùi",
+      "trục xuất",
+      "từ chối"
+    ]
+  },
+  {
+    "id": "k413",
+    "level": "N3",
+    "character": "頭",
+    "strokes": 16,
+    "grade": 2,
+    "freq": 433,
+    "onyomi": [
+      "トウ",
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "あたま",
+      "かしら",
+      "-がしら",
+      "かぶり"
+    ],
+    "meanings": [
+      "cái đầu",
+      "quầy cho động vật lớn"
+    ]
+  },
+  {
+    "id": "k414",
+    "level": "N3",
+    "character": "負",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 443,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "ま.ける",
+      "ま.かす",
+      "お.う"
+    ],
+    "meanings": [
+      "đánh bại",
+      "tiêu cực",
+      "-",
+      "trừ đi",
+      "gấu",
+      "nợ",
+      "chịu trách nhiệm"
+    ]
+  },
+  {
+    "id": "k415",
+    "level": "N3",
+    "character": "渡",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 446,
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "わた.る",
+      "-わた.る",
+      "わた.す"
+    ],
+    "meanings": [
+      "quá cảnh",
+      "ford",
+      "phà",
+      "chéo",
+      "nhập khẩu",
+      "giao hàng",
+      "đường kính",
+      "di cư"
+    ]
+  },
+  {
+    "id": "k416",
+    "level": "N3",
+    "character": "失",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 447,
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "うしな.う",
+      "う.せる"
+    ],
+    "meanings": [
+      "thua",
+      "lỗi",
+      "lỗi",
+      "bất lợi",
+      "mất mát"
+    ]
+  },
+  {
+    "id": "k417",
+    "level": "N3",
+    "character": "差",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 449,
+    "onyomi": [
+      "サ"
+    ],
+    "kunyomi": [
+      "さ.す",
+      "さ.し"
+    ],
+    "meanings": [
+      "sự phân biệt",
+      "sự khác biệt",
+      "biến thể",
+      "sự khác biệt",
+      "lề",
+      "cân đối"
+    ]
+  },
+  {
+    "id": "k418",
+    "level": "N3",
+    "character": "末",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 456,
+    "onyomi": [
+      "マツ",
+      "バツ"
+    ],
+    "kunyomi": [
+      "すえ",
+      "うら",
+      "うれ"
+    ],
+    "meanings": [
+      "kết thúc",
+      "đóng",
+      "tiền boa",
+      "bột",
+      "hậu thế"
+    ]
+  },
+  {
+    "id": "k419",
+    "level": "N3",
+    "character": "守",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 457,
+    "onyomi": [
+      "シュ",
+      "ス"
+    ],
+    "kunyomi": [
+      "まも.る",
+      "まも.り",
+      "もり",
+      "-もり",
+      "かみ"
+    ],
+    "meanings": [
+      "canh gác",
+      "bảo vệ",
+      "bảo vệ",
+      "tuân theo"
+    ]
+  },
+  {
+    "id": "k420",
+    "level": "N3",
+    "character": "若",
+    "strokes": 8,
+    "grade": 6,
+    "freq": 458,
+    "onyomi": [
+      "ジャク",
+      "ニャク",
+      "ニャ"
+    ],
+    "kunyomi": [
+      "わか.い",
+      "わか-",
+      "も.しくわ",
+      "も.し",
+      "も.しくは",
+      "ごと.し"
+    ],
+    "meanings": [
+      "trẻ",
+      "nếu",
+      "có lẽ",
+      "có thể",
+      "số thấp",
+      "chưa trưởng thành"
+    ]
+  },
+  {
+    "id": "k421",
+    "level": "N3",
+    "character": "種",
+    "strokes": 14,
+    "grade": 4,
+    "freq": 461,
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "たね",
+      "-ぐさ"
+    ],
+    "meanings": [
+      "loài",
+      "loại",
+      "lớp học",
+      "đa dạng",
+      "hạt giống"
+    ]
+  },
+  {
+    "id": "k422",
+    "level": "N3",
+    "character": "美",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 462,
+    "onyomi": [
+      "ビ",
+      "ミ"
+    ],
+    "kunyomi": [
+      "うつく.しい"
+    ],
+    "meanings": [
+      "sắc đẹp",
+      "đẹp"
+    ]
+  },
+  {
+    "id": "k423",
+    "level": "N3",
+    "character": "命",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 465,
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "いのち"
+    ],
+    "meanings": [
+      "số phận",
+      "lệnh",
+      "sắc lệnh",
+      "định mệnh",
+      "cuộc sống",
+      "bổ nhiệm"
+    ]
+  },
+  {
+    "id": "k424",
+    "level": "N3",
+    "character": "福",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 467,
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "phước lành",
+      "vận may",
+      "may mắn",
+      "sự giàu có"
+    ]
+  },
+  {
+    "id": "k425",
+    "level": "N3",
+    "character": "望",
+    "strokes": 11,
+    "grade": 4,
+    "freq": 470,
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "のぞ.む",
+      "もち"
+    ],
+    "meanings": [
+      "tham vọng",
+      "trăng tròn",
+      "hy vọng",
+      "mong muốn",
+      "khao khát",
+      "mong đợi"
+    ]
+  },
+  {
+    "id": "k426",
+    "level": "N3",
+    "character": "非",
+    "strokes": 8,
+    "grade": 5,
+    "freq": 472,
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "あら.ず"
+    ],
+    "meanings": [
+      "bỏ-",
+      "sai lầm",
+      "tiêu cực",
+      "sự bất công",
+      "không-"
+    ]
+  },
+  {
+    "id": "k427",
+    "level": "N3",
+    "character": "観",
+    "strokes": 18,
+    "grade": 4,
+    "freq": 476,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "み.る",
+      "しめ.す"
+    ],
+    "meanings": [
+      "triển vọng",
+      "nhìn",
+      "sự xuất hiện",
+      "tình trạng",
+      "lượt xem"
+    ]
+  },
+  {
+    "id": "k428",
+    "level": "N3",
+    "character": "察",
+    "strokes": 14,
+    "grade": 4,
+    "freq": 477,
+    "onyomi": [
+      "サツ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "đoán",
+      "đoán chừng",
+      "phỏng đoán",
+      "thẩm phán",
+      "hiểu"
+    ]
+  },
+  {
+    "id": "k429",
+    "level": "N3",
+    "character": "段",
+    "strokes": 9,
+    "grade": 6,
+    "freq": 479,
+    "onyomi": [
+      "ダン",
+      "タン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "lớp",
+      "bước",
+      "cầu thang"
+    ]
+  },
+  {
+    "id": "k430",
+    "level": "N3",
+    "character": "横",
+    "strokes": 15,
+    "grade": 3,
+    "freq": 480,
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "よこ"
+    ],
+    "meanings": [
+      "đi ngang",
+      "bên",
+      "ngang",
+      "chiều rộng",
+      "gâu gâu",
+      "vô lý",
+      "nghịch ngợm"
+    ]
+  },
+  {
+    "id": "k431",
+    "level": "N3",
+    "character": "深",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 484,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ふか.い",
+      "-ぶか.い",
+      "ふか.まる",
+      "ふか.める",
+      "み-"
+    ],
+    "meanings": [
+      "sâu",
+      "nâng cao",
+      "tăng cường",
+      "tăng cường"
+    ]
+  },
+  {
+    "id": "k432",
+    "level": "N3",
+    "character": "申",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 492,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "もう.す",
+      "もう.し-",
+      "さる"
+    ],
+    "meanings": [
+      "có vinh dự được",
+      "dấu hiệu của con khỉ",
+      "3-5 giờ chiều",
+      "cung hoàng đạo thứ chín của Trung Quốc"
+    ]
+  },
+  {
+    "id": "k433",
+    "level": "N3",
+    "character": "様",
+    "strokes": 14,
+    "grade": 3,
+    "freq": 493,
+    "onyomi": [
+      "ヨウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "さま",
+      "さん"
+    ],
+    "meanings": [
+      "Eq.",
+      "đường",
+      "cách thức",
+      "tình huống",
+      "hậu tố lịch sự"
+    ]
+  },
+  {
+    "id": "k434",
+    "level": "N3",
+    "character": "財",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 494,
+    "onyomi": [
+      "ザイ",
+      "サイ",
+      "ゾク"
+    ],
+    "kunyomi": [
+      "たから"
+    ],
+    "meanings": [
+      "tài sản",
+      "tiền bạc",
+      "sự giàu có",
+      "tài sản"
+    ]
+  },
+  {
+    "id": "k435",
+    "level": "N3",
+    "character": "港",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 495,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "みなと"
+    ],
+    "meanings": [
+      "hải cảng"
+    ]
+  },
+  {
+    "id": "k436",
+    "level": "N3",
+    "character": "識",
+    "strokes": 19,
+    "grade": 5,
+    "freq": 496,
+    "onyomi": [
+      "シキ"
+    ],
+    "kunyomi": [
+      "し.る",
+      "しる.す"
+    ],
+    "meanings": [
+      "phân biệt đối xử",
+      "biết",
+      "viết"
+    ]
+  },
+  {
+    "id": "k437",
+    "level": "N3",
+    "character": "呼",
+    "strokes": 8,
+    "grade": 6,
+    "freq": 498,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "よ.ぶ"
+    ],
+    "meanings": [
+      "gọi",
+      "gọi tới",
+      "mời"
+    ]
+  },
+  {
+    "id": "k438",
+    "level": "N3",
+    "character": "達",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 500,
+    "onyomi": [
+      "タツ",
+      "ダ"
+    ],
+    "kunyomi": [
+      "-たち"
+    ],
+    "meanings": [
+      "hoàn thành",
+      "đạt được",
+      "đến",
+      "đạt được"
+    ]
+  },
+  {
+    "id": "k439",
+    "level": "N3",
+    "character": "良",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 501,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "よ.い",
+      "-よ.い",
+      "い.い",
+      "-い.い"
+    ],
+    "meanings": [
+      "tốt",
+      "làm hài lòng",
+      "có tay nghề cao"
+    ]
+  },
+  {
+    "id": "k440",
+    "level": "N3",
+    "character": "候",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 510,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "そうろう"
+    ],
+    "meanings": [
+      "khí hậu",
+      "mùa",
+      "thời tiết",
+      "chờ đợi",
+      "mong đợi"
+    ]
+  },
+  {
+    "id": "k441",
+    "level": "N3",
+    "character": "程",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 514,
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "ほど",
+      "-ほど"
+    ],
+    "meanings": [
+      "phạm vi",
+      "bằng cấp",
+      "pháp luật",
+      "công thức",
+      "khoảng cách",
+      "giới hạn",
+      "số tiền"
+    ]
+  },
+  {
+    "id": "k442",
+    "level": "N3",
+    "character": "満",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 515,
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "kunyomi": [
+      "み.ちる",
+      "み.つ",
+      "み.たす"
+    ],
+    "meanings": [
+      "đầy đủ",
+      "sự viên mãn",
+      "đủ rồi",
+      "thỏa mãn"
+    ]
+  },
+  {
+    "id": "k443",
+    "level": "N3",
+    "character": "敗",
+    "strokes": 11,
+    "grade": 4,
+    "freq": 516,
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "やぶ.れる"
+    ],
+    "meanings": [
+      "thất bại",
+      "đánh bại",
+      "đảo ngược"
+    ]
+  },
+  {
+    "id": "k444",
+    "level": "N3",
+    "character": "値",
+    "strokes": 10,
+    "grade": 6,
+    "freq": 518,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "ね",
+      "あたい"
+    ],
+    "meanings": [
+      "giá cả",
+      "chi phí",
+      "giá trị"
+    ]
+  },
+  {
+    "id": "k445",
+    "level": "N3",
+    "character": "突",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 521,
+    "onyomi": [
+      "トツ",
+      "カ"
+    ],
+    "kunyomi": [
+      "つ.く"
+    ],
+    "meanings": [
+      "đâm",
+      "nhô ra",
+      "lực đẩy",
+      "đâm thủng",
+      "chích",
+      "va chạm",
+      "đột ngột"
+    ]
+  },
+  {
+    "id": "k446",
+    "level": "N3",
+    "character": "光",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 527,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "meanings": [
+      "tia",
+      "ánh sáng"
+    ]
+  },
+  {
+    "id": "k447",
+    "level": "N3",
+    "character": "路",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 529,
+    "onyomi": [
+      "ロ",
+      "ル"
+    ],
+    "kunyomi": [
+      "-じ",
+      "みち"
+    ],
+    "meanings": [
+      "con đường",
+      "tuyến đường",
+      "đường",
+      "khoảng cách"
+    ]
+  },
+  {
+    "id": "k448",
+    "level": "N3",
+    "character": "科",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 531,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "khoa",
+      "khóa học",
+      "phần"
+    ]
+  },
+  {
+    "id": "k449",
+    "level": "N3",
+    "character": "積",
+    "strokes": 16,
+    "grade": 4,
+    "freq": 541,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "つ.む",
+      "-づ.み",
+      "つ.もる",
+      "つ.もり"
+    ],
+    "meanings": [
+      "khối lượng",
+      "sản phẩm (x*y)",
+      "diện tích",
+      "nội dung",
+      "chất đống lên",
+      "chồng",
+      "tải",
+      "tích lũy"
+    ]
+  },
+  {
+    "id": "k450",
+    "level": "N3",
+    "character": "他",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 543,
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "ほか"
+    ],
+    "meanings": [
+      "khác",
+      "cái khác",
+      "những người khác"
+    ]
+  },
+  {
+    "id": "k451",
+    "level": "N3",
+    "character": "処",
+    "strokes": 5,
+    "grade": 6,
+    "freq": 547,
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "ところ",
+      "-こ",
+      "お.る"
+    ],
+    "meanings": [
+      "vứt bỏ",
+      "quản lý",
+      "đối phó với",
+      "câu",
+      "lên án",
+      "hành động",
+      "cư xử",
+      "địa điểm"
+    ]
+  },
+  {
+    "id": "k452",
+    "level": "N3",
+    "character": "太",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 552,
+    "onyomi": [
+      "タイ",
+      "タ"
+    ],
+    "kunyomi": [
+      "ふと.い",
+      "ふと.る"
+    ],
+    "meanings": [
+      "đầy đặn",
+      "dày",
+      "xung quanh lớn"
+    ]
+  },
+  {
+    "id": "k453",
+    "level": "N3",
+    "character": "客",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 557,
+    "onyomi": [
+      "キャク",
+      "カク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "khách",
+      "du khách",
+      "khách hàng",
+      "khách hàng"
+    ]
+  },
+  {
+    "id": "k454",
+    "level": "N3",
+    "character": "否",
+    "strokes": 7,
+    "grade": 6,
+    "freq": 561,
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "いな",
+      "いや"
+    ],
+    "meanings": [
+      "phủ định",
+      "không",
+      "không",
+      "từ chối",
+      "suy giảm",
+      "phủ nhận"
+    ]
+  },
+  {
+    "id": "k455",
+    "level": "N3",
+    "character": "師",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 563,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "いくさ"
+    ],
+    "meanings": [
+      "chuyên gia",
+      "giáo viên",
+      "bậc thầy",
+      "người mẫu",
+      "gương mẫu",
+      "quân đội (bao gồm cả quầy)",
+      "chiến tranh"
+    ]
+  },
+  {
+    "id": "k456",
+    "level": "N3",
+    "character": "登",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 566,
+    "onyomi": [
+      "トウ",
+      "ト",
+      "ドウ",
+      "ショウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "のぼ.る",
+      "あ.がる"
+    ],
+    "meanings": [
+      "đi lên",
+      "leo lên"
+    ]
+  },
+  {
+    "id": "k457",
+    "level": "N3",
+    "character": "易",
+    "strokes": 8,
+    "grade": 5,
+    "freq": 571,
+    "onyomi": [
+      "エキ",
+      "イ"
+    ],
+    "kunyomi": [
+      "やさ.しい",
+      "やす.い"
+    ],
+    "meanings": [
+      "dễ dàng",
+      "sẵn sàng",
+      "đơn giản",
+      "bói toán",
+      "bói toán"
+    ]
+  },
+  {
+    "id": "k458",
+    "level": "N3",
+    "character": "速",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 576,
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "はや.い",
+      "はや-",
+      "はや.める",
+      "すみ.やか"
+    ],
+    "meanings": [
+      "nhanh",
+      "nhanh"
+    ]
+  },
+  {
+    "id": "k459",
+    "level": "N3",
+    "character": "存",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 577,
+    "onyomi": [
+      "ソン",
+      "ゾン"
+    ],
+    "kunyomi": [
+      "ながら.える",
+      "あ.る",
+      "たも.つ",
+      "と.う"
+    ],
+    "meanings": [
+      "tồn tại",
+      "giả sử",
+      "nhận thức được",
+      "tin tưởng",
+      "cảm thấy"
+    ]
+  },
+  {
+    "id": "k460",
+    "level": "N3",
+    "character": "飛",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 580,
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "meanings": [
+      "bay",
+      "bỏ qua (trang)",
+      "rải rác"
+    ]
+  },
+  {
+    "id": "k461",
+    "level": "N3",
+    "character": "殺",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 581,
+    "onyomi": [
+      "サツ",
+      "サイ",
+      "セツ"
+    ],
+    "kunyomi": [
+      "ころ.す",
+      "-ごろ.し",
+      "そ.ぐ",
+      "あや.める"
+    ],
+    "meanings": [
+      "giết",
+      "giết người",
+      "người bán thịt",
+      "cắt bỏ",
+      "chia đôi",
+      "giảm bớt",
+      "giảm bớt",
+      "làm hỏng"
+    ]
+  },
+  {
+    "id": "k462",
+    "level": "N3",
+    "character": "号",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 585,
+    "onyomi": [
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "さけ.ぶ",
+      "よびな"
+    ],
+    "meanings": [
+      "biệt hiệu",
+      "con số",
+      "mục",
+      "tiêu đề",
+      "bút danh",
+      "tên",
+      "gọi"
+    ]
+  },
+  {
+    "id": "k463",
+    "level": "N3",
+    "character": "単",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 586,
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "ひとえ"
+    ],
+    "meanings": [
+      "đơn giản",
+      "một",
+      "độc thân",
+      "chỉ đơn thuần là"
+    ]
+  },
+  {
+    "id": "k464",
+    "level": "N3",
+    "character": "座",
+    "strokes": 10,
+    "grade": 6,
+    "freq": 588,
+    "onyomi": [
+      "ザ"
+    ],
+    "kunyomi": [
+      "すわ.る"
+    ],
+    "meanings": [
+      "ngồi xổm",
+      "chỗ ngồi",
+      "đệm",
+      "tụ tập",
+      "ngồi"
+    ]
+  },
+  {
+    "id": "k465",
+    "level": "N3",
+    "character": "破",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 590,
+    "onyomi": [
+      "ハ"
+    ],
+    "kunyomi": [
+      "やぶ.る",
+      "やぶ.れる",
+      "わ.れる"
+    ],
+    "meanings": [
+      "xé nát",
+      "xé toạc",
+      "xé",
+      "phá vỡ",
+      "phá hủy",
+      "đánh bại",
+      "làm nản lòng"
+    ]
+  },
+  {
+    "id": "k466",
+    "level": "N3",
+    "character": "除",
+    "strokes": 10,
+    "grade": 6,
+    "freq": 594,
+    "onyomi": [
+      "ジョ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "のぞ.く",
+      "-よ.け"
+    ],
+    "meanings": [
+      "loại trừ",
+      "phép chia (x/3)",
+      "loại bỏ",
+      "bãi bỏ",
+      "hủy bỏ",
+      "ngoại trừ"
+    ]
+  },
+  {
+    "id": "k467",
+    "level": "N3",
+    "character": "完",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 595,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "hoàn hảo",
+      "hoàn thành",
+      "kết thúc"
+    ]
+  },
+  {
+    "id": "k468",
+    "level": "N3",
+    "character": "降",
+    "strokes": 10,
+    "grade": 6,
+    "freq": 596,
+    "onyomi": [
+      "コウ",
+      "ゴ"
+    ],
+    "kunyomi": [
+      "お.りる",
+      "お.ろす",
+      "ふ.る",
+      "ふ.り",
+      "くだ.る",
+      "くだ.す"
+    ],
+    "meanings": [
+      "đi xuống",
+      "kết tủa",
+      "ngã",
+      "đầu hàng"
+    ]
+  },
+  {
+    "id": "k469",
+    "level": "N3",
+    "character": "責",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 598,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "せ.める"
+    ],
+    "meanings": [
+      "đổ lỗi",
+      "lên án",
+      "khiển trách"
+    ]
+  },
+  {
+    "id": "k470",
+    "level": "N3",
+    "character": "捕",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 604,
+    "onyomi": [
+      "ホ"
+    ],
+    "kunyomi": [
+      "と.らえる",
+      "と.らわれる",
+      "と.る",
+      "とら.える",
+      "とら.われる",
+      "つか.まえる",
+      "つか.まる"
+    ],
+    "meanings": [
+      "bắt",
+      "bắt giữ"
+    ]
+  },
+  {
+    "id": "k471",
+    "level": "N3",
+    "character": "危",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 606,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ"
+    ],
+    "meanings": [
+      "nguy hiểm",
+      "nỗi sợ hãi",
+      "khó chịu"
+    ]
+  },
+  {
+    "id": "k472",
+    "level": "N3",
+    "character": "給",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 615,
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "たま.う",
+      "たも.う",
+      "-たま.え"
+    ],
+    "meanings": [
+      "tiền lương",
+      "tiền lương",
+      "quà tặng",
+      "cho phép",
+      "cấp",
+      "ban cho"
+    ]
+  },
+  {
+    "id": "k473",
+    "level": "N3",
+    "character": "苦",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 623,
+    "onyomi": [
+      "ク"
+    ],
+    "kunyomi": [
+      "くる.しい",
+      "-ぐる.しい",
+      "くる.しむ",
+      "くる.しめる",
+      "にが.い",
+      "にが.る"
+    ],
+    "meanings": [
+      "đau khổ",
+      "thử nghiệm",
+      "lo lắng",
+      "khó khăn",
+      "cảm thấy cay đắng",
+      "cau có"
+    ]
+  },
+  {
+    "id": "k474",
+    "level": "N3",
+    "character": "迎",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 625,
+    "onyomi": [
+      "ゲイ"
+    ],
+    "kunyomi": [
+      "むか.える"
+    ],
+    "meanings": [
+      "chào mừng",
+      "gặp gỡ",
+      "chào"
+    ]
+  },
+  {
+    "id": "k475",
+    "level": "N3",
+    "character": "園",
+    "strokes": 13,
+    "grade": 2,
+    "freq": 628,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "その"
+    ],
+    "meanings": [
+      "công viên",
+      "vườn",
+      "sân",
+      "trang trại"
+    ]
+  },
+  {
+    "id": "k476",
+    "level": "N3",
+    "character": "具",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 629,
+    "onyomi": [
+      "グ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "meanings": [
+      "công cụ",
+      "đồ dùng",
+      "nghĩa là",
+      "sở hữu",
+      "thành phần",
+      "quầy bán áo giáp, quần áo, bộ đồ nội thất"
+    ]
+  },
+  {
+    "id": "k477",
+    "level": "N3",
+    "character": "辞",
+    "strokes": 13,
+    "grade": 4,
+    "freq": 633,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "や.める",
+      "いな.む"
+    ],
+    "meanings": [
+      "từ chức",
+      "từ",
+      "kỳ hạn",
+      "biểu hiện"
+    ]
+  },
+  {
+    "id": "k478",
+    "level": "N3",
+    "character": "因",
+    "strokes": 6,
+    "grade": 5,
+    "freq": 636,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "よ.る",
+      "ちな.む"
+    ],
+    "meanings": [
+      "nguyên nhân",
+      "yếu tố",
+      "được liên kết với",
+      "phụ thuộc vào",
+      "bị giới hạn ở"
+    ]
+  },
+  {
+    "id": "k479",
+    "level": "N3",
+    "character": "馬",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 639,
+    "onyomi": [
+      "バ"
+    ],
+    "kunyomi": [
+      "うま",
+      "うま-",
+      "ま"
+    ],
+    "meanings": [
+      "con ngựa"
+    ]
+  },
+  {
+    "id": "k480",
+    "level": "N3",
+    "character": "愛",
+    "strokes": 13,
+    "grade": 4,
+    "freq": 640,
+    "onyomi": [
+      "アイ"
+    ],
+    "kunyomi": [
+      "いと.しい",
+      "かな.しい",
+      "め.でる",
+      "お.しむ",
+      "まな"
+    ],
+    "meanings": [
+      "tình yêu",
+      "tình cảm",
+      "yêu thích"
+    ]
+  },
+  {
+    "id": "k481",
+    "level": "N3",
+    "character": "富",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 644,
+    "onyomi": [
+      "フ",
+      "フウ"
+    ],
+    "kunyomi": [
+      "と.む",
+      "とみ"
+    ],
+    "meanings": [
+      "sự giàu có",
+      "làm giàu",
+      "dồi dào"
+    ]
+  },
+  {
+    "id": "k482",
+    "level": "N3",
+    "character": "彼",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 648,
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "かれ",
+      "かの",
+      "か.の"
+    ],
+    "meanings": [
+      "anh ấy",
+      "đó",
+      "cái"
+    ]
+  },
+  {
+    "id": "k483",
+    "level": "N3",
+    "character": "未",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 650,
+    "onyomi": [
+      "ミ",
+      "ビ"
+    ],
+    "kunyomi": [
+      "いま.だ",
+      "ま.だ",
+      "ひつじ"
+    ],
+    "meanings": [
+      "bỏ-",
+      "chưa",
+      "cho đến nay",
+      "vẫn còn",
+      "ngay cả bây giờ",
+      "dấu hiệu của ram",
+      "1-3 giờ chiều",
+      "cung hoàng đạo thứ tám của Trung Quốc"
+    ]
+  },
+  {
+    "id": "k484",
+    "level": "N3",
+    "character": "舞",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 655,
+    "onyomi": [
+      "ブ"
+    ],
+    "kunyomi": [
+      "ま.う",
+      "-ま.う",
+      "まい"
+    ],
+    "meanings": [
+      "khiêu vũ",
+      "bay đi",
+      "vòng tròn",
+      "bánh xe"
+    ]
+  },
+  {
+    "id": "k485",
+    "level": "N3",
+    "character": "亡",
+    "strokes": 3,
+    "grade": 6,
+    "freq": 661,
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "な.い",
+      "な.き-",
+      "ほろ.びる",
+      "ほろ.ぶ",
+      "ほろ.ぼす"
+    ],
+    "meanings": [
+      "đã chết",
+      "sự muộn màng",
+      "sắp chết",
+      "diệt vong"
+    ]
+  },
+  {
+    "id": "k486",
+    "level": "N3",
+    "character": "冷",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 667,
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "meanings": [
+      "mát mẻ",
+      "lạnh (bia, người)",
+      "thư giãn"
+    ]
+  },
+  {
+    "id": "k487",
+    "level": "N3",
+    "character": "適",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 670,
+    "onyomi": [
+      "テキ"
+    ],
+    "kunyomi": [
+      "かな.う"
+    ],
+    "meanings": [
+      "phù hợp",
+      "thỉnh thoảng",
+      "hiếm",
+      "đủ điều kiện",
+      "có khả năng"
+    ]
+  },
+  {
+    "id": "k488",
+    "level": "N3",
+    "character": "婦",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 671,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "よめ"
+    ],
+    "meanings": [
+      "quý cô",
+      "người phụ nữ",
+      "vợ",
+      "cô dâu"
+    ]
+  },
+  {
+    "id": "k489",
+    "level": "N3",
+    "character": "寄",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 673,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "よ.る",
+      "-よ.り",
+      "よ.せる"
+    ],
+    "meanings": [
+      "đến gần",
+      "dừng lại",
+      "mang lại gần",
+      "tập hợp",
+      "thu thập",
+      "gửi",
+      "phía trước"
+    ]
+  },
+  {
+    "id": "k490",
+    "level": "N3",
+    "character": "込",
+    "strokes": 5,
+    "grade": 8,
+    "freq": 675,
+    "onyomi": [],
+    "kunyomi": [
+      "-こ.む",
+      "こ.む",
+      "こ.み",
+      "-こ.み",
+      "こ.める"
+    ],
+    "meanings": [
+      "đông đúc",
+      "hỗn hợp",
+      "với số lượng lớn",
+      "bao gồm",
+      "(kokuji)"
+    ]
+  },
+  {
+    "id": "k491",
+    "level": "N3",
+    "character": "顔",
+    "strokes": 18,
+    "grade": 2,
+    "freq": 676,
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "かお"
+    ],
+    "meanings": [
+      "đối mặt",
+      "biểu hiện"
+    ]
+  },
+  {
+    "id": "k492",
+    "level": "N3",
+    "character": "類",
+    "strokes": 18,
+    "grade": 4,
+    "freq": 678,
+    "onyomi": [
+      "ルイ"
+    ],
+    "kunyomi": [
+      "たぐ.い"
+    ],
+    "meanings": [
+      "sắp xếp",
+      "loại",
+      "đa dạng",
+      "lớp học",
+      "chi"
+    ]
+  },
+  {
+    "id": "k493",
+    "level": "N3",
+    "character": "余",
+    "strokes": 7,
+    "grade": 5,
+    "freq": 680,
+    "onyomi": [
+      "ヨ"
+    ],
+    "kunyomi": [
+      "あま.る",
+      "あま.り",
+      "あま.す",
+      "あんま.り"
+    ],
+    "meanings": [
+      "quá nhiều",
+      "bản thân tôi",
+      "dư thừa",
+      "khác",
+      "phần còn lại"
+    ]
+  },
+  {
+    "id": "k494",
+    "level": "N3",
+    "character": "王",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 684,
+    "onyomi": [
+      "オウ",
+      "-ノウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "vua",
+      "cai trị",
+      "ông trùm"
+    ]
+  },
+  {
+    "id": "k495",
+    "level": "N3",
+    "character": "返",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 685,
+    "onyomi": [
+      "ヘン"
+    ],
+    "kunyomi": [
+      "かえ.す",
+      "-かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "meanings": [
+      "trở về",
+      "câu trả lời",
+      "mờ dần",
+      "trả ơn"
+    ]
+  },
+  {
+    "id": "k496",
+    "level": "N3",
+    "character": "妻",
+    "strokes": 8,
+    "grade": 5,
+    "freq": 691,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "つま"
+    ],
+    "meanings": [
+      "vợ",
+      "vợ/chồng"
+    ]
+  },
+  {
+    "id": "k497",
+    "level": "N3",
+    "character": "背",
+    "strokes": 9,
+    "grade": 6,
+    "freq": 696,
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "せ",
+      "せい",
+      "そむ.く",
+      "そむ.ける"
+    ],
+    "meanings": [
+      "tầm vóc",
+      "chiều cao",
+      "trở lại",
+      "đằng sau",
+      "không vâng lời",
+      "thách thức",
+      "quay lại đi",
+      "nổi loạn"
+    ]
+  },
+  {
+    "id": "k498",
+    "level": "N3",
+    "character": "熱",
+    "strokes": 15,
+    "grade": 4,
+    "freq": 700,
+    "onyomi": [
+      "ネツ"
+    ],
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "meanings": [
+      "nhiệt",
+      "nhiệt độ",
+      "sốt",
+      "hưng cảm",
+      "niềm đam mê"
+    ]
+  },
+  {
+    "id": "k499",
+    "level": "N3",
+    "character": "宿",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 701,
+    "onyomi": [
+      "シュク"
+    ],
+    "kunyomi": [
+      "やど",
+      "やど.る",
+      "やど.す"
+    ],
+    "meanings": [
+      "quán trọ",
+      "chỗ ở",
+      "trạm chuyển tiếp",
+      "ở",
+      "nhà trọ",
+      "mang thai",
+      "nhà",
+      "chỗ ở"
+    ]
+  },
+  {
+    "id": "k500",
+    "level": "N3",
+    "character": "薬",
+    "strokes": 16,
+    "grade": 3,
+    "freq": 702,
+    "onyomi": [
+      "ヤク"
+    ],
+    "kunyomi": [
+      "くすり"
+    ],
+    "meanings": [
+      "y học",
+      "hóa chất",
+      "men răng",
+      "thuốc súng",
+      "lợi ích"
+    ]
+  },
+  {
+    "id": "k501",
+    "level": "N3",
+    "character": "険",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 707,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "けわ.しい"
+    ],
+    "meanings": [
+      "dốc đứng",
+      "nơi không thể tiếp cận",
+      "vị trí bất khả xâm phạm",
+      "nơi dốc",
+      "đôi mắt sắc bén"
+    ]
+  },
+  {
+    "id": "k502",
+    "level": "N3",
+    "character": "頼",
+    "strokes": 16,
+    "grade": 8,
+    "freq": 708,
+    "onyomi": [
+      "ライ"
+    ],
+    "kunyomi": [
+      "たの.む",
+      "たの.もしい",
+      "たよ.る"
+    ],
+    "meanings": [
+      "tin tưởng",
+      "yêu cầu"
+    ]
+  },
+  {
+    "id": "k503",
+    "level": "N3",
+    "character": "覚",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 710,
+    "onyomi": [
+      "カク"
+    ],
+    "kunyomi": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "meanings": [
+      "ghi nhớ",
+      "học hỏi",
+      "nhớ",
+      "thức dậy",
+      "tỉnh táo lên"
+    ]
+  },
+  {
+    "id": "k504",
+    "level": "N3",
+    "character": "船",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 713,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "ふね",
+      "ふな-"
+    ],
+    "meanings": [
+      "tàu",
+      "thuyền"
+    ]
+  },
+  {
+    "id": "k505",
+    "level": "N3",
+    "character": "途",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 717,
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "みち"
+    ],
+    "meanings": [
+      "tuyến đường",
+      "đường",
+      "đường"
+    ]
+  },
+  {
+    "id": "k506",
+    "level": "N3",
+    "character": "許",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 720,
+    "onyomi": [
+      "キョ"
+    ],
+    "kunyomi": [
+      "ゆる.す",
+      "もと"
+    ],
+    "meanings": [
+      "giấy phép",
+      "chấp thuận"
+    ]
+  },
+  {
+    "id": "k507",
+    "level": "N3",
+    "character": "抜",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 726,
+    "onyomi": [
+      "バツ",
+      "ハツ",
+      "ハイ"
+    ],
+    "kunyomi": [
+      "ぬ.く",
+      "-ぬ.く",
+      "ぬ.き",
+      "ぬ.ける",
+      "ぬ.かす",
+      "ぬ.かる"
+    ],
+    "meanings": [
+      "trượt ra ngoài",
+      "chiết xuất",
+      "kéo ra",
+      "ăn trộm",
+      "trích dẫn",
+      "loại bỏ",
+      "bỏ qua"
+    ]
+  },
+  {
+    "id": "k508",
+    "level": "N3",
+    "character": "便",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 729,
+    "onyomi": [
+      "ベン",
+      "ビン"
+    ],
+    "kunyomi": [
+      "たよ.り"
+    ],
+    "meanings": [
+      "tiện lợi",
+      "cơ sở vật chất",
+      "phân",
+      "phân",
+      "lá thư",
+      "cơ hội"
+    ]
+  },
+  {
+    "id": "k509",
+    "level": "N3",
+    "character": "留",
+    "strokes": 10,
+    "grade": 5,
+    "freq": 731,
+    "onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "kunyomi": [
+      "と.める",
+      "と.まる",
+      "とど.める",
+      "とど.まる",
+      "るうぶる"
+    ],
+    "meanings": [
+      "giam giữ",
+      "buộc chặt",
+      "dừng lại",
+      "dừng lại"
+    ]
+  },
+  {
+    "id": "k510",
+    "level": "N3",
+    "character": "罪",
+    "strokes": 13,
+    "grade": 5,
+    "freq": 732,
+    "onyomi": [
+      "ザイ"
+    ],
+    "kunyomi": [
+      "つみ"
+    ],
+    "meanings": [
+      "tội lỗi",
+      "tội lỗi",
+      "tội ác",
+      "lỗi",
+      "đổ lỗi",
+      "sự xúc phạm"
+    ]
+  },
+  {
+    "id": "k511",
+    "level": "N3",
+    "character": "努",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 749,
+    "onyomi": [
+      "ド"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "meanings": [
+      "công việc cực nhọc",
+      "siêng năng",
+      "càng nhiều càng tốt"
+    ]
+  },
+  {
+    "id": "k512",
+    "level": "N3",
+    "character": "精",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 752,
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "しら.げる",
+      "くわ.しい"
+    ],
+    "meanings": [
+      "tinh tế",
+      "ma",
+      "nàng tiên",
+      "năng lượng",
+      "sức sống",
+      "tinh dịch",
+      "sự xuất sắc",
+      "sự tinh khiết",
+      "kỹ năng"
+    ]
+  },
+  {
+    "id": "k513",
+    "level": "N3",
+    "character": "散",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 758,
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "meanings": [
+      "rải rác",
+      "giải tán",
+      "chi tiêu",
+      "phung phí"
+    ]
+  },
+  {
+    "id": "k514",
+    "level": "N3",
+    "character": "静",
+    "strokes": 14,
+    "grade": 4,
+    "freq": 764,
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "meanings": [
+      "yên tĩnh"
+    ]
+  },
+  {
+    "id": "k515",
+    "level": "N3",
+    "character": "婚",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 767,
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "hôn nhân"
+    ]
+  },
+  {
+    "id": "k516",
+    "level": "N3",
+    "character": "喜",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 769,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "よろこ.ぶ",
+      "よろこ.ばす"
+    ],
+    "meanings": [
+      "vui mừng",
+      "tận hưởng niềm vui"
+    ]
+  },
+  {
+    "id": "k517",
+    "level": "N3",
+    "character": "浮",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 776,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "う.く",
+      "う.かれる",
+      "う.かぶ",
+      "う.かべる"
+    ],
+    "meanings": [
+      "nổi",
+      "phao",
+      "nổi lên bề mặt"
+    ]
+  },
+  {
+    "id": "k518",
+    "level": "N3",
+    "character": "絶",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 784,
+    "onyomi": [
+      "ゼツ"
+    ],
+    "kunyomi": [
+      "た.える",
+      "た.やす",
+      "た.つ"
+    ],
+    "meanings": [
+      "ngừng",
+      "cắt đứt",
+      "cắt đứt",
+      "kiêng",
+      "làm gián đoạn",
+      "đàn áp",
+      "vượt xa",
+      "không có trận đấu",
+      "vô song",
+      "vô song"
+    ]
+  },
+  {
+    "id": "k519",
+    "level": "N3",
+    "character": "幸",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 786,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "さいわ.い",
+      "さち",
+      "しあわ.せ"
+    ],
+    "meanings": [
+      "hạnh phúc",
+      "phước lành",
+      "vận may"
+    ]
+  },
+  {
+    "id": "k520",
+    "level": "N3",
+    "character": "押",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 789,
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "お.す",
+      "お.し-",
+      "お.っ-",
+      "お.さえる",
+      "おさ.える"
+    ],
+    "meanings": [
+      "đẩy",
+      "dừng lại",
+      "kiểm tra",
+      "khuất phục",
+      "đính kèm",
+      "nắm bắt",
+      "trọng lượng",
+      "đẩy",
+      "nhấn",
+      "niêm phong",
+      "làm bất chấp"
+    ]
+  },
+  {
+    "id": "k521",
+    "level": "N3",
+    "character": "倒",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 791,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "たお.れる",
+      "-だお.れ",
+      "たお.す",
+      "さかさま",
+      "さかさ",
+      "さかしま"
+    ],
+    "meanings": [
+      "lật đổ",
+      "ngã",
+      "sụp đổ",
+      "thả",
+      "phá vỡ"
+    ]
+  },
+  {
+    "id": "k522",
+    "level": "N3",
+    "character": "等",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 798,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ひと.しい",
+      "など",
+      "-ら"
+    ],
+    "meanings": [
+      "v.v.",
+      "vân vân",
+      "lớp (đầu tiên)",
+      "chất lượng",
+      "bằng nhau",
+      "tương tự"
+    ]
+  },
+  {
+    "id": "k523",
+    "level": "N3",
+    "character": "老",
+    "strokes": 6,
+    "grade": 4,
+    "freq": 803,
+    "onyomi": [
+      "ロウ"
+    ],
+    "kunyomi": [
+      "お.いる",
+      "ふ.ける"
+    ],
+    "meanings": [
+      "ông già",
+      "tuổi già",
+      "già đi"
+    ]
+  },
+  {
+    "id": "k524",
+    "level": "N3",
+    "character": "曲",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 810,
+    "onyomi": [
+      "キョク"
+    ],
+    "kunyomi": [
+      "ま.がる",
+      "ま.げる",
+      "くま"
+    ],
+    "meanings": [
+      "uốn cong",
+      "âm nhạc",
+      "giai điệu",
+      "thành phần",
+      "niềm vui",
+      "sự bất công",
+      "lỗi",
+      "đường cong",
+      "quanh co",
+      "nghịch ngợm",
+      "nạc"
+    ]
+  },
+  {
+    "id": "k525",
+    "level": "N3",
+    "character": "払",
+    "strokes": 5,
+    "grade": 8,
+    "freq": 813,
+    "onyomi": [
+      "フツ",
+      "ヒツ",
+      "ホツ"
+    ],
+    "kunyomi": [
+      "はら.う",
+      "-はら.い",
+      "-ばら.い"
+    ],
+    "meanings": [
+      "trả tiền",
+      "dọn sạch",
+      "cắt tỉa",
+      "trục xuất",
+      "vứt bỏ"
+    ]
+  },
+  {
+    "id": "k526",
+    "level": "N3",
+    "character": "庭",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 816,
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "にわ"
+    ],
+    "meanings": [
+      "sân",
+      "vườn",
+      "sân"
+    ]
+  },
+  {
+    "id": "k527",
+    "level": "N3",
+    "character": "徒",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 817,
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "いたずら",
+      "あだ"
+    ],
+    "meanings": [
+      "đi bộ",
+      "đàn em",
+      "sự trống rỗng",
+      "sự phù phiếm",
+      "sự vô ích",
+      "sự vô dụng",
+      "điều phù du",
+      "băng đảng",
+      "đặt",
+      "bữa tiệc",
+      "mọi người"
+    ]
+  },
+  {
+    "id": "k528",
+    "level": "N3",
+    "character": "勤",
+    "strokes": 12,
+    "grade": 6,
+    "freq": 830,
+    "onyomi": [
+      "キン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "つと.める",
+      "-づと.め",
+      "つと.まる",
+      "いそ.しむ"
+    ],
+    "meanings": [
+      "siêng năng",
+      "trở thành người có việc làm",
+      "phục vụ"
+    ]
+  },
+  {
+    "id": "k529",
+    "level": "N3",
+    "character": "遅",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 833,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "おく.れる",
+      "おく.らす",
+      "おそ.い"
+    ],
+    "meanings": [
+      "chậm",
+      "muộn",
+      "trở lại",
+      "sau này"
+    ]
+  },
+  {
+    "id": "k530",
+    "level": "N3",
+    "character": "居",
+    "strokes": 8,
+    "grade": 5,
+    "freq": 836,
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "-い",
+      "お.る"
+    ],
+    "meanings": [
+      "cư trú",
+      "được",
+      "tồn tại",
+      "sống với"
+    ]
+  },
+  {
+    "id": "k531",
+    "level": "N3",
+    "character": "雑",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 839,
+    "onyomi": [
+      "ザツ",
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "まじ.える",
+      "まじ.る"
+    ],
+    "meanings": [
+      "linh tinh"
+    ]
+  },
+  {
+    "id": "k532",
+    "level": "N3",
+    "character": "招",
+    "strokes": 8,
+    "grade": 5,
+    "freq": 840,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "まね.く"
+    ],
+    "meanings": [
+      "vẫy gọi",
+      "mời",
+      "triệu tập",
+      "tham gia"
+    ]
+  },
+  {
+    "id": "k533",
+    "level": "N3",
+    "character": "困",
+    "strokes": 7,
+    "grade": 6,
+    "freq": 843,
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [
+      "こま.る"
+    ],
+    "meanings": [
+      "tình thế khó khăn",
+      "trở nên đau khổ",
+      "khó chịu"
+    ]
+  },
+  {
+    "id": "k534",
+    "level": "N3",
+    "character": "欠",
+    "strokes": 4,
+    "grade": 4,
+    "freq": 860,
+    "onyomi": [
+      "ケツ",
+      "ケン"
+    ],
+    "kunyomi": [
+      "か.ける",
+      "か.く"
+    ],
+    "meanings": [
+      "thiếu",
+      "khoảng trống",
+      "thất bại",
+      "ngáp triệt để (số 76)"
+    ]
+  },
+  {
+    "id": "k535",
+    "level": "N3",
+    "character": "更",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 861,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "さら",
+      "さら.に",
+      "ふ.ける",
+      "ふ.かす"
+    ],
+    "meanings": [
+      "phát triển muộn",
+      "canh đêm",
+      "ngồi dậy muộn",
+      "tất nhiên",
+      "gia hạn",
+      "đổi mới",
+      "một lần nữa",
+      "ngày càng nhiều",
+      "hơn nữa"
+    ]
+  },
+  {
+    "id": "k536",
+    "level": "N3",
+    "character": "刻",
+    "strokes": 8,
+    "grade": 6,
+    "freq": 866,
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "きざ.む",
+      "きざ.み"
+    ],
+    "meanings": [
+      "khắc",
+      "cắt tốt",
+      "chặt",
+      "hàm băm",
+      "thịt băm",
+      "thời gian",
+      "chạm khắc"
+    ]
+  },
+  {
+    "id": "k537",
+    "level": "N3",
+    "character": "賛",
+    "strokes": 15,
+    "grade": 5,
+    "freq": 868,
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "たす.ける",
+      "たた.える"
+    ],
+    "meanings": [
+      "chấp thuận",
+      "khen ngợi",
+      "tiêu đề hoặc dòng chữ trên hình ảnh",
+      "hỗ trợ",
+      "đồng ý với"
+    ]
+  },
+  {
+    "id": "k538",
+    "level": "N3",
+    "character": "抱",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 871,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "だ.く",
+      "いだ.く",
+      "かか.える"
+    ],
+    "meanings": [
+      "ôm hôn",
+      "ôm",
+      "ôm trong tay"
+    ]
+  },
+  {
+    "id": "k539",
+    "level": "N3",
+    "character": "犯",
+    "strokes": 5,
+    "grade": 5,
+    "freq": 874,
+    "onyomi": [
+      "ハン",
+      "ボン"
+    ],
+    "kunyomi": [
+      "おか.す"
+    ],
+    "meanings": [
+      "tội ác",
+      "tội lỗi",
+      "sự xúc phạm"
+    ]
+  },
+  {
+    "id": "k540",
+    "level": "N3",
+    "character": "恐",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 878,
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おそ.れる",
+      "おそ.る",
+      "おそ.ろしい",
+      "こわ.い",
+      "こわ.がる"
+    ],
+    "meanings": [
+      "nỗi sợ hãi",
+      "sợ hãi",
+      "kinh ngạc"
+    ]
+  },
+  {
+    "id": "k541",
+    "level": "N3",
+    "character": "息",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 882,
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "いき"
+    ],
+    "meanings": [
+      "hơi thở",
+      "hô hấp",
+      "con trai",
+      "lãi (tiền)",
+      "nghỉ ngơi",
+      "sắp kết thúc"
+    ]
+  },
+  {
+    "id": "k542",
+    "level": "N3",
+    "character": "遠",
+    "strokes": 13,
+    "grade": 2,
+    "freq": 887,
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "kunyomi": [
+      "とお.い"
+    ],
+    "meanings": [
+      "xa xôi",
+      "xa"
+    ]
+  },
+  {
+    "id": "k543",
+    "level": "N3",
+    "character": "戻",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 890,
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "もど.す",
+      "もど.る"
+    ],
+    "meanings": [
+      "lại",
+      "trở về",
+      "hoàn nguyên",
+      "sơ yếu lý lịch",
+      "khôi phục",
+      "đi lùi"
+    ]
+  },
+  {
+    "id": "k544",
+    "level": "N3",
+    "character": "願",
+    "strokes": 19,
+    "grade": 4,
+    "freq": 894,
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "ねが.う",
+      "-ねがい"
+    ],
+    "meanings": [
+      "lời thỉnh cầu",
+      "yêu cầu",
+      "lời thề",
+      "ước gì",
+      "hy vọng"
+    ]
+  },
+  {
+    "id": "k545",
+    "level": "N3",
+    "character": "絵",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 895,
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "bức tranh",
+      "vẽ",
+      "bức vẽ",
+      "phác họa"
+    ]
+  },
+  {
+    "id": "k546",
+    "level": "N3",
+    "character": "越",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 897,
+    "onyomi": [
+      "エツ",
+      "オツ"
+    ],
+    "kunyomi": [
+      "こ.す",
+      "-こ.す",
+      "-ご.し",
+      "こ.える",
+      "-ご.え"
+    ],
+    "meanings": [
+      "vượt qua",
+      "vượt qua",
+      "di chuyển đến",
+      "vượt quá",
+      "Việt Nam"
+    ]
+  },
+  {
+    "id": "k547",
+    "level": "N3",
+    "character": "欲",
+    "strokes": 11,
+    "grade": 6,
+    "freq": 902,
+    "onyomi": [
+      "ヨク"
+    ],
+    "kunyomi": [
+      "ほっ.する",
+      "ほ.しい"
+    ],
+    "meanings": [
+      "khao khát",
+      "sự tham lam",
+      "lòng tham",
+      "niềm đam mê",
+      "mong muốn",
+      "thèm ăn"
+    ]
+  },
+  {
+    "id": "k548",
+    "level": "N3",
+    "character": "痛",
+    "strokes": 12,
+    "grade": 6,
+    "freq": 903,
+    "onyomi": [
+      "ツウ"
+    ],
+    "kunyomi": [
+      "いた.い",
+      "いた.む",
+      "いた.ましい",
+      "いた.める"
+    ],
+    "meanings": [
+      "đau đớn",
+      "đau",
+      "thiệt hại",
+      "vết bầm tím"
+    ]
+  },
+  {
+    "id": "k549",
+    "level": "N3",
+    "character": "笑",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 913,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "わら.う",
+      "え.む"
+    ],
+    "meanings": [
+      "cười"
+    ]
+  },
+  {
+    "id": "k550",
+    "level": "N3",
+    "character": "互",
+    "strokes": 4,
+    "grade": 8,
+    "freq": 914,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "たが.い",
+      "かたみ.に"
+    ],
+    "meanings": [
+      "lẫn nhau",
+      "qua lại",
+      "cùng với nhau"
+    ]
+  },
+  {
+    "id": "k551",
+    "level": "N3",
+    "character": "束",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 918,
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "たば",
+      "たば.ねる",
+      "つか",
+      "つか.ねる"
+    ],
+    "meanings": [
+      "bó",
+      "bó lúa",
+      "ram",
+      "buộc thành bó",
+      "cai trị",
+      "quản lý",
+      "kiểm soát"
+    ]
+  },
+  {
+    "id": "k552",
+    "level": "N3",
+    "character": "似",
+    "strokes": 7,
+    "grade": 5,
+    "freq": 923,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "に.る",
+      "ひ.る"
+    ],
+    "meanings": [
+      "trở thành",
+      "giống",
+      "giả mạo",
+      "bắt chước",
+      "phù hợp"
+    ]
+  },
+  {
+    "id": "k553",
+    "level": "N3",
+    "character": "列",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 927,
+    "onyomi": [
+      "レツ",
+      "レ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "tập tin",
+      "hàng",
+      "cấp bậc",
+      "bậc",
+      "cột"
+    ]
+  },
+  {
+    "id": "k554",
+    "level": "N3",
+    "character": "探",
+    "strokes": 11,
+    "grade": 6,
+    "freq": 930,
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "さぐ.る",
+      "さが.す"
+    ],
+    "meanings": [
+      "mò mẫm",
+      "tìm kiếm",
+      "tìm kiếm"
+    ]
+  },
+  {
+    "id": "k555",
+    "level": "N3",
+    "character": "逃",
+    "strokes": 9,
+    "grade": 8,
+    "freq": 931,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "に.げる",
+      "に.がす",
+      "のが.す",
+      "のが.れる"
+    ],
+    "meanings": [
+      "trốn thoát",
+      "chạy trốn",
+      "trốn tránh",
+      "trốn tránh",
+      "thả tự do"
+    ]
+  },
+  {
+    "id": "k556",
+    "level": "N3",
+    "character": "遊",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 941,
+    "onyomi": [
+      "ユウ",
+      "ユ"
+    ],
+    "kunyomi": [
+      "あそ.ぶ",
+      "あそ.ばす"
+    ],
+    "meanings": [
+      "chơi"
+    ]
+  },
+  {
+    "id": "k557",
+    "level": "N3",
+    "character": "迷",
+    "strokes": 9,
+    "grade": 5,
+    "freq": 942,
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "まよ.う"
+    ],
+    "meanings": [
+      "lạc lối",
+      "bối rối",
+      "nghi ngờ",
+      "bị mất",
+      "lỗi",
+      "ảo tưởng"
+    ]
+  },
+  {
+    "id": "k558",
+    "level": "N3",
+    "character": "夢",
+    "strokes": 13,
+    "grade": 5,
+    "freq": 943,
+    "onyomi": [
+      "ム",
+      "ボウ"
+    ],
+    "kunyomi": [
+      "ゆめ",
+      "ゆめ.みる",
+      "くら.い"
+    ],
+    "meanings": [
+      "giấc mơ",
+      "tầm nhìn",
+      "ảo tưởng"
+    ]
+  },
+  {
+    "id": "k559",
+    "level": "N3",
+    "character": "君",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 947,
+    "onyomi": [
+      "クン"
+    ],
+    "kunyomi": [
+      "きみ",
+      "-ぎみ"
+    ],
+    "meanings": [
+      "ông",
+      "bạn",
+      "người cai trị",
+      "hậu tố tên nam"
+    ]
+  },
+  {
+    "id": "k560",
+    "level": "N3",
+    "character": "閉",
+    "strokes": 11,
+    "grade": 6,
+    "freq": 951,
+    "onyomi": [
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "と.じる",
+      "と.ざす",
+      "し.める",
+      "し.まる",
+      "た.てる"
+    ],
+    "meanings": [
+      "đóng cửa",
+      "đóng lại"
+    ]
+  },
+  {
+    "id": "k561",
+    "level": "N3",
+    "character": "緒",
+    "strokes": 14,
+    "grade": 8,
+    "freq": 952,
+    "onyomi": [
+      "ショ",
+      "チョ"
+    ],
+    "kunyomi": [
+      "お",
+      "いとぐち"
+    ],
+    "meanings": [
+      "quần lót",
+      "sự khởi đầu",
+      "sự khởi đầu",
+      "kết thúc",
+      "dây",
+      "dây đeo",
+      "trạng thái tinh thần hoặc cảm xúc"
+    ]
+  },
+  {
+    "id": "k562",
+    "level": "N3",
+    "character": "折",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 962,
+    "onyomi": [
+      "セツ",
+      "シャク"
+    ],
+    "kunyomi": [
+      "お.る",
+      "おり",
+      "お.り",
+      "-お.り",
+      "お.れる"
+    ],
+    "meanings": [
+      "gấp lại",
+      "phá vỡ",
+      "gãy xương",
+      "uốn cong",
+      "năng suất",
+      "nộp"
+    ]
+  },
+  {
+    "id": "k563",
+    "level": "N3",
+    "character": "草",
+    "strokes": 9,
+    "grade": 1,
+    "freq": 967,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "くさ",
+      "くさ-",
+      "-ぐさ"
+    ],
+    "meanings": [
+      "cỏ",
+      "cỏ dại",
+      "thảo mộc",
+      "đồng cỏ",
+      "viết",
+      "dự thảo"
+    ]
+  },
+  {
+    "id": "k564",
+    "level": "N3",
+    "character": "暮",
+    "strokes": 14,
+    "grade": 6,
+    "freq": 978,
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "く.れる",
+      "く.らす"
+    ],
+    "meanings": [
+      "buổi tối",
+      "chạng vạng",
+      "cuối mùa",
+      "sinh kế",
+      "kiếm sống",
+      "dành thời gian"
+    ]
+  },
+  {
+    "id": "k565",
+    "level": "N3",
+    "character": "酒",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 1006,
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "さけ",
+      "さか-"
+    ],
+    "meanings": [
+      "vì lợi ích",
+      "rượu"
+    ]
+  },
+  {
+    "id": "k566",
+    "level": "N3",
+    "character": "悲",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1014,
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "かな.しい",
+      "かな.しむ"
+    ],
+    "meanings": [
+      "đau buồn",
+      "buồn",
+      "tiếc nuối",
+      "hối tiếc"
+    ]
+  },
+  {
+    "id": "k567",
+    "level": "N3",
+    "character": "晴",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 1022,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "は.れる",
+      "は.れ",
+      "は.れ-",
+      "-ば.れ",
+      "は.らす"
+    ],
+    "meanings": [
+      "dọn dẹp"
+    ]
+  },
+  {
+    "id": "k568",
+    "level": "N3",
+    "character": "掛",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1027,
+    "onyomi": [
+      "カイ",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "か.ける",
+      "-か.ける",
+      "か.け",
+      "-か.け",
+      "-が.け",
+      "か.かる",
+      "-か.かる",
+      "-が.かる",
+      "か.かり",
+      "-が.かり",
+      "かかり",
+      "-がかり"
+    ],
+    "meanings": [
+      "treo",
+      "đình chỉ",
+      "phụ thuộc",
+      "đến",
+      "thuế",
+      "đổ"
+    ]
+  },
+  {
+    "id": "k569",
+    "level": "N3",
+    "character": "到",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1032,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "いた.る"
+    ],
+    "meanings": [
+      "sự đến",
+      "tiến hành",
+      "đạt được",
+      "đạt được",
+      "dẫn đến"
+    ]
+  },
+  {
+    "id": "k570",
+    "level": "N3",
+    "character": "寝",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1034,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ね.る",
+      "ね.かす",
+      "い.ぬ",
+      "みたまや",
+      "や.める"
+    ],
+    "meanings": [
+      "nằm xuống",
+      "ngủ",
+      "nghỉ ngơi",
+      "giường",
+      "vẫn chưa bán được"
+    ]
+  },
+  {
+    "id": "k571",
+    "level": "N3",
+    "character": "暗",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 1040,
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "くら.い",
+      "くら.む",
+      "くれ.る"
+    ],
+    "meanings": [
+      "bóng tối",
+      "biến mất",
+      "bóng râm",
+      "không chính thức",
+      "trở nên tối tăm",
+      "bị mù"
+    ]
+  },
+  {
+    "id": "k572",
+    "level": "N3",
+    "character": "盗",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1051,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ぬす.む",
+      "ぬす.み"
+    ],
+    "meanings": [
+      "ăn trộm",
+      "cướp",
+      "ăn trộm"
+    ]
+  },
+  {
+    "id": "k573",
+    "level": "N3",
+    "character": "吸",
+    "strokes": 6,
+    "grade": 6,
+    "freq": 1054,
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "す.う"
+    ],
+    "meanings": [
+      "hút",
+      "thấm nhuần",
+      "hít vào",
+      "nhấm nháp"
+    ]
+  },
+  {
+    "id": "k574",
+    "level": "N3",
+    "character": "陽",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1071,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "ひ"
+    ],
+    "meanings": [
+      "ánh nắng mặt trời",
+      "nguyên tắc dương",
+      "tích cực",
+      "nam giới",
+      "thiên đường",
+      "ban ngày"
+    ]
+  },
+  {
+    "id": "k575",
+    "level": "N3",
+    "character": "御",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1087,
+    "onyomi": [
+      "ギョ",
+      "ゴ"
+    ],
+    "kunyomi": [
+      "おん-",
+      "お-",
+      "み-"
+    ],
+    "meanings": [
+      "đáng kính",
+      "thao túng",
+      "cai trị"
+    ]
+  },
+  {
+    "id": "k576",
+    "level": "N3",
+    "character": "歯",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1106,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "よわい",
+      "は",
+      "よわ.い",
+      "よわい.する"
+    ],
+    "meanings": [
+      "răng",
+      "răng cưa"
+    ]
+  },
+  {
+    "id": "k577",
+    "level": "N3",
+    "character": "忘",
+    "strokes": 7,
+    "grade": 6,
+    "freq": 1129,
+    "onyomi": [
+      "ボウ"
+    ],
+    "kunyomi": [
+      "わす.れる"
+    ],
+    "meanings": [
+      "quên"
+    ]
+  },
+  {
+    "id": "k578",
+    "level": "N3",
+    "character": "雪",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 1131,
+    "onyomi": [
+      "セツ"
+    ],
+    "kunyomi": [
+      "ゆき"
+    ],
+    "meanings": [
+      "tuyết"
+    ]
+  },
+  {
+    "id": "k579",
+    "level": "N3",
+    "character": "吹",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 1133,
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "ふ.く"
+    ],
+    "meanings": [
+      "đòn",
+      "thở",
+      "phập phồng",
+      "phát ra",
+      "khói"
+    ]
+  },
+  {
+    "id": "k580",
+    "level": "N3",
+    "character": "娘",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1145,
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "むすめ",
+      "こ"
+    ],
+    "meanings": [
+      "con gái",
+      "cô gái"
+    ]
+  },
+  {
+    "id": "k581",
+    "level": "N3",
+    "character": "誤",
+    "strokes": 14,
+    "grade": 6,
+    "freq": 1150,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "あやま.る",
+      "-あやま.る"
+    ],
+    "meanings": [
+      "sai lầm",
+      "lỗi",
+      "làm sai",
+      "đánh lạc hướng"
+    ]
+  },
+  {
+    "id": "k582",
+    "level": "N3",
+    "character": "洗",
+    "strokes": 9,
+    "grade": 6,
+    "freq": 1168,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "あら.う"
+    ],
+    "meanings": [
+      "rửa",
+      "hỏi thăm",
+      "thăm dò"
+    ]
+  },
+  {
+    "id": "k583",
+    "level": "N3",
+    "character": "慣",
+    "strokes": 14,
+    "grade": 5,
+    "freq": 1177,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "な.れる",
+      "な.らす"
+    ],
+    "meanings": [
+      "quen",
+      "làm quen với",
+      "trở nên có kinh nghiệm"
+    ]
+  },
+  {
+    "id": "k584",
+    "level": "N3",
+    "character": "礼",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 1185,
+    "onyomi": [
+      "レイ",
+      "ライ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "chào",
+      "cúi đầu",
+      "buổi lễ",
+      "cảm ơn",
+      "thù lao"
+    ]
+  },
+  {
+    "id": "k585",
+    "level": "N3",
+    "character": "窓",
+    "strokes": 11,
+    "grade": 6,
+    "freq": 1186,
+    "onyomi": [
+      "ソウ",
+      "ス"
+    ],
+    "kunyomi": [
+      "まど",
+      "てんまど",
+      "けむだし"
+    ],
+    "meanings": [
+      "cửa sổ",
+      "ngăn"
+    ]
+  },
+  {
+    "id": "k586",
+    "level": "N3",
+    "character": "昔",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 1197,
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "kunyomi": [
+      "むかし"
+    ],
+    "meanings": [
+      "ngày xửa ngày xưa",
+      "cổ xưa",
+      "ngày xưa"
+    ]
+  },
+  {
+    "id": "k587",
+    "level": "N3",
+    "character": "貧",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 1211,
+    "onyomi": [
+      "ヒン",
+      "ビン"
+    ],
+    "kunyomi": [
+      "まず.しい"
+    ],
+    "meanings": [
+      "nghèo đói",
+      "nghèo nàn"
+    ]
+  },
+  {
+    "id": "k588",
+    "level": "N3",
+    "character": "怒",
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1221,
+    "onyomi": [
+      "ド",
+      "ヌ"
+    ],
+    "kunyomi": [
+      "いか.る",
+      "おこ.る"
+    ],
+    "meanings": [
+      "tức giận",
+      "bị xúc phạm"
+    ]
+  },
+  {
+    "id": "k589",
+    "level": "N3",
+    "character": "泳",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 1223,
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "およ.ぐ"
+    ],
+    "meanings": [
+      "bơi lội"
+    ]
+  },
+  {
+    "id": "k590",
+    "level": "N3",
+    "character": "祖",
+    "strokes": 9,
+    "grade": 5,
+    "freq": 1226,
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "tổ tiên",
+      "người tiên phong",
+      "người sáng lập"
+    ]
+  },
+  {
+    "id": "k591",
+    "level": "N3",
+    "character": "杯",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1235,
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "さかずき"
+    ],
+    "meanings": [
+      "quầy tính cốc",
+      "ly rượu",
+      "kính",
+      "nâng ly chúc mừng"
+    ]
+  },
+  {
+    "id": "k592",
+    "level": "N3",
+    "character": "疲",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1263,
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "つか.れる",
+      "-づか.れ",
+      "つか.らす"
+    ],
+    "meanings": [
+      "kiệt sức",
+      "lốp xe",
+      "mệt mỏi"
+    ]
+  },
+  {
+    "id": "k593",
+    "level": "N3",
+    "character": "皆",
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1267,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "みな",
+      "みんな"
+    ],
+    "meanings": [
+      "tất cả",
+      "mọi thứ"
+    ]
+  },
+  {
+    "id": "k594",
+    "level": "N3",
+    "character": "鳴",
+    "strokes": 14,
+    "grade": 2,
+    "freq": 1279,
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "な.く",
+      "な.る",
+      "な.らす"
+    ],
+    "meanings": [
+      "ríu rít",
+      "khóc",
+      "vỏ cây",
+      "âm thanh",
+      "chiếc nhẫn",
+      "tiếng vọng",
+      "bấm còi"
+    ]
+  },
+  {
+    "id": "k595",
+    "level": "N3",
+    "character": "腹",
+    "strokes": 13,
+    "grade": 6,
+    "freq": 1286,
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [
+      "はら"
+    ],
+    "meanings": [
+      "bụng",
+      "bụng",
+      "dạ dày"
+    ]
+  },
+  {
+    "id": "k596",
+    "level": "N3",
+    "character": "煙",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1290,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "けむ.る",
+      "けむり",
+      "けむ.い"
+    ],
+    "meanings": [
+      "khói"
+    ]
+  },
+  {
+    "id": "k597",
+    "level": "N3",
+    "character": "眠",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1315,
+    "onyomi": [
+      "ミン"
+    ],
+    "kunyomi": [
+      "ねむ.る",
+      "ねむ.い"
+    ],
+    "meanings": [
+      "ngủ",
+      "chết",
+      "buồn ngủ"
+    ]
+  },
+  {
+    "id": "k598",
+    "level": "N3",
+    "character": "怖",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 1325,
+    "onyomi": [
+      "フ",
+      "ホ"
+    ],
+    "kunyomi": [
+      "こわ.い",
+      "こわ.がる",
+      "お.じる",
+      "おそ.れる"
+    ],
+    "meanings": [
+      "khủng khiếp",
+      "sợ hãi",
+      "đáng sợ"
+    ]
+  },
+  {
+    "id": "k599",
+    "level": "N3",
+    "character": "耳",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 1328,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "みみ"
+    ],
+    "meanings": [
+      "tai"
+    ]
+  },
+  {
+    "id": "k600",
+    "level": "N3",
+    "character": "頂",
+    "strokes": 11,
+    "grade": 6,
+    "freq": 1350,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "いただ.く",
+      "いただき"
+    ],
+    "meanings": [
+      "đặt trên đầu",
+      "nhận được",
+      "đỉnh đầu",
+      "hàng đầu",
+      "đỉnh cao",
+      "đỉnh cao"
+    ]
+  },
+  {
+    "id": "k601",
+    "level": "N3",
+    "character": "箱",
+    "strokes": 15,
+    "grade": 3,
+    "freq": 1357,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はこ"
+    ],
+    "meanings": [
+      "cái hộp",
+      "ngực",
+      "trường hợp",
+      "cái thùng",
+      "toa xe lửa"
+    ]
+  },
+  {
+    "id": "k602",
+    "level": "N3",
+    "character": "晩",
+    "strokes": 12,
+    "grade": 6,
+    "freq": 1424,
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "màn đêm buông xuống",
+      "đêm"
+    ]
+  },
+  {
+    "id": "k603",
+    "level": "N3",
+    "character": "寒",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 1456,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "さむ.い"
+    ],
+    "meanings": [
+      "lạnh"
+    ]
+  },
+  {
+    "id": "k604",
+    "level": "N3",
+    "character": "髪",
+    "strokes": 14,
+    "grade": 8,
+    "freq": 1474,
+    "onyomi": [
+      "ハツ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "meanings": [
+      "tóc trên đầu"
+    ]
+  },
+  {
+    "id": "k605",
+    "level": "N3",
+    "character": "忙",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 1475,
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
+    ],
+    "meanings": [
+      "bận rộn",
+      "chiếm đóng",
+      "bồn chồn"
+    ]
+  },
+  {
+    "id": "k606",
+    "level": "N3",
+    "character": "才",
+    "strokes": 3,
+    "grade": 2,
+    "freq": 1497,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "thiên tài",
+      "tuổi",
+      "shaku khối"
+    ]
+  },
+  {
+    "id": "k607",
+    "level": "N3",
+    "character": "靴",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1561,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "くつ"
+    ],
+    "meanings": [
+      "giày"
+    ]
+  },
+  {
+    "id": "k608",
+    "level": "N3",
+    "character": "恥",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1575,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "は.じる",
+      "はじ",
+      "は.じらう",
+      "は.ずかしい"
+    ],
+    "meanings": [
+      "xấu hổ",
+      "làm nhục"
+    ]
+  },
+  {
+    "id": "k609",
+    "level": "N3",
+    "character": "偶",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1602,
+    "onyomi": [
+      "グウ"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "meanings": [
+      "vô tình",
+      "số chẵn",
+      "cặp đôi",
+      "vợ chồng",
+      "cùng loại"
+    ]
+  },
+  {
+    "id": "k610",
+    "level": "N3",
+    "character": "偉",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1639,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "えら.い"
+    ],
+    "meanings": [
+      "đáng ngưỡng mộ",
+      "sự vĩ đại",
+      "đáng chú ý",
+      "tự phụ",
+      "nổi tiếng",
+      "xuất sắc"
+    ]
+  },
+  {
+    "id": "k611",
+    "level": "N3",
+    "character": "猫",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1702,
+    "onyomi": [
+      "ビョウ"
+    ],
+    "kunyomi": [
+      "ねこ"
+    ],
+    "meanings": [
+      "con mèo"
+    ]
+  },
+  {
+    "id": "k612",
+    "level": "N3",
+    "character": "幾",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1725,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "いく-",
+      "いく.つ",
+      "いく.ら"
+    ],
+    "meanings": [
+      "bao nhiêu",
+      "bao nhiêu",
+      "bao xa",
+      "bao lâu",
+      "một số",
+      "một số"
+    ]
+  }
+]

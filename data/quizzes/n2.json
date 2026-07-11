@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "q314",
+    "level": "N2",
+    "lessonId": "n2-1",
+    "question": "Nghĩa của từ 「あいかわらず」 là gì?",
+    "options": [
+      "như mọi khi",
+      "em bé",
+      "mơ hồ",
+      "ý tưởng"
+    ],
+    "answer": "như mọi khi"
+  },
+  {
+    "id": "q315",
+    "level": "N2",
+    "lessonId": "n2-1",
+    "question": "Nghĩa của từ 「アイデア/アイディア」 là gì?",
+    "options": [
+      "như mọi khi",
+      "em bé",
+      "mơ hồ",
+      "ý tưởng"
+    ],
+    "answer": "ý tưởng"
+  },
+  {
+    "id": "q316",
+    "level": "N2",
+    "lessonId": "n2-1",
+    "question": "Nghĩa của từ 「あいまい」 là gì?",
+    "options": [
+      "mơ hồ",
+      "như mọi khi",
+      "ý tưởng",
+      "em bé"
+    ],
+    "answer": "mơ hồ"
+  },
+  {
+    "id": "q317",
+    "level": "N2",
+    "lessonId": "n2-2",
+    "question": "Nghĩa của từ 「うどん」 là gì?",
+    "options": [
+      "mì (tiếng Nhật)",
+      "để tôi xem",
+      "rất nhiều",
+      "lảng vảng"
+    ],
+    "answer": "mì (tiếng Nhật)"
+  },
+  {
+    "id": "q318",
+    "level": "N2",
+    "lessonId": "n2-2",
+    "question": "Nghĩa của từ 「うろうろ」 là gì?",
+    "options": [
+      "mì (tiếng Nhật)",
+      "để tôi xem",
+      "rất nhiều",
+      "lảng vảng"
+    ],
+    "answer": "lảng vảng"
+  },
+  {
+    "id": "q319",
+    "level": "N2",
+    "lessonId": "n2-2",
+    "question": "Nghĩa của từ 「うんと」 là gì?",
+    "options": [
+      "rất nhiều",
+      "mì (tiếng Nhật)",
+      "lảng vảng",
+      "để tôi xem"
+    ],
+    "answer": "rất nhiều"
+  },
+  {
+    "id": "q320",
+    "level": "N2",
+    "lessonId": "n2-3",
+    "question": "Nghĩa của từ 「お帰り」 là gì?",
+    "options": [
+      "trở về",
+      "sự giúp đỡ thứ hai",
+      "người giúp việc",
+      "tôn sùng"
+    ],
+    "answer": "trở về"
+  },
+  {
+    "id": "q321",
+    "level": "N2",
+    "lessonId": "n2-3",
+    "question": "Nghĩa của từ 「お参り」 là gì?",
+    "options": [
+      "trở về",
+      "sự giúp đỡ thứ hai",
+      "người giúp việc",
+      "tôn sùng"
+    ],
+    "answer": "tôn sùng"
+  },
+  {
+    "id": "q322",
+    "level": "N2",
+    "lessonId": "n2-3",
+    "question": "Nghĩa của từ 「お手伝いさん」 là gì?",
+    "options": [
+      "người giúp việc",
+      "trở về",
+      "tôn sùng",
+      "sự giúp đỡ thứ hai"
+    ],
+    "answer": "người giúp việc"
+  },
+  {
+    "id": "q323",
+    "level": "N2",
+    "lessonId": "n2-4",
+    "question": "Nghĩa của từ 「けれど/けれども」 là gì?",
+    "options": [
+      "nhưng",
+      "điệp khúc",
+      "khóa học",
+      "do đó"
+    ],
+    "answer": "nhưng"
+  },
+  {
+    "id": "q324",
+    "level": "N2",
+    "lessonId": "n2-4",
+    "question": "Nghĩa của từ 「こうして」 là gì?",
+    "options": [
+      "nhưng",
+      "điệp khúc",
+      "khóa học",
+      "do đó"
+    ],
+    "answer": "do đó"
+  },
+  {
+    "id": "q325",
+    "level": "N2",
+    "lessonId": "n2-4",
+    "question": "Nghĩa của từ 「コース」 là gì?",
+    "options": [
+      "khóa học",
+      "nhưng",
+      "do đó",
+      "điệp khúc"
+    ],
+    "answer": "khóa học"
+  },
+  {
+    "id": "q326",
+    "level": "N2",
+    "lessonId": "n2-5",
+    "question": "Nghĩa của từ 「シーズン」 là gì?",
+    "options": [
+      "mùa (thể thao)",
+      "khăng khăng",
+      "im lặng (như nấm mồ)",
+      "tấm"
+    ],
+    "answer": "mùa (thể thao)"
+  },
+  {
+    "id": "q327",
+    "level": "N2",
+    "lessonId": "n2-5",
+    "question": "Nghĩa của từ 「シーツ」 là gì?",
+    "options": [
+      "mùa (thể thao)",
+      "khăng khăng",
+      "im lặng (như nấm mồ)",
+      "tấm"
+    ],
+    "answer": "tấm"
+  },
+  {
+    "id": "q328",
+    "level": "N2",
+    "lessonId": "n2-5",
+    "question": "Nghĩa của từ 「しいんと」 là gì?",
+    "options": [
+      "im lặng (như nấm mồ)",
+      "mùa (thể thao)",
+      "tấm",
+      "khăng khăng"
+    ],
+    "answer": "im lặng (như nấm mồ)"
+  },
+  {
+    "id": "q329",
+    "level": "N2",
+    "lessonId": "n2-6",
+    "question": "Nghĩa của từ 「スマート」 là gì?",
+    "options": [
+      "thông minh",
+      "trì hoãn",
+      "trượt",
+      "xin lỗi (cụm từ)"
+    ],
+    "answer": "thông minh"
+  },
+  {
+    "id": "q330",
+    "level": "N2",
+    "lessonId": "n2-6",
+    "question": "Nghĩa của từ 「すまない」 là gì?",
+    "options": [
+      "thông minh",
+      "trì hoãn",
+      "trượt",
+      "xin lỗi (cụm từ)"
+    ],
+    "answer": "xin lỗi (cụm từ)"
+  },
+  {
+    "id": "q331",
+    "level": "N2",
+    "lessonId": "n2-6",
+    "question": "Nghĩa của từ 「スライド」 là gì?",
+    "options": [
+      "trượt",
+      "thông minh",
+      "xin lỗi (cụm từ)",
+      "trì hoãn"
+    ],
+    "answer": "trượt"
+  },
+  {
+    "id": "q332",
+    "level": "N2",
+    "lessonId": "n2-7",
+    "question": "Nghĩa của từ 「チョーク」 là gì?",
+    "options": [
+      "tắc nghẽn",
+      "(n) chủ đề",
+      "vấp ngã",
+      "cơ hội"
+    ],
+    "answer": "tắc nghẽn"
+  },
+  {
+    "id": "q333",
+    "level": "N2",
+    "lessonId": "n2-7",
+    "question": "Nghĩa của từ 「ついで」 là gì?",
+    "options": [
+      "tắc nghẽn",
+      "(n) chủ đề",
+      "vấp ngã",
+      "cơ hội"
+    ],
+    "answer": "cơ hội"
+  },
+  {
+    "id": "q334",
+    "level": "N2",
+    "lessonId": "n2-7",
+    "question": "Nghĩa của từ 「つまずく」 là gì?",
+    "options": [
+      "vấp ngã",
+      "tắc nghẽn",
+      "cơ hội",
+      "(n) chủ đề"
+    ],
+    "answer": "vấp ngã"
+  },
+  {
+    "id": "q335",
+    "level": "N2",
+    "lessonId": "n2-8",
+    "question": "Nghĩa của từ 「バック」 là gì?",
+    "options": [
+      "trở lại",
+      "cân đối",
+      "(col) để vào",
+      "lò xo (ví dụ cuộn dây"
+    ],
+    "answer": "trở lại"
+  },
+  {
+    "id": "q336",
+    "level": "N2",
+    "lessonId": "n2-8",
+    "question": "Nghĩa của từ 「ばね」 là gì?",
+    "options": [
+      "trở lại",
+      "cân đối",
+      "(col) để vào",
+      "lò xo (ví dụ cuộn dây"
+    ],
+    "answer": "lò xo (ví dụ cuộn dây"
+  },
+  {
+    "id": "q337",
+    "level": "N2",
+    "lessonId": "n2-8",
+    "question": "Nghĩa của từ 「はめる」 là gì?",
+    "options": [
+      "(col) để vào",
+      "trở lại",
+      "lò xo (ví dụ cuộn dây",
+      "cân đối"
+    ],
+    "answer": "(col) để vào"
+  },
+  {
+    "id": "q338",
+    "level": "N2",
+    "lessonId": "n2-9",
+    "question": "Nghĩa của từ 「プログラム」 là gì?",
+    "options": [
+      "chương trình",
+      "cựu chiến binh",
+      "rốn",
+      "ánh sáng"
+    ],
+    "answer": "chương trình"
+  },
+  {
+    "id": "q339",
+    "level": "N2",
+    "lessonId": "n2-9",
+    "question": "Nghĩa của từ 「ふわふわ」 là gì?",
+    "options": [
+      "chương trình",
+      "cựu chiến binh",
+      "rốn",
+      "ánh sáng"
+    ],
+    "answer": "ánh sáng"
+  },
+  {
+    "id": "q340",
+    "level": "N2",
+    "lessonId": "n2-9",
+    "question": "Nghĩa của từ 「へそ」 là gì?",
+    "options": [
+      "rốn",
+      "chương trình",
+      "ánh sáng",
+      "cựu chiến binh"
+    ],
+    "answer": "rốn"
+  },
+  {
+    "id": "q341",
+    "level": "N2",
+    "lessonId": "n2-10",
+    "question": "Nghĩa của từ 「メニュー」 là gì?",
+    "options": [
+      "thực đơn",
+      "có lẽ",
+      "động cơ",
+      "chóng mặt"
+    ],
+    "answer": "thực đơn"
+  },
+  {
+    "id": "q342",
+    "level": "N2",
+    "lessonId": "n2-10",
+    "question": "Nghĩa của từ 「めまい」 là gì?",
+    "options": [
+      "thực đơn",
+      "có lẽ",
+      "động cơ",
+      "chóng mặt"
+    ],
+    "answer": "chóng mặt"
+  },
+  {
+    "id": "q343",
+    "level": "N2",
+    "lessonId": "n2-10",
+    "question": "Nghĩa của từ 「モーター」 là gì?",
+    "options": [
+      "động cơ",
+      "thực đơn",
+      "chóng mặt",
+      "có lẽ"
+    ],
+    "answer": "động cơ"
+  },
+  {
+    "id": "q344",
+    "level": "N2",
+    "lessonId": "n2-11",
+    "question": "Nghĩa của từ 「ロッカー」 là gì?",
+    "options": [
+      "tủ đựng đồ",
+      "váy một mảnh",
+      "tương đối",
+      "tiền sảnh"
+    ],
+    "answer": "tủ đựng đồ"
+  },
+  {
+    "id": "q345",
+    "level": "N2",
+    "lessonId": "n2-11",
+    "question": "Nghĩa của từ 「ロビー」 là gì?",
+    "options": [
+      "tủ đựng đồ",
+      "váy một mảnh",
+      "tương đối",
+      "tiền sảnh"
+    ],
+    "answer": "tiền sảnh"
+  },
+  {
+    "id": "q346",
+    "level": "N2",
+    "lessonId": "n2-11",
+    "question": "Nghĩa của từ 「わりあいに」 là gì?",
+    "options": [
+      "tương đối",
+      "tủ đựng đồ",
+      "tiền sảnh",
+      "váy một mảnh"
+    ],
+    "answer": "tương đối"
+  },
+  {
+    "id": "q347",
+    "level": "N2",
+    "lessonId": "n2-12",
+    "question": "Nghĩa của từ 「一定」 là gì?",
+    "options": [
+      "đã sửa",
+      "đến từ",
+      "đi lạc (quay) khỏi chủ đề",
+      "hạng nhất"
+    ],
+    "answer": "đã sửa"
+  },
+  {
+    "id": "q348",
+    "level": "N2",
+    "lessonId": "n2-12",
+    "question": "Nghĩa của từ 「一流」 là gì?",
+    "options": [
+      "đã sửa",
+      "đến từ",
+      "đi lạc (quay) khỏi chủ đề",
+      "hạng nhất"
+    ],
+    "answer": "hạng nhất"
+  },
+  {
+    "id": "q349",
+    "level": "N2",
+    "lessonId": "n2-12",
+    "question": "Nghĩa của từ 「逸れる」 là gì?",
+    "options": [
+      "đi lạc (quay) khỏi chủ đề",
+      "đã sửa",
+      "hạng nhất",
+      "đến từ"
+    ],
+    "answer": "đi lạc (quay) khỏi chủ đề"
+  },
+  {
+    "id": "q350",
+    "level": "N2",
+    "lessonId": "n2-13",
+    "question": "Nghĩa của từ 「延びる」 là gì?",
+    "options": [
+      "được kéo dài",
+      "có khói",
+      "vở kịch (sân khấu)",
+      "phần mở rộng"
+    ],
+    "answer": "được kéo dài"
+  },
+  {
+    "id": "q351",
+    "level": "N2",
+    "lessonId": "n2-13",
+    "question": "Nghĩa của từ 「延長」 là gì?",
+    "options": [
+      "được kéo dài",
+      "có khói",
+      "vở kịch (sân khấu)",
+      "phần mở rộng"
+    ],
+    "answer": "phần mở rộng"
+  },
+  {
+    "id": "q352",
+    "level": "N2",
+    "lessonId": "n2-13",
+    "question": "Nghĩa của từ 「演劇」 là gì?",
+    "options": [
+      "vở kịch (sân khấu)",
+      "được kéo dài",
+      "phần mở rộng",
+      "có khói"
+    ],
+    "answer": "vở kịch (sân khấu)"
+  },
+  {
+    "id": "q353",
+    "level": "N2",
+    "lessonId": "n2-14",
+    "question": "Nghĩa của từ 「下書き」 là gì?",
+    "options": [
+      "bản sao thô",
+      "geta (giày Nhật Bản)",
+      "gạch chân",
+      "thoát nước"
+    ],
+    "answer": "bản sao thô"
+  },
+  {
+    "id": "q354",
+    "level": "N2",
+    "lessonId": "n2-14",
+    "question": "Nghĩa của từ 「下水」 là gì?",
+    "options": [
+      "bản sao thô",
+      "geta (giày Nhật Bản)",
+      "gạch chân",
+      "thoát nước"
+    ],
+    "answer": "thoát nước"
+  },
+  {
+    "id": "q355",
+    "level": "N2",
+    "lessonId": "n2-14",
+    "question": "Nghĩa của từ 「下線」 là gì?",
+    "options": [
+      "gạch chân",
+      "bản sao thô",
+      "thoát nước",
+      "geta (giày Nhật Bản)"
+    ],
+    "answer": "gạch chân"
+  },
+  {
+    "id": "q356",
+    "level": "N2",
+    "lessonId": "n2-15",
+    "question": "Nghĩa của từ 「過剰」 là gì?",
+    "options": [
+      "dư thừa",
+      "muỗi",
+      "đa số",
+      "quá trình"
+    ],
+    "answer": "dư thừa"
+  },
+  {
+    "id": "q357",
+    "level": "N2",
+    "lessonId": "n2-15",
+    "question": "Nghĩa của từ 「過程」 là gì?",
+    "options": [
+      "dư thừa",
+      "muỗi",
+      "đa số",
+      "quá trình"
+    ],
+    "answer": "quá trình"
+  },
+  {
+    "id": "q358",
+    "level": "N2",
+    "lessonId": "n2-15",
+    "question": "Nghĩa của từ 「過半数」 là gì?",
+    "options": [
+      "đa số",
+      "dư thừa",
+      "quá trình",
+      "muỗi"
+    ],
+    "answer": "đa số"
+  },
+  {
+    "id": "q359",
+    "level": "N2",
+    "lessonId": "n2-16",
+    "question": "Nghĩa của từ 「開会」 là gì?",
+    "options": [
+      "khai mạc cuộc họp",
+      "vỏ",
+      "mở",
+      "khai mạc"
+    ],
+    "answer": "khai mạc cuộc họp"
+  },
+  {
+    "id": "q360",
+    "level": "N2",
+    "lessonId": "n2-16",
+    "question": "Nghĩa của từ 「開通」 là gì?",
+    "options": [
+      "khai mạc cuộc họp",
+      "vỏ",
+      "mở",
+      "khai mạc"
+    ],
+    "answer": "khai mạc"
+  },
+  {
+    "id": "q361",
+    "level": "N2",
+    "lessonId": "n2-16",
+    "question": "Nghĩa của từ 「開放」 là gì?",
+    "options": [
+      "mở",
+      "khai mạc cuộc họp",
+      "khai mạc",
+      "vỏ"
+    ],
+    "answer": "mở"
+  },
+  {
+    "id": "q362",
+    "level": "N2",
+    "lessonId": "n2-17",
+    "question": "Nghĩa của từ 「割と」 là gì?",
+    "options": [
+      "tương đối",
+      "dấu ngoặc đơn",
+      "phép chia (toán học)",
+      "giảm giá"
+    ],
+    "answer": "tương đối"
+  },
+  {
+    "id": "q363",
+    "level": "N2",
+    "lessonId": "n2-17",
+    "question": "Nghĩa của từ 「割引」 là gì?",
+    "options": [
+      "tương đối",
+      "dấu ngoặc đơn",
+      "phép chia (toán học)",
+      "giảm giá"
+    ],
+    "answer": "giảm giá"
+  },
+  {
+    "id": "q364",
+    "level": "N2",
+    "lessonId": "n2-17",
+    "question": "Nghĩa của từ 「割算」 là gì?",
+    "options": [
+      "phép chia (toán học)",
+      "tương đối",
+      "giảm giá",
+      "dấu ngoặc đơn"
+    ],
+    "answer": "phép chia (toán học)"
+  },
+  {
+    "id": "q365",
+    "level": "N2",
+    "lessonId": "n2-18",
+    "question": "Nghĩa của từ 「観測」 là gì?",
+    "options": [
+      "quan sát",
+      "sớm thôi",
+      "đánh giá cao",
+      "(1) ý tưởng"
+    ],
+    "answer": "quan sát"
+  },
+  {
+    "id": "q366",
+    "level": "N2",
+    "lessonId": "n2-18",
+    "question": "Nghĩa của từ 「観念」 là gì?",
+    "options": [
+      "quan sát",
+      "sớm thôi",
+      "đánh giá cao",
+      "(1) ý tưởng"
+    ],
+    "answer": "(1) ý tưởng"
+  },
+  {
+    "id": "q367",
+    "level": "N2",
+    "lessonId": "n2-18",
+    "question": "Nghĩa của từ 「鑑賞」 là gì?",
+    "options": [
+      "đánh giá cao",
+      "quan sát",
+      "(1) ý tưởng",
+      "sớm thôi"
+    ],
+    "answer": "đánh giá cao"
+  },
+  {
+    "id": "q368",
+    "level": "N2",
+    "lessonId": "n2-19",
+    "question": "Nghĩa của từ 「飢饉」 là gì?",
+    "options": [
+      "nạn đói",
+      "ngược lại",
+      "bị chặn",
+      "buổi lễ"
+    ],
+    "answer": "nạn đói"
+  },
+  {
+    "id": "q369",
+    "level": "N2",
+    "lessonId": "n2-19",
+    "question": "Nghĩa của từ 「儀式」 là gì?",
+    "options": [
+      "nạn đói",
+      "ngược lại",
+      "bị chặn",
+      "buổi lễ"
+    ],
+    "answer": "buổi lễ"
+  },
+  {
+    "id": "q370",
+    "level": "N2",
+    "lessonId": "n2-19",
+    "question": "Nghĩa của từ 「詰まる」 là gì?",
+    "options": [
+      "bị chặn",
+      "nạn đói",
+      "buổi lễ",
+      "ngược lại"
+    ],
+    "answer": "bị chặn"
+  },
+  {
+    "id": "q371",
+    "level": "N2",
+    "lessonId": "n2-20",
+    "question": "Nghĩa của từ 「驚かす」 là gì?",
+    "options": [
+      "ngạc nhiên",
+      "Koto (đàn hạc Nhật Bản)",
+      "đường cong",
+      "uốn cong"
+    ],
+    "answer": "ngạc nhiên"
+  },
+  {
+    "id": "q372",
+    "level": "N2",
+    "lessonId": "n2-20",
+    "question": "Nghĩa của từ 「曲げる」 là gì?",
+    "options": [
+      "ngạc nhiên",
+      "Koto (đàn hạc Nhật Bản)",
+      "đường cong",
+      "uốn cong"
+    ],
+    "answer": "uốn cong"
+  },
+  {
+    "id": "q373",
+    "level": "N2",
+    "lessonId": "n2-20",
+    "question": "Nghĩa của từ 「曲線」 là gì?",
+    "options": [
+      "đường cong",
+      "ngạc nhiên",
+      "uốn cong",
+      "Koto (đàn hạc Nhật Bản)"
+    ],
+    "answer": "đường cong"
+  },
+  {
+    "id": "q374",
+    "level": "N2",
+    "lessonId": "n2-21",
+    "question": "Nghĩa của từ 「慶び」 là gì?",
+    "options": [
+      "(n) (a) niềm vui",
+      "luyện tập",
+      "kính cẩn",
+      "để thể hiện sự tôn trọng"
+    ],
+    "answer": "(n) (a) niềm vui"
+  },
+  {
+    "id": "q375",
+    "level": "N2",
+    "lessonId": "n2-21",
+    "question": "Nghĩa của từ 「敬う」 là gì?",
+    "options": [
+      "(n) (a) niềm vui",
+      "luyện tập",
+      "kính cẩn",
+      "để thể hiện sự tôn trọng"
+    ],
+    "answer": "để thể hiện sự tôn trọng"
+  },
+  {
+    "id": "q376",
+    "level": "N2",
+    "lessonId": "n2-21",
+    "question": "Nghĩa của từ 「敬語」 là gì?",
+    "options": [
+      "kính cẩn",
+      "(n) (a) niềm vui",
+      "để thể hiện sự tôn trọng",
+      "luyện tập"
+    ],
+    "answer": "kính cẩn"
+  },
+  {
+    "id": "q377",
+    "level": "N2",
+    "lessonId": "n2-22",
+    "question": "Nghĩa của từ 「見学」 là gì?",
+    "options": [
+      "kiểm tra",
+      "tiêu đề",
+      "để trở nên quen với việc nhìn thấy",
+      "hình dáng bên ngoài"
+    ],
+    "answer": "kiểm tra"
+  },
+  {
+    "id": "q378",
+    "level": "N2",
+    "lessonId": "n2-22",
+    "question": "Nghĩa của từ 「見掛け」 là gì?",
+    "options": [
+      "kiểm tra",
+      "tiêu đề",
+      "để trở nên quen với việc nhìn thấy",
+      "hình dáng bên ngoài"
+    ],
+    "answer": "hình dáng bên ngoài"
+  },
+  {
+    "id": "q379",
+    "level": "N2",
+    "lessonId": "n2-22",
+    "question": "Nghĩa của từ 「見慣れる」 là gì?",
+    "options": [
+      "để trở nên quen với việc nhìn thấy",
+      "kiểm tra",
+      "hình dáng bên ngoài",
+      "tiêu đề"
+    ],
+    "answer": "để trở nên quen với việc nhìn thấy"
+  },
+  {
+    "id": "q380",
+    "level": "N2",
+    "lessonId": "n2-23",
+    "question": "Nghĩa của từ 「呼び掛ける」 là gì?",
+    "options": [
+      "để kêu gọi",
+      "làm cứng lại",
+      "bướng bỉnh",
+      "triệu tập"
+    ],
+    "answer": "để kêu gọi"
+  },
+  {
+    "id": "q381",
+    "level": "N2",
+    "lessonId": "n2-23",
+    "question": "Nghĩa của từ 「呼び出す」 là gì?",
+    "options": [
+      "để kêu gọi",
+      "làm cứng lại",
+      "bướng bỉnh",
+      "triệu tập"
+    ],
+    "answer": "triệu tập"
+  },
+  {
+    "id": "q382",
+    "level": "N2",
+    "lessonId": "n2-23",
+    "question": "Nghĩa của từ 「固い」 là gì?",
+    "options": [
+      "bướng bỉnh",
+      "để kêu gọi",
+      "triệu tập",
+      "làm cứng lại"
+    ],
+    "answer": "bướng bỉnh"
+  },
+  {
+    "id": "q383",
+    "level": "N2",
+    "lessonId": "n2-24",
+    "question": "Nghĩa của từ 「公衆」 là gì?",
+    "options": [
+      "công chúng",
+      "kinh doanh chính thức",
+      "thông báo chính thức",
+      "công lý"
+    ],
+    "answer": "công chúng"
+  },
+  {
+    "id": "q384",
+    "level": "N2",
+    "lessonId": "n2-24",
+    "question": "Nghĩa của từ 「公正」 là gì?",
+    "options": [
+      "công chúng",
+      "kinh doanh chính thức",
+      "thông báo chính thức",
+      "công lý"
+    ],
+    "answer": "công lý"
+  },
+  {
+    "id": "q385",
+    "level": "N2",
+    "lessonId": "n2-24",
+    "question": "Nghĩa của từ 「公表」 là gì?",
+    "options": [
+      "thông báo chính thức",
+      "công chúng",
+      "công lý",
+      "kinh doanh chính thức"
+    ],
+    "answer": "thông báo chính thức"
+  },
+  {
+    "id": "q386",
+    "level": "N2",
+    "lessonId": "n2-25",
+    "question": "Nghĩa của từ 「耕す」 là gì?",
+    "options": [
+      "để cho đến khi",
+      "thô",
+      "tích cực",
+      "đất canh tác"
+    ],
+    "answer": "để cho đến khi"
+  },
+  {
+    "id": "q387",
+    "level": "N2",
+    "lessonId": "n2-25",
+    "question": "Nghĩa của từ 「耕地」 là gì?",
+    "options": [
+      "để cho đến khi",
+      "thô",
+      "tích cực",
+      "đất canh tác"
+    ],
+    "answer": "đất canh tác"
+  },
+  {
+    "id": "q388",
+    "level": "N2",
+    "lessonId": "n2-25",
+    "question": "Nghĩa của từ 「肯定」 là gì?",
+    "options": [
+      "tích cực",
+      "để cho đến khi",
+      "đất canh tác",
+      "thô"
+    ],
+    "answer": "tích cực"
+  },
+  {
+    "id": "q389",
+    "level": "N2",
+    "lessonId": "n2-26",
+    "question": "Nghĩa của từ 「紺」 là gì?",
+    "options": [
+      "màu xanh hải quân",
+      "đệm (tiếng Nhật)",
+      "sự cản trở",
+      "khấu trừ"
+    ],
+    "answer": "màu xanh hải quân"
+  },
+  {
+    "id": "q390",
+    "level": "N2",
+    "lessonId": "n2-26",
+    "question": "Nghĩa của từ 「差し引き」 là gì?",
+    "options": [
+      "màu xanh hải quân",
+      "đệm (tiếng Nhật)",
+      "sự cản trở",
+      "khấu trừ"
+    ],
+    "answer": "khấu trừ"
+  },
+  {
+    "id": "q391",
+    "level": "N2",
+    "lessonId": "n2-26",
+    "question": "Nghĩa của từ 「差し支え」 là gì?",
+    "options": [
+      "sự cản trở",
+      "màu xanh hải quân",
+      "khấu trừ",
+      "đệm (tiếng Nhật)"
+    ],
+    "answer": "sự cản trở"
+  },
+  {
+    "id": "q392",
+    "level": "N2",
+    "lessonId": "n2-27",
+    "question": "Nghĩa của từ 「削る」 là gì?",
+    "options": [
+      "cắt giảm từng chút một",
+      "cái thìa",
+      "chỉ mục",
+      "sự loại bỏ"
+    ],
+    "answer": "cắt giảm từng chút một"
+  },
+  {
+    "id": "q393",
+    "level": "N2",
+    "lessonId": "n2-27",
+    "question": "Nghĩa của từ 「削除」 là gì?",
+    "options": [
+      "cắt giảm từng chút một",
+      "cái thìa",
+      "chỉ mục",
+      "sự loại bỏ"
+    ],
+    "answer": "sự loại bỏ"
+  },
+  {
+    "id": "q394",
+    "level": "N2",
+    "lessonId": "n2-27",
+    "question": "Nghĩa của từ 「索引」 là gì?",
+    "options": [
+      "chỉ mục",
+      "cắt giảm từng chút một",
+      "sự loại bỏ",
+      "cái thìa"
+    ],
+    "answer": "chỉ mục"
+  },
+  {
+    "id": "q395",
+    "level": "N2",
+    "lessonId": "n2-28",
+    "question": "Nghĩa của từ 「四つ角」 là gì?",
+    "options": [
+      "bốn góc",
+      "bốn mùa",
+      "hình vuông",
+      "hình vuông"
+    ],
+    "answer": "bốn góc"
+  },
+  {
+    "id": "q396",
+    "level": "N2",
+    "lessonId": "n2-28",
+    "question": "Nghĩa của từ 「四角」 là gì?",
+    "options": [
+      "bốn góc",
+      "bốn mùa",
+      "hình vuông",
+      "hình vuông"
+    ],
+    "answer": "hình vuông"
+  },
+  {
+    "id": "q397",
+    "level": "N2",
+    "lessonId": "n2-28",
+    "question": "Nghĩa của từ 「四角い」 là gì?",
+    "options": [
+      "hình vuông",
+      "bốn góc",
+      "hình vuông",
+      "bốn mùa"
+    ],
+    "answer": "hình vuông"
+  },
+  {
+    "id": "q398",
+    "level": "N2",
+    "lessonId": "n2-29",
+    "question": "Nghĩa của từ 「次ぐ」 là gì?",
+    "options": [
+      "xếp cạnh",
+      "nam châm",
+      "(1) cai trị",
+      "chữa bệnh"
+    ],
+    "answer": "xếp cạnh"
+  },
+  {
+    "id": "q399",
+    "level": "N2",
+    "lessonId": "n2-29",
+    "question": "Nghĩa của từ 「治す」 là gì?",
+    "options": [
+      "xếp cạnh",
+      "nam châm",
+      "(1) cai trị",
+      "chữa bệnh"
+    ],
+    "answer": "chữa bệnh"
+  },
+  {
+    "id": "q400",
+    "level": "N2",
+    "lessonId": "n2-29",
+    "question": "Nghĩa của từ 「治める」 là gì?",
+    "options": [
+      "(1) cai trị",
+      "xếp cạnh",
+      "chữa bệnh",
+      "nam châm"
+    ],
+    "answer": "(1) cai trị"
+  },
+  {
+    "id": "q401",
+    "level": "N2",
+    "lessonId": "n2-30",
+    "question": "Nghĩa của từ 「社説」 là gì?",
+    "options": [
+      "biên tập",
+      "(ô tô) bánh xe",
+      "(tàu hỏa) người soát vé",
+      "gara"
+    ],
+    "answer": "biên tập"
+  },
+  {
+    "id": "q402",
+    "level": "N2",
+    "lessonId": "n2-30",
+    "question": "Nghĩa của từ 「車庫」 là gì?",
+    "options": [
+      "biên tập",
+      "(ô tô) bánh xe",
+      "(tàu hỏa) người soát vé",
+      "gara"
+    ],
+    "answer": "gara"
+  },
+  {
+    "id": "q403",
+    "level": "N2",
+    "lessonId": "n2-30",
+    "question": "Nghĩa của từ 「車掌」 là gì?",
+    "options": [
+      "(tàu hỏa) người soát vé",
+      "biên tập",
+      "gara",
+      "(ô tô) bánh xe"
+    ],
+    "answer": "(tàu hỏa) người soát vé"
+  },
+  {
+    "id": "q404",
+    "level": "N2",
+    "lessonId": "n2-31",
+    "question": "Nghĩa của từ 「終点」 là gì?",
+    "options": [
+      "ga cuối",
+      "đá",
+      "sự viết chữ",
+      "kết thúc"
+    ],
+    "answer": "ga cuối"
+  },
+  {
+    "id": "q405",
+    "level": "N2",
+    "lessonId": "n2-31",
+    "question": "Nghĩa của từ 「終了」 là gì?",
+    "options": [
+      "ga cuối",
+      "đá",
+      "sự viết chữ",
+      "kết thúc"
+    ],
+    "answer": "kết thúc"
+  },
+  {
+    "id": "q406",
+    "level": "N2",
+    "lessonId": "n2-31",
+    "question": "Nghĩa của từ 「習字」 là gì?",
+    "options": [
+      "sự viết chữ",
+      "ga cuối",
+      "kết thúc",
+      "đá"
+    ],
+    "answer": "sự viết chữ"
+  },
+  {
+    "id": "q407",
+    "level": "N2",
+    "lessonId": "n2-32",
+    "question": "Nghĩa của từ 「出迎え」 là gì?",
+    "options": [
+      "cuộc họp",
+      "chuyến tham quan chính thức",
+      "một cuộc gặp gỡ",
+      "gặp gỡ"
+    ],
+    "answer": "cuộc họp"
+  },
+  {
+    "id": "q408",
+    "level": "N2",
+    "lessonId": "n2-32",
+    "question": "Nghĩa của từ 「出迎える」 là gì?",
+    "options": [
+      "cuộc họp",
+      "chuyến tham quan chính thức",
+      "một cuộc gặp gỡ",
+      "gặp gỡ"
+    ],
+    "answer": "gặp gỡ"
+  },
+  {
+    "id": "q409",
+    "level": "N2",
+    "lessonId": "n2-32",
+    "question": "Nghĩa của từ 「出合い」 là gì?",
+    "options": [
+      "một cuộc gặp gỡ",
+      "cuộc họp",
+      "gặp gỡ",
+      "chuyến tham quan chính thức"
+    ],
+    "answer": "một cuộc gặp gỡ"
+  },
+  {
+    "id": "q410",
+    "level": "N2",
+    "lessonId": "n2-33",
+    "question": "Nghĩa của từ 「商業」 là gì?",
+    "options": [
+      "thương mại",
+      "cờ vua nhật bản",
+      "cửa hàng",
+      "công ty thương mại"
+    ],
+    "answer": "thương mại"
+  },
+  {
+    "id": "q411",
+    "level": "N2",
+    "lessonId": "n2-33",
+    "question": "Nghĩa của từ 「商社」 là gì?",
+    "options": [
+      "thương mại",
+      "cờ vua nhật bản",
+      "cửa hàng",
+      "công ty thương mại"
+    ],
+    "answer": "công ty thương mại"
+  },
+  {
+    "id": "q412",
+    "level": "N2",
+    "lessonId": "n2-33",
+    "question": "Nghĩa của từ 「商店」 là gì?",
+    "options": [
+      "cửa hàng",
+      "thương mại",
+      "công ty thương mại",
+      "cờ vua nhật bản"
+    ],
+    "answer": "cửa hàng"
+  },
+  {
+    "id": "q413",
+    "level": "N2",
+    "lessonId": "n2-34",
+    "question": "Nghĩa của từ 「上る」 là gì?",
+    "options": [
+      "đi lên",
+      "10 ngày đầu tháng",
+      "trình độ nâng cao",
+      "cao và thấp"
+    ],
+    "answer": "đi lên"
+  },
+  {
+    "id": "q414",
+    "level": "N2",
+    "lessonId": "n2-34",
+    "question": "Nghĩa của từ 「上下」 là gì?",
+    "options": [
+      "đi lên",
+      "10 ngày đầu tháng",
+      "trình độ nâng cao",
+      "cao và thấp"
+    ],
+    "answer": "cao và thấp"
+  },
+  {
+    "id": "q415",
+    "level": "N2",
+    "lessonId": "n2-34",
+    "question": "Nghĩa của từ 「上級」 là gì?",
+    "options": [
+      "trình độ nâng cao",
+      "đi lên",
+      "cao và thấp",
+      "10 ngày đầu tháng"
+    ],
+    "answer": "trình độ nâng cao"
+  },
+  {
+    "id": "q416",
+    "level": "N2",
+    "lessonId": "n2-35",
+    "question": "Nghĩa của từ 「新幹線」 là gì?",
+    "options": [
+      "tàu cao tốc (tốc độ rất cao)",
+      "làm sâu sắc thêm",
+      "nhúng vào",
+      "rừng"
+    ],
+    "answer": "tàu cao tốc (tốc độ rất cao)"
+  },
+  {
+    "id": "q417",
+    "level": "N2",
+    "lessonId": "n2-35",
+    "question": "Nghĩa của từ 「森林」 là gì?",
+    "options": [
+      "tàu cao tốc (tốc độ rất cao)",
+      "làm sâu sắc thêm",
+      "nhúng vào",
+      "rừng"
+    ],
+    "answer": "rừng"
+  },
+  {
+    "id": "q418",
+    "level": "N2",
+    "lessonId": "n2-35",
+    "question": "Nghĩa của từ 「浸ける」 là gì?",
+    "options": [
+      "nhúng vào",
+      "tàu cao tốc (tốc độ rất cao)",
+      "rừng",
+      "làm sâu sắc thêm"
+    ],
+    "answer": "nhúng vào"
+  },
+  {
+    "id": "q419",
+    "level": "N2",
+    "lessonId": "n2-36",
+    "question": "Nghĩa của từ 「塵紙」 là gì?",
+    "options": [
+      "khăn giấy",
+      "sách tranh",
+      "giấm",
+      "cực đoan"
+    ],
+    "answer": "khăn giấy"
+  },
+  {
+    "id": "q420",
+    "level": "N2",
+    "lessonId": "n2-36",
+    "question": "Nghĩa của từ 「甚だしい」 là gì?",
+    "options": [
+      "khăn giấy",
+      "sách tranh",
+      "giấm",
+      "cực đoan"
+    ],
+    "answer": "cực đoan"
+  },
+  {
+    "id": "q421",
+    "level": "N2",
+    "lessonId": "n2-36",
+    "question": "Nghĩa của từ 「酢」 là gì?",
+    "options": [
+      "giấm",
+      "khăn giấy",
+      "cực đoan",
+      "sách tranh"
+    ],
+    "answer": "giấm"
+  },
+  {
+    "id": "q422",
+    "level": "N2",
+    "lessonId": "n2-37",
+    "question": "Nghĩa của từ 「性別」 là gì?",
+    "options": [
+      "phân biệt giới tính",
+      "(thành viên của) đảng chính trị",
+      "ra đời",
+      "thành phần"
+    ],
+    "answer": "phân biệt giới tính"
+  },
+  {
+    "id": "q423",
+    "level": "N2",
+    "lessonId": "n2-37",
+    "question": "Nghĩa của từ 「成分」 là gì?",
+    "options": [
+      "phân biệt giới tính",
+      "(thành viên của) đảng chính trị",
+      "ra đời",
+      "thành phần"
+    ],
+    "answer": "thành phần"
+  },
+  {
+    "id": "q424",
+    "level": "N2",
+    "lessonId": "n2-37",
+    "question": "Nghĩa của từ 「成立」 là gì?",
+    "options": [
+      "ra đời",
+      "phân biệt giới tính",
+      "thành phần",
+      "(thành viên của) đảng chính trị"
+    ],
+    "answer": "ra đời"
+  },
+  {
+    "id": "q425",
+    "level": "N2",
+    "lessonId": "n2-38",
+    "question": "Nghĩa của từ 「静まる」 là gì?",
+    "options": [
+      "để yên tĩnh lại",
+      "xà phòng",
+      "đáng tiếc",
+      "nhà hải quan"
+    ],
+    "answer": "để yên tĩnh lại"
+  },
+  {
+    "id": "q426",
+    "level": "N2",
+    "lessonId": "n2-38",
+    "question": "Nghĩa của từ 「税関」 là gì?",
+    "options": [
+      "để yên tĩnh lại",
+      "xà phòng",
+      "đáng tiếc",
+      "nhà hải quan"
+    ],
+    "answer": "nhà hải quan"
+  },
+  {
+    "id": "q427",
+    "level": "N2",
+    "lessonId": "n2-38",
+    "question": "Nghĩa của từ 「惜しい」 là gì?",
+    "options": [
+      "đáng tiếc",
+      "để yên tĩnh lại",
+      "nhà hải quan",
+      "xà phòng"
+    ],
+    "answer": "đáng tiếc"
+  },
+  {
+    "id": "q428",
+    "level": "N2",
+    "lessonId": "n2-39",
+    "question": "Nghĩa của từ 「船便」 là gì?",
+    "options": [
+      "thư trên mặt đất (tàu)",
+      "công trình hoàn chỉnh",
+      "dần dần",
+      "xung quanh"
+    ],
+    "answer": "thư trên mặt đất (tàu)"
+  },
+  {
+    "id": "q429",
+    "level": "N2",
+    "lessonId": "n2-39",
+    "question": "Nghĩa của từ 「前後」 là gì?",
+    "options": [
+      "thư trên mặt đất (tàu)",
+      "công trình hoàn chỉnh",
+      "dần dần",
+      "xung quanh"
+    ],
+    "answer": "xung quanh"
+  },
+  {
+    "id": "q430",
+    "level": "N2",
+    "lessonId": "n2-39",
+    "question": "Nghĩa của từ 「漸く」 là gì?",
+    "options": [
+      "dần dần",
+      "thư trên mặt đất (tàu)",
+      "xung quanh",
+      "công trình hoàn chỉnh"
+    ],
+    "answer": "dần dần"
+  },
+  {
+    "id": "q431",
+    "level": "N2",
+    "lessonId": "n2-40",
+    "question": "Nghĩa của từ 「総理大臣」 là gì?",
+    "options": [
+      "Thủ tướng",
+      "một phần của từ được viết bằng kana",
+      "tang lễ",
+      "Zoori (giày Nhật Bản)"
+    ],
+    "answer": "Thủ tướng"
+  },
+  {
+    "id": "q432",
+    "level": "N2",
+    "lessonId": "n2-40",
+    "question": "Nghĩa của từ 「草履」 là gì?",
+    "options": [
+      "Thủ tướng",
+      "một phần của từ được viết bằng kana",
+      "tang lễ",
+      "Zoori (giày Nhật Bản)"
+    ],
+    "answer": "Zoori (giày Nhật Bản)"
+  },
+  {
+    "id": "q433",
+    "level": "N2",
+    "lessonId": "n2-40",
+    "question": "Nghĩa của từ 「葬式」 là gì?",
+    "options": [
+      "tang lễ",
+      "Thủ tướng",
+      "Zoori (giày Nhật Bản)",
+      "một phần của từ được viết bằng kana"
+    ],
+    "answer": "tang lễ"
+  },
+  {
+    "id": "q434",
+    "level": "N2",
+    "lessonId": "n2-41",
+    "question": "Nghĩa của từ 「損得」 là gì?",
+    "options": [
+      "mất và được",
+      "phủ nhận",
+      "hợp lệ",
+      "trống"
+    ],
+    "answer": "mất và được"
+  },
+  {
+    "id": "q435",
+    "level": "N2",
+    "lessonId": "n2-41",
+    "question": "Nghĩa của từ 「太鼓」 là gì?",
+    "options": [
+      "mất và được",
+      "phủ nhận",
+      "hợp lệ",
+      "trống"
+    ],
+    "answer": "trống"
+  },
+  {
+    "id": "q436",
+    "level": "N2",
+    "lessonId": "n2-41",
+    "question": "Nghĩa của từ 「妥当」 là gì?",
+    "options": [
+      "hợp lệ",
+      "mất và được",
+      "trống",
+      "phủ nhận"
+    ],
+    "answer": "hợp lệ"
+  },
+  {
+    "id": "q437",
+    "level": "N2",
+    "lessonId": "n2-42",
+    "question": "Nghĩa của từ 「大分」 là gì?",
+    "options": [
+      "đáng kể",
+      "tiêu đề",
+      "cây lớn",
+      "về"
+    ],
+    "answer": "đáng kể"
+  },
+  {
+    "id": "q438",
+    "level": "N2",
+    "lessonId": "n2-42",
+    "question": "Nghĩa của từ 「大凡」 là gì?",
+    "options": [
+      "đáng kể",
+      "tiêu đề",
+      "cây lớn",
+      "về"
+    ],
+    "answer": "về"
+  },
+  {
+    "id": "q439",
+    "level": "N2",
+    "lessonId": "n2-42",
+    "question": "Nghĩa của từ 「大木」 là gì?",
+    "options": [
+      "cây lớn",
+      "đáng kể",
+      "về",
+      "tiêu đề"
+    ],
+    "answer": "cây lớn"
+  },
+  {
+    "id": "q440",
+    "level": "N2",
+    "lessonId": "n2-43",
+    "question": "Nghĩa của từ 「地味」 là gì?",
+    "options": [
+      "đồng bằng",
+      "để lưu trữ",
+      "tre",
+      "tên địa điểm"
+    ],
+    "answer": "đồng bằng"
+  },
+  {
+    "id": "q441",
+    "level": "N2",
+    "lessonId": "n2-43",
+    "question": "Nghĩa của từ 「地名」 là gì?",
+    "options": [
+      "đồng bằng",
+      "để lưu trữ",
+      "tre",
+      "tên địa điểm"
+    ],
+    "answer": "tên địa điểm"
+  },
+  {
+    "id": "q442",
+    "level": "N2",
+    "lessonId": "n2-43",
+    "question": "Nghĩa của từ 「竹」 là gì?",
+    "options": [
+      "tre",
+      "đồng bằng",
+      "tên địa điểm",
+      "để lưu trữ"
+    ],
+    "answer": "tre"
+  },
+  {
+    "id": "q443",
+    "level": "N2",
+    "lessonId": "n2-44",
+    "question": "Nghĩa của từ 「調味料」 là gì?",
+    "options": [
+      "gia vị",
+      "dư thừa",
+      "vượt qua",
+      "vượt quá"
+    ],
+    "answer": "gia vị"
+  },
+  {
+    "id": "q444",
+    "level": "N2",
+    "lessonId": "n2-44",
+    "question": "Nghĩa của từ 「超える」 là gì?",
+    "options": [
+      "gia vị",
+      "dư thừa",
+      "vượt qua",
+      "vượt quá"
+    ],
+    "answer": "vượt quá"
+  },
+  {
+    "id": "q445",
+    "level": "N2",
+    "lessonId": "n2-44",
+    "question": "Nghĩa của từ 「超す」 là gì?",
+    "options": [
+      "vượt qua",
+      "gia vị",
+      "vượt quá",
+      "dư thừa"
+    ],
+    "answer": "vượt qua"
+  },
+  {
+    "id": "q446",
+    "level": "N2",
+    "lessonId": "n2-45",
+    "question": "Nghĩa của từ 「通路」 là gì?",
+    "options": [
+      "lối đi",
+      "móng tay hoặc móng chân",
+      "bị đập vỡ",
+      "đập vỡ"
+    ],
+    "answer": "lối đi"
+  },
+  {
+    "id": "q447",
+    "level": "N2",
+    "lessonId": "n2-45",
+    "question": "Nghĩa của từ 「潰す」 là gì?",
+    "options": [
+      "lối đi",
+      "móng tay hoặc móng chân",
+      "bị đập vỡ",
+      "đập vỡ"
+    ],
+    "answer": "đập vỡ"
+  },
+  {
+    "id": "q448",
+    "level": "N2",
+    "lessonId": "n2-45",
+    "question": "Nghĩa của từ 「潰れる」 là gì?",
+    "options": [
+      "bị đập vỡ",
+      "lối đi",
+      "đập vỡ",
+      "móng tay hoặc móng chân"
+    ],
+    "answer": "bị đập vỡ"
+  },
+  {
+    "id": "q449",
+    "level": "N2",
+    "lessonId": "n2-46",
+    "question": "Nghĩa của từ 「纏める」 là gì?",
+    "options": [
+      "sắp xếp theo thứ tự",
+      "ở đây và ở đó",
+      "cuộn",
+      "cuộn"
+    ],
+    "answer": "sắp xếp theo thứ tự"
+  },
+  {
+    "id": "q450",
+    "level": "N2",
+    "lessonId": "n2-46",
+    "question": "Nghĩa của từ 「転がす」 là gì?",
+    "options": [
+      "sắp xếp theo thứ tự",
+      "ở đây và ở đó",
+      "cuộn",
+      "cuộn"
+    ],
+    "answer": "cuộn"
+  },
+  {
+    "id": "q451",
+    "level": "N2",
+    "lessonId": "n2-46",
+    "question": "Nghĩa của từ 「転がる」 là gì?",
+    "options": [
+      "cuộn",
+      "sắp xếp theo thứ tự",
+      "cuộn",
+      "ở đây và ở đó"
+    ],
+    "answer": "cuộn"
+  },
+  {
+    "id": "q452",
+    "level": "N2",
+    "lessonId": "n2-47",
+    "question": "Nghĩa của từ 「灯油」 là gì?",
+    "options": [
+      "đèn dầu",
+      "chia thành các phần bằng nhau",
+      "đang làm nhiệm vụ",
+      "ngày bổ nhiệm"
+    ],
+    "answer": "đèn dầu"
+  },
+  {
+    "id": "q453",
+    "level": "N2",
+    "lessonId": "n2-47",
+    "question": "Nghĩa của từ 「当日」 là gì?",
+    "options": [
+      "đèn dầu",
+      "chia thành các phần bằng nhau",
+      "đang làm nhiệm vụ",
+      "ngày bổ nhiệm"
+    ],
+    "answer": "ngày bổ nhiệm"
+  },
+  {
+    "id": "q454",
+    "level": "N2",
+    "lessonId": "n2-47",
+    "question": "Nghĩa của từ 「当番」 là gì?",
+    "options": [
+      "đang làm nhiệm vụ",
+      "đèn dầu",
+      "ngày bổ nhiệm",
+      "chia thành các phần bằng nhau"
+    ],
+    "answer": "đang làm nhiệm vụ"
+  },
+  {
+    "id": "q455",
+    "level": "N2",
+    "lessonId": "n2-48",
+    "question": "Nghĩa của từ 「突っ込む」 là gì?",
+    "options": [
+      "lao vào",
+      "phòng khám nội khoa",
+      "cùn (ví dụ: một con dao)",
+      "vô tư"
+    ],
+    "answer": "lao vào"
+  },
+  {
+    "id": "q456",
+    "level": "N2",
+    "lessonId": "n2-48",
+    "question": "Nghĩa của từ 「呑気」 là gì?",
+    "options": [
+      "lao vào",
+      "phòng khám nội khoa",
+      "cùn (ví dụ: một con dao)",
+      "vô tư"
+    ],
+    "answer": "vô tư"
+  },
+  {
+    "id": "q457",
+    "level": "N2",
+    "lessonId": "n2-48",
+    "question": "Nghĩa của từ 「鈍い」 là gì?",
+    "options": [
+      "cùn (ví dụ: một con dao)",
+      "lao vào",
+      "vô tư",
+      "phòng khám nội khoa"
+    ],
+    "answer": "cùn (ví dụ: một con dao)"
+  },
+  {
+    "id": "q458",
+    "level": "N2",
+    "lessonId": "n2-49",
+    "question": "Nghĩa của từ 「濃度」 là gì?",
+    "options": [
+      "sự tập trung",
+      "nông sản",
+      "hiệu quả",
+      "để có được"
+    ],
+    "answer": "sự tập trung"
+  },
+  {
+    "id": "q459",
+    "level": "N2",
+    "lessonId": "n2-49",
+    "question": "Nghĩa của từ 「納める」 là gì?",
+    "options": [
+      "sự tập trung",
+      "nông sản",
+      "hiệu quả",
+      "để có được"
+    ],
+    "answer": "để có được"
+  },
+  {
+    "id": "q460",
+    "level": "N2",
+    "lessonId": "n2-49",
+    "question": "Nghĩa của từ 「能率」 là gì?",
+    "options": [
+      "hiệu quả",
+      "sự tập trung",
+      "để có được",
+      "nông sản"
+    ],
+    "answer": "hiệu quả"
+  },
+  {
+    "id": "q461",
+    "level": "N2",
+    "lessonId": "n2-50",
+    "question": "Nghĩa của từ 「薄暗い」 là gì?",
+    "options": [
+      "mờ",
+      "đũa",
+      "buộc",
+      "đến gần"
+    ],
+    "answer": "mờ"
+  },
+  {
+    "id": "q462",
+    "level": "N2",
+    "lessonId": "n2-50",
+    "question": "Nghĩa của từ 「迫る」 là gì?",
+    "options": [
+      "mờ",
+      "đũa",
+      "buộc",
+      "đến gần"
+    ],
+    "answer": "đến gần"
+  },
+  {
+    "id": "q463",
+    "level": "N2",
+    "lessonId": "n2-50",
+    "question": "Nghĩa của từ 「縛る」 là gì?",
+    "options": [
+      "buộc",
+      "mờ",
+      "đến gần",
+      "đũa"
+    ],
+    "answer": "buộc"
+  },
+  {
+    "id": "q464",
+    "level": "N2",
+    "lessonId": "n2-51",
+    "question": "Nghĩa của từ 「筆記」 là gì?",
+    "options": [
+      "(ghi chép) ghi chép",
+      "tiêu chuẩn",
+      "ký tên",
+      "nhà văn"
+    ],
+    "answer": "(ghi chép) ghi chép"
+  },
+  {
+    "id": "q465",
+    "level": "N2",
+    "lessonId": "n2-51",
+    "question": "Nghĩa của từ 「筆者」 là gì?",
+    "options": [
+      "(ghi chép) ghi chép",
+      "tiêu chuẩn",
+      "ký tên",
+      "nhà văn"
+    ],
+    "answer": "nhà văn"
+  },
+  {
+    "id": "q466",
+    "level": "N2",
+    "lessonId": "n2-51",
+    "question": "Nghĩa của từ 「標識」 là gì?",
+    "options": [
+      "ký tên",
+      "(ghi chép) ghi chép",
+      "nhà văn",
+      "tiêu chuẩn"
+    ],
+    "answer": "ký tên"
+  },
+  {
+    "id": "q467",
+    "level": "N2",
+    "lessonId": "n2-52",
+    "question": "Nghĩa của từ 「副詞」 là gì?",
+    "options": [
+      "trạng từ",
+      "gửi tiền",
+      "số nhiều",
+      "sao chép"
+    ],
+    "answer": "trạng từ"
+  },
+  {
+    "id": "q468",
+    "level": "N2",
+    "lessonId": "n2-52",
+    "question": "Nghĩa của từ 「複写」 là gì?",
+    "options": [
+      "trạng từ",
+      "gửi tiền",
+      "số nhiều",
+      "sao chép"
+    ],
+    "answer": "sao chép"
+  },
+  {
+    "id": "q469",
+    "level": "N2",
+    "lessonId": "n2-52",
+    "question": "Nghĩa của từ 「複数」 là gì?",
+    "options": [
+      "số nhiều",
+      "trạng từ",
+      "sao chép",
+      "gửi tiền"
+    ],
+    "answer": "số nhiều"
+  },
+  {
+    "id": "q470",
+    "level": "N2",
+    "lessonId": "n2-53",
+    "question": "Nghĩa của từ 「平野」 là gì?",
+    "options": [
+      "đồng bằng",
+      "đóng cửa",
+      "cây ven đường",
+      "(đi) bên nhau"
+    ],
+    "answer": "đồng bằng"
+  },
+  {
+    "id": "q471",
+    "level": "N2",
+    "lessonId": "n2-53",
+    "question": "Nghĩa của từ 「並行」 là gì?",
+    "options": [
+      "đồng bằng",
+      "đóng cửa",
+      "cây ven đường",
+      "(đi) bên nhau"
+    ],
+    "answer": "(đi) bên nhau"
+  },
+  {
+    "id": "q472",
+    "level": "N2",
+    "lessonId": "n2-53",
+    "question": "Nghĩa của từ 「並木」 là gì?",
+    "options": [
+      "cây ven đường",
+      "đồng bằng",
+      "(đi) bên nhau",
+      "đóng cửa"
+    ],
+    "answer": "cây ven đường"
+  },
+  {
+    "id": "q473",
+    "level": "N2",
+    "lessonId": "n2-54",
+    "question": "Nghĩa của từ 「方針」 là gì?",
+    "options": [
+      "mục tiêu",
+      "pháp luật",
+      "phương hướng",
+      "phương trình"
+    ],
+    "answer": "mục tiêu"
+  },
+  {
+    "id": "q474",
+    "level": "N2",
+    "lessonId": "n2-54",
+    "question": "Nghĩa của từ 「方程式」 là gì?",
+    "options": [
+      "mục tiêu",
+      "pháp luật",
+      "phương hướng",
+      "phương trình"
+    ],
+    "answer": "phương trình"
+  },
+  {
+    "id": "q475",
+    "level": "N2",
+    "lessonId": "n2-54",
+    "question": "Nghĩa của từ 「方面」 là gì?",
+    "options": [
+      "phương hướng",
+      "mục tiêu",
+      "phương trình",
+      "pháp luật"
+    ],
+    "answer": "phương hướng"
+  },
+  {
+    "id": "q476",
+    "level": "N2",
+    "lessonId": "n2-55",
+    "question": "Nghĩa của từ 「毎度」 là gì?",
+    "options": [
+      "mỗi lần",
+      "con út",
+      "hoặc",
+      "cái gối"
+    ],
+    "answer": "mỗi lần"
+  },
+  {
+    "id": "q477",
+    "level": "N2",
+    "lessonId": "n2-55",
+    "question": "Nghĩa của từ 「枕」 là gì?",
+    "options": [
+      "mỗi lần",
+      "con út",
+      "hoặc",
+      "cái gối"
+    ],
+    "answer": "cái gối"
+  },
+  {
+    "id": "q478",
+    "level": "N2",
+    "lessonId": "n2-55",
+    "question": "Nghĩa của từ 「又は」 là gì?",
+    "options": [
+      "hoặc",
+      "mỗi lần",
+      "cái gối",
+      "con út"
+    ],
+    "answer": "hoặc"
+  },
+  {
+    "id": "q479",
+    "level": "N2",
+    "lessonId": "n2-56",
+    "question": "Nghĩa của từ 「姪」 là gì?",
+    "options": [
+      "cháu gái",
+      "phỏng vấn",
+      "khu vực",
+      "miễn thuế"
+    ],
+    "answer": "cháu gái"
+  },
+  {
+    "id": "q480",
+    "level": "N2",
+    "lessonId": "n2-56",
+    "question": "Nghĩa của từ 「免税」 là gì?",
+    "options": [
+      "cháu gái",
+      "phỏng vấn",
+      "khu vực",
+      "miễn thuế"
+    ],
+    "answer": "miễn thuế"
+  },
+  {
+    "id": "q481",
+    "level": "N2",
+    "lessonId": "n2-56",
+    "question": "Nghĩa của từ 「面積」 là gì?",
+    "options": [
+      "khu vực",
+      "cháu gái",
+      "miễn thuế",
+      "phỏng vấn"
+    ],
+    "answer": "khu vực"
+  },
+  {
+    "id": "q482",
+    "level": "N2",
+    "lessonId": "n2-57",
+    "question": "Nghĩa của từ 「薬局」 là gì?",
+    "options": [
+      "hiệu thuốc",
+      "dịch",
+      "(các) loại thuốc",
+      "ngón đeo nhẫn"
+    ],
+    "answer": "hiệu thuốc"
+  },
+  {
+    "id": "q483",
+    "level": "N2",
+    "lessonId": "n2-57",
+    "question": "Nghĩa của từ 「薬指」 là gì?",
+    "options": [
+      "hiệu thuốc",
+      "dịch",
+      "(các) loại thuốc",
+      "ngón đeo nhẫn"
+    ],
+    "answer": "ngón đeo nhẫn"
+  },
+  {
+    "id": "q484",
+    "level": "N2",
+    "lessonId": "n2-57",
+    "question": "Nghĩa của từ 「薬品」 là gì?",
+    "options": [
+      "(các) loại thuốc",
+      "hiệu thuốc",
+      "ngón đeo nhẫn",
+      "dịch"
+    ],
+    "answer": "(các) loại thuốc"
+  },
+  {
+    "id": "q485",
+    "level": "N2",
+    "lessonId": "n2-58",
+    "question": "Nghĩa của từ 「洋品店」 là gì?",
+    "options": [
+      "cửa hàng bán quần áo và phụ kiện kiểu phương Tây",
+      "tan chảy",
+      "hòa tan (sơn)",
+      "tan chảy"
+    ],
+    "answer": "cửa hàng bán quần áo và phụ kiện kiểu phương Tây"
+  },
+  {
+    "id": "q486",
+    "level": "N2",
+    "lessonId": "n2-58",
+    "question": "Nghĩa của từ 「溶かす」 là gì?",
+    "options": [
+      "cửa hàng bán quần áo và phụ kiện kiểu phương Tây",
+      "tan chảy",
+      "hòa tan (sơn)",
+      "tan chảy"
+    ],
+    "answer": "tan chảy"
+  },
+  {
+    "id": "q487",
+    "level": "N2",
+    "lessonId": "n2-58",
+    "question": "Nghĩa của từ 「溶く」 là gì?",
+    "options": [
+      "hòa tan (sơn)",
+      "cửa hàng bán quần áo và phụ kiện kiểu phương Tây",
+      "tan chảy",
+      "tan chảy"
+    ],
+    "answer": "hòa tan (sơn)"
+  },
+  {
+    "id": "q488",
+    "level": "N2",
+    "lessonId": "n2-59",
+    "question": "Nghĩa của từ 「流石」 là gì?",
+    "options": [
+      "thông minh",
+      "một tiếng thở dài",
+      "tích lũy",
+      "để thu thập"
+    ],
+    "answer": "thông minh"
+  },
+  {
+    "id": "q489",
+    "level": "N2",
+    "lessonId": "n2-59",
+    "question": "Nghĩa của từ 「溜まる」 là gì?",
+    "options": [
+      "thông minh",
+      "một tiếng thở dài",
+      "tích lũy",
+      "để thu thập"
+    ],
+    "answer": "để thu thập"
+  },
+  {
+    "id": "q490",
+    "level": "N2",
+    "lessonId": "n2-59",
+    "question": "Nghĩa của từ 「溜める」 là gì?",
+    "options": [
+      "tích lũy",
+      "thông minh",
+      "để thu thập",
+      "một tiếng thở dài"
+    ],
+    "answer": "tích lũy"
+  },
+  {
+    "id": "q491",
+    "level": "N2",
+    "lessonId": "n2-60",
+    "question": "Nghĩa của từ 「麓」 là gì?",
+    "options": [
+      "bàn chân",
+      "Nhật-Anh",
+      "tranh luận",
+      "(âm thanh) ghi âm"
+    ],
+    "answer": "bàn chân"
+  },
+  {
+    "id": "q492",
+    "level": "N2",
+    "lessonId": "n2-60",
+    "question": "Nghĩa của từ 「録音」 là gì?",
+    "options": [
+      "bàn chân",
+      "Nhật-Anh",
+      "tranh luận",
+      "(âm thanh) ghi âm"
+    ],
+    "answer": "(âm thanh) ghi âm"
+  },
+  {
+    "id": "q493",
+    "level": "N2",
+    "lessonId": "n2-60",
+    "question": "Nghĩa của từ 「論ずる」 là gì?",
+    "options": [
+      "tranh luận",
+      "bàn chân",
+      "(âm thanh) ghi âm",
+      "Nhật-Anh"
+    ],
+    "answer": "tranh luận"
+  }
+]

@@ -1,0 +1,886 @@
+[
+  {
+    "id": "q1",
+    "level": "N5",
+    "lessonId": "n5-1",
+    "question": "Nghĩa của từ 「あさって」 là gì?",
+    "options": [
+      "ngày mốt",
+      "đằng kia",
+      "ở đó",
+      "đằng kia"
+    ],
+    "answer": "ngày mốt"
+  },
+  {
+    "id": "q2",
+    "level": "N5",
+    "lessonId": "n5-1",
+    "question": "Nghĩa của từ 「あそこ」 là gì?",
+    "options": [
+      "ngày mốt",
+      "đằng kia",
+      "ở đó",
+      "đằng kia"
+    ],
+    "answer": "đằng kia"
+  },
+  {
+    "id": "q3",
+    "level": "N5",
+    "lessonId": "n5-1",
+    "question": "Nghĩa của từ 「あちら」 là gì?",
+    "options": [
+      "ở đó",
+      "ngày mốt",
+      "đằng kia",
+      "đằng kia"
+    ],
+    "answer": "ở đó"
+  },
+  {
+    "id": "q4",
+    "level": "N5",
+    "lessonId": "n5-2",
+    "question": "Nghĩa của từ 「お兄さん」 là gì?",
+    "options": [
+      "(danh dự) anh trai",
+      "phòng tắm",
+      "(danh dự) chị gái",
+      "tấm"
+    ],
+    "answer": "(danh dự) anh trai"
+  },
+  {
+    "id": "q5",
+    "level": "N5",
+    "lessonId": "n5-2",
+    "question": "Nghĩa của từ 「お皿」 là gì?",
+    "options": [
+      "(danh dự) anh trai",
+      "phòng tắm",
+      "(danh dự) chị gái",
+      "tấm"
+    ],
+    "answer": "tấm"
+  },
+  {
+    "id": "q6",
+    "level": "N5",
+    "lessonId": "n5-2",
+    "question": "Nghĩa của từ 「お姉さん」 là gì?",
+    "options": [
+      "(danh dự) chị gái",
+      "(danh dự) anh trai",
+      "tấm",
+      "phòng tắm"
+    ],
+    "answer": "(danh dự) chị gái"
+  },
+  {
+    "id": "q7",
+    "level": "N5",
+    "lessonId": "n5-3",
+    "question": "Nghĩa của từ 「こっち」 là gì?",
+    "options": [
+      "người này hoặc cách này",
+      "sao chép",
+      "cái này",
+      "một cái ly"
+    ],
+    "answer": "người này hoặc cách này"
+  },
+  {
+    "id": "q8",
+    "level": "N5",
+    "lessonId": "n5-3",
+    "question": "Nghĩa của từ 「コップ」 là gì?",
+    "options": [
+      "người này hoặc cách này",
+      "sao chép",
+      "cái này",
+      "một cái ly"
+    ],
+    "answer": "một cái ly"
+  },
+  {
+    "id": "q9",
+    "level": "N5",
+    "lessonId": "n5-3",
+    "question": "Nghĩa của từ 「この」 là gì?",
+    "options": [
+      "cái này",
+      "người này hoặc cách này",
+      "một cái ly",
+      "sao chép"
+    ],
+    "answer": "cái này"
+  },
+  {
+    "id": "q10",
+    "level": "N5",
+    "lessonId": "n5-4",
+    "question": "Nghĩa của từ 「それ」 là gì?",
+    "options": [
+      "đó",
+      "rất",
+      "trong tình huống đó",
+      "sau đó"
+    ],
+    "answer": "đó"
+  },
+  {
+    "id": "q11",
+    "level": "N5",
+    "lessonId": "n5-4",
+    "question": "Nghĩa của từ 「それから」 là gì?",
+    "options": [
+      "đó",
+      "rất",
+      "trong tình huống đó",
+      "sau đó"
+    ],
+    "answer": "sau đó"
+  },
+  {
+    "id": "q12",
+    "level": "N5",
+    "lessonId": "n5-4",
+    "question": "Nghĩa của từ 「それでは」 là gì?",
+    "options": [
+      "trong tình huống đó",
+      "đó",
+      "sau đó",
+      "rất"
+    ],
+    "answer": "trong tình huống đó"
+  },
+  {
+    "id": "q13",
+    "level": "N5",
+    "lessonId": "n5-5",
+    "question": "Nghĩa của từ 「どこ」 là gì?",
+    "options": [
+      "ở đâu",
+      "rất",
+      "cái nào",
+      "cái nào trong hai cái"
+    ],
+    "answer": "ở đâu"
+  },
+  {
+    "id": "q14",
+    "level": "N5",
+    "lessonId": "n5-5",
+    "question": "Nghĩa của từ 「どちら」 là gì?",
+    "options": [
+      "ở đâu",
+      "rất",
+      "cái nào",
+      "cái nào trong hai cái"
+    ],
+    "answer": "cái nào trong hai cái"
+  },
+  {
+    "id": "q15",
+    "level": "N5",
+    "lessonId": "n5-5",
+    "question": "Nghĩa của từ 「どっち」 là gì?",
+    "options": [
+      "cái nào",
+      "ở đâu",
+      "cái nào trong hai cái",
+      "rất"
+    ],
+    "answer": "cái nào"
+  },
+  {
+    "id": "q16",
+    "level": "N5",
+    "lessonId": "n5-6",
+    "question": "Nghĩa của từ 「ペン」 là gì?",
+    "options": [
+      "cây bút",
+      "túi",
+      "khác",
+      "bút bi"
+    ],
+    "answer": "cây bút"
+  },
+  {
+    "id": "q17",
+    "level": "N5",
+    "lessonId": "n5-6",
+    "question": "Nghĩa của từ 「ボールペン」 là gì?",
+    "options": [
+      "cây bút",
+      "túi",
+      "khác",
+      "bút bi"
+    ],
+    "answer": "bút bi"
+  },
+  {
+    "id": "q18",
+    "level": "N5",
+    "lessonId": "n5-6",
+    "question": "Nghĩa của từ 「ほか」 là gì?",
+    "options": [
+      "khác",
+      "cây bút",
+      "bút bi",
+      "túi"
+    ],
+    "answer": "khác"
+  },
+  {
+    "id": "q19",
+    "level": "N5",
+    "lessonId": "n5-7",
+    "question": "Nghĩa của từ 「安い」 là gì?",
+    "options": [
+      "giá rẻ",
+      "dễ dàng",
+      "ý nghĩa",
+      "ảm đạm"
+    ],
+    "answer": "giá rẻ"
+  },
+  {
+    "id": "q20",
+    "level": "N5",
+    "lessonId": "n5-7",
+    "question": "Nghĩa của từ 「暗い」 là gì?",
+    "options": [
+      "giá rẻ",
+      "dễ dàng",
+      "ý nghĩa",
+      "ảm đạm"
+    ],
+    "answer": "ảm đạm"
+  },
+  {
+    "id": "q21",
+    "level": "N5",
+    "lessonId": "n5-7",
+    "question": "Nghĩa của từ 「意味」 là gì?",
+    "options": [
+      "ý nghĩa",
+      "giá rẻ",
+      "ảm đạm",
+      "dễ dàng"
+    ],
+    "answer": "ý nghĩa"
+  },
+  {
+    "id": "q22",
+    "level": "N5",
+    "lessonId": "n5-8",
+    "question": "Nghĩa của từ 「横」 là gì?",
+    "options": [
+      "bên cạnh",
+      "ấm áp",
+      "màu vàng",
+      "màu vàng"
+    ],
+    "answer": "bên cạnh"
+  },
+  {
+    "id": "q23",
+    "level": "N5",
+    "lessonId": "n5-8",
+    "question": "Nghĩa của từ 「黄色」 là gì?",
+    "options": [
+      "bên cạnh",
+      "ấm áp",
+      "màu vàng",
+      "màu vàng"
+    ],
+    "answer": "màu vàng"
+  },
+  {
+    "id": "q24",
+    "level": "N5",
+    "lessonId": "n5-8",
+    "question": "Nghĩa của từ 「黄色い」 là gì?",
+    "options": [
+      "màu vàng",
+      "bên cạnh",
+      "màu vàng",
+      "ấm áp"
+    ],
+    "answer": "màu vàng"
+  },
+  {
+    "id": "q25",
+    "level": "N5",
+    "lessonId": "n5-9",
+    "question": "Nghĩa của từ 「外」 là gì?",
+    "options": [
+      "bên ngoài",
+      "để nhớ",
+      "người nước ngoài",
+      "nước ngoài"
+    ],
+    "answer": "bên ngoài"
+  },
+  {
+    "id": "q26",
+    "level": "N5",
+    "lessonId": "n5-9",
+    "question": "Nghĩa của từ 「外国」 là gì?",
+    "options": [
+      "bên ngoài",
+      "để nhớ",
+      "người nước ngoài",
+      "nước ngoài"
+    ],
+    "answer": "nước ngoài"
+  },
+  {
+    "id": "q27",
+    "level": "N5",
+    "lessonId": "n5-9",
+    "question": "Nghĩa của từ 「外国人」 là gì?",
+    "options": [
+      "người nước ngoài",
+      "bên ngoài",
+      "nước ngoài",
+      "để nhớ"
+    ],
+    "answer": "người nước ngoài"
+  },
+  {
+    "id": "q28",
+    "level": "N5",
+    "lessonId": "n5-10",
+    "question": "Nghĩa của từ 「狭い」 là gì?",
+    "options": [
+      "thu hẹp",
+      "gần",
+      "làm việc cho ai đó",
+      "quay lại"
+    ],
+    "answer": "thu hẹp"
+  },
+  {
+    "id": "q29",
+    "level": "N5",
+    "lessonId": "n5-10",
+    "question": "Nghĩa của từ 「曲る」 là gì?",
+    "options": [
+      "thu hẹp",
+      "gần",
+      "làm việc cho ai đó",
+      "quay lại"
+    ],
+    "answer": "quay lại"
+  },
+  {
+    "id": "q30",
+    "level": "N5",
+    "lessonId": "n5-10",
+    "question": "Nghĩa của từ 「勤める」 là gì?",
+    "options": [
+      "làm việc cho ai đó",
+      "thu hẹp",
+      "quay lại",
+      "gần"
+    ],
+    "answer": "làm việc cho ai đó"
+  },
+  {
+    "id": "q31",
+    "level": "N5",
+    "lessonId": "n5-11",
+    "question": "Nghĩa của từ 「古い」 là gì?",
+    "options": [
+      "cũ (không dùng cho người)",
+      "năm",
+      "cửa phong cách nhật bản",
+      "để gọi ra"
+    ],
+    "answer": "cũ (không dùng cho người)"
+  },
+  {
+    "id": "q32",
+    "level": "N5",
+    "lessonId": "n5-11",
+    "question": "Nghĩa của từ 「呼ぶ」 là gì?",
+    "options": [
+      "cũ (không dùng cho người)",
+      "năm",
+      "cửa phong cách nhật bản",
+      "để gọi ra"
+    ],
+    "answer": "để gọi ra"
+  },
+  {
+    "id": "q33",
+    "level": "N5",
+    "lessonId": "n5-11",
+    "question": "Nghĩa của từ 「戸」 là gì?",
+    "options": [
+      "cửa phong cách nhật bản",
+      "cũ (không dùng cho người)",
+      "để gọi ra",
+      "năm"
+    ],
+    "answer": "cửa phong cách nhật bản"
+  },
+  {
+    "id": "q34",
+    "level": "N5",
+    "lessonId": "n5-12",
+    "question": "Nghĩa của từ 「今朝」 là gì?",
+    "options": [
+      "sáng nay",
+      "tối nay",
+      "năm nay",
+      "hôm nay"
+    ],
+    "answer": "sáng nay"
+  },
+  {
+    "id": "q35",
+    "level": "N5",
+    "lessonId": "n5-12",
+    "question": "Nghĩa của từ 「今日」 là gì?",
+    "options": [
+      "sáng nay",
+      "tối nay",
+      "năm nay",
+      "hôm nay"
+    ],
+    "answer": "hôm nay"
+  },
+  {
+    "id": "q36",
+    "level": "N5",
+    "lessonId": "n5-12",
+    "question": "Nghĩa của từ 「今年」 là gì?",
+    "options": [
+      "năm nay",
+      "sáng nay",
+      "hôm nay",
+      "tối nay"
+    ],
+    "answer": "năm nay"
+  },
+  {
+    "id": "q37",
+    "level": "N5",
+    "lessonId": "n5-13",
+    "question": "Nghĩa của từ 「姉」 là gì?",
+    "options": [
+      "(khiêm tốn) chị gái",
+      "chết",
+      "dừng lại",
+      "đứa trẻ"
+    ],
+    "answer": "(khiêm tốn) chị gái"
+  },
+  {
+    "id": "q38",
+    "level": "N5",
+    "lessonId": "n5-13",
+    "question": "Nghĩa của từ 「子供」 là gì?",
+    "options": [
+      "(khiêm tốn) chị gái",
+      "chết",
+      "dừng lại",
+      "đứa trẻ"
+    ],
+    "answer": "đứa trẻ"
+  },
+  {
+    "id": "q39",
+    "level": "N5",
+    "lessonId": "n5-13",
+    "question": "Nghĩa của từ 「止まる」 là gì?",
+    "options": [
+      "dừng lại",
+      "(khiêm tốn) chị gái",
+      "đứa trẻ",
+      "chết"
+    ],
+    "answer": "dừng lại"
+  },
+  {
+    "id": "q40",
+    "level": "N5",
+    "lessonId": "n5-14",
+    "question": "Nghĩa của từ 「授業」 là gì?",
+    "options": [
+      "bài học",
+      "học",
+      "để kết thúc",
+      "mùa thu"
+    ],
+    "answer": "bài học"
+  },
+  {
+    "id": "q41",
+    "level": "N5",
+    "lessonId": "n5-14",
+    "question": "Nghĩa của từ 「秋」 là gì?",
+    "options": [
+      "bài học",
+      "học",
+      "để kết thúc",
+      "mùa thu"
+    ],
+    "answer": "mùa thu"
+  },
+  {
+    "id": "q42",
+    "level": "N5",
+    "lessonId": "n5-14",
+    "question": "Nghĩa của từ 「終る」 là gì?",
+    "options": [
+      "để kết thúc",
+      "bài học",
+      "mùa thu",
+      "học"
+    ],
+    "answer": "để kết thúc"
+  },
+  {
+    "id": "q43",
+    "level": "N5",
+    "lessonId": "n5-15",
+    "question": "Nghĩa của từ 「上着」 là gì?",
+    "options": [
+      "áo khoác",
+      "màu sắc",
+      "để tiếp tục",
+      "mạnh mẽ"
+    ],
+    "answer": "áo khoác"
+  },
+  {
+    "id": "q44",
+    "level": "N5",
+    "lessonId": "n5-15",
+    "question": "Nghĩa của từ 「丈夫」 là gì?",
+    "options": [
+      "áo khoác",
+      "màu sắc",
+      "để tiếp tục",
+      "mạnh mẽ"
+    ],
+    "answer": "mạnh mẽ"
+  },
+  {
+    "id": "q45",
+    "level": "N5",
+    "lessonId": "n5-15",
+    "question": "Nghĩa của từ 「乗る」 là gì?",
+    "options": [
+      "để tiếp tục",
+      "áo khoác",
+      "mạnh mẽ",
+      "màu sắc"
+    ],
+    "answer": "để tiếp tục"
+  },
+  {
+    "id": "q46",
+    "level": "N5",
+    "lessonId": "n5-16",
+    "question": "Nghĩa của từ 「雪」 là gì?",
+    "options": [
+      "tuyết",
+      "tuần trước",
+      "tháng trước",
+      "tương lai"
+    ],
+    "answer": "tuyết"
+  },
+  {
+    "id": "q47",
+    "level": "N5",
+    "lessonId": "n5-16",
+    "question": "Nghĩa của từ 「先」 là gì?",
+    "options": [
+      "tuyết",
+      "tuần trước",
+      "tháng trước",
+      "tương lai"
+    ],
+    "answer": "tương lai"
+  },
+  {
+    "id": "q48",
+    "level": "N5",
+    "lessonId": "n5-16",
+    "question": "Nghĩa của từ 「先月」 là gì?",
+    "options": [
+      "tháng trước",
+      "tuyết",
+      "tương lai",
+      "tuần trước"
+    ],
+    "answer": "tháng trước"
+  },
+  {
+    "id": "q49",
+    "level": "N5",
+    "lessonId": "n5-17",
+    "question": "Nghĩa của từ 「大人」 là gì?",
+    "options": [
+      "người lớn",
+      "cởi quần áo",
+      "quan trọng",
+      "số lượng lớn người"
+    ],
+    "answer": "người lớn"
+  },
+  {
+    "id": "q50",
+    "level": "N5",
+    "lessonId": "n5-17",
+    "question": "Nghĩa của từ 「大勢」 là gì?",
+    "options": [
+      "người lớn",
+      "cởi quần áo",
+      "quan trọng",
+      "số lượng lớn người"
+    ],
+    "answer": "số lượng lớn người"
+  },
+  {
+    "id": "q51",
+    "level": "N5",
+    "lessonId": "n5-17",
+    "question": "Nghĩa của từ 「大切」 là gì?",
+    "options": [
+      "quan trọng",
+      "người lớn",
+      "số lượng lớn người",
+      "cởi quần áo"
+    ],
+    "answer": "quan trọng"
+  },
+  {
+    "id": "q52",
+    "level": "N5",
+    "lessonId": "n5-18",
+    "question": "Nghĩa của từ 「庭」 là gì?",
+    "options": [
+      "vườn",
+      "thời tiết",
+      "buộc",
+      "em trai"
+    ],
+    "answer": "vườn"
+  },
+  {
+    "id": "q53",
+    "level": "N5",
+    "lessonId": "n5-18",
+    "question": "Nghĩa của từ 「弟」 là gì?",
+    "options": [
+      "vườn",
+      "thời tiết",
+      "buộc",
+      "em trai"
+    ],
+    "answer": "em trai"
+  },
+  {
+    "id": "q54",
+    "level": "N5",
+    "lessonId": "n5-18",
+    "question": "Nghĩa của từ 「締める」 là gì?",
+    "options": [
+      "buộc",
+      "vườn",
+      "em trai",
+      "thời tiết"
+    ],
+    "answer": "buộc"
+  },
+  {
+    "id": "q55",
+    "level": "N5",
+    "lessonId": "n5-19",
+    "question": "Nghĩa của từ 「二十日」 là gì?",
+    "options": [
+      "hai mươi ngày",
+      "nhộn nhịp",
+      "hai ngày",
+      "hai người"
+    ],
+    "answer": "hai mươi ngày"
+  },
+  {
+    "id": "q56",
+    "level": "N5",
+    "lessonId": "n5-19",
+    "question": "Nghĩa của từ 「二人」 là gì?",
+    "options": [
+      "hai mươi ngày",
+      "nhộn nhịp",
+      "hai ngày",
+      "hai người"
+    ],
+    "answer": "hai người"
+  },
+  {
+    "id": "q57",
+    "level": "N5",
+    "lessonId": "n5-19",
+    "question": "Nghĩa của từ 「二日」 là gì?",
+    "options": [
+      "hai ngày",
+      "hai mươi ngày",
+      "hai người",
+      "nhộn nhịp"
+    ],
+    "answer": "hai ngày"
+  },
+  {
+    "id": "q58",
+    "level": "N5",
+    "lessonId": "n5-20",
+    "question": "Nghĩa của từ 「晩」 là gì?",
+    "options": [
+      "buổi tối",
+      "mệt mỏi",
+      "con số",
+      "bữa tối"
+    ],
+    "answer": "buổi tối"
+  },
+  {
+    "id": "q59",
+    "level": "N5",
+    "lessonId": "n5-20",
+    "question": "Nghĩa của từ 「晩御飯」 là gì?",
+    "options": [
+      "buổi tối",
+      "mệt mỏi",
+      "con số",
+      "bữa tối"
+    ],
+    "answer": "bữa tối"
+  },
+  {
+    "id": "q60",
+    "level": "N5",
+    "lessonId": "n5-20",
+    "question": "Nghĩa của từ 「番号」 là gì?",
+    "options": [
+      "con số",
+      "buổi tối",
+      "bữa tối",
+      "mệt mỏi"
+    ],
+    "answer": "con số"
+  },
+  {
+    "id": "q61",
+    "level": "N5",
+    "lessonId": "n5-21",
+    "question": "Nghĩa của từ 「忘れる」 là gì?",
+    "options": [
+      "quên",
+      "cuốn sách",
+      "phía bắc",
+      "bận rộn"
+    ],
+    "answer": "quên"
+  },
+  {
+    "id": "q62",
+    "level": "N5",
+    "lessonId": "n5-21",
+    "question": "Nghĩa của từ 「忙しい」 là gì?",
+    "options": [
+      "quên",
+      "cuốn sách",
+      "phía bắc",
+      "bận rộn"
+    ],
+    "answer": "bận rộn"
+  },
+  {
+    "id": "q63",
+    "level": "N5",
+    "lessonId": "n5-21",
+    "question": "Nghĩa của từ 「北」 là gì?",
+    "options": [
+      "phía bắc",
+      "quên",
+      "bận rộn",
+      "cuốn sách"
+    ],
+    "answer": "phía bắc"
+  },
+  {
+    "id": "q64",
+    "level": "N5",
+    "lessonId": "n5-22",
+    "question": "Nghĩa của từ 「遊ぶ」 là gì?",
+    "options": [
+      "chơi",
+      "buổi tối",
+      "bữa tối",
+      "bưu điện"
+    ],
+    "answer": "chơi"
+  },
+  {
+    "id": "q65",
+    "level": "N5",
+    "lessonId": "n5-22",
+    "question": "Nghĩa của từ 「郵便局」 là gì?",
+    "options": [
+      "chơi",
+      "buổi tối",
+      "bữa tối",
+      "bưu điện"
+    ],
+    "answer": "bưu điện"
+  },
+  {
+    "id": "q66",
+    "level": "N5",
+    "lessonId": "n5-22",
+    "question": "Nghĩa của từ 「夕飯」 là gì?",
+    "options": [
+      "bữa tối",
+      "chơi",
+      "bưu điện",
+      "buổi tối"
+    ],
+    "answer": "bữa tối"
+  },
+  {
+    "id": "q67",
+    "level": "N5",
+    "lessonId": "n5-23",
+    "question": "Nghĩa của từ 「話」 là gì?",
+    "options": [
+      "nói chuyện",
+      "không áp dụng",
+      "không áp dụng",
+      "nói chuyện"
+    ],
+    "answer": "nói chuyện"
+  },
+  {
+    "id": "q68",
+    "level": "N5",
+    "lessonId": "n5-23",
+    "question": "Nghĩa của từ 「話す」 là gì?",
+    "options": [
+      "nói chuyện",
+      "không áp dụng",
+      "không áp dụng",
+      "nói chuyện"
+    ],
+    "answer": "nói chuyện"
+  }
+]
